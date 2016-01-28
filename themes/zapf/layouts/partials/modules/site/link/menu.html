@@ -1,3 +1,8 @@
 {{ range .Site.Data.Menu }}
 <a href="{{ .URL | absURL }}"{{ if and ( isset . "Title" ) ( ne .Title "" ) }} title="{{ .Title }}"{{ end }}>{{ .Name }}</a>
+<nav style="padding-left: 2em">
+  {{ range sort .Submenu }}
+  <a href="{{ .URL | absURL }}"{{ if and ( isset . "Title" ) ( ne .Title "" ) }} title="{{ .Title }}"{{ end }}>{{ .Name }}</a>
+  {{ end }}
+</nav>
 {{ end }}

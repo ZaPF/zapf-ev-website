@@ -1,0 +1,44 @@
+zapf:
+  Name: "Die ZaPF"
+  URL: "/zapf"
+  Submenu:
+    Berichte:
+      Name: "Berichte"
+      URL: "/zapf/berichte"
+    Fachschaften:
+      Name: "Fachschaften"
+      URL: "/zapf/fachschaften"
+    GO:
+      Name: "Geschäftsordnung"
+      URL: "/zapf/go"
+    Reader:
+      Name: "Reader"
+      URL: "/zapf/reader"
+    Resolutionen:
+      Name: "Resolutionen"
+      URL: "/zapf/resolutionen"
+    Satzung:
+      Name: "Satzung"
+      URL: "/zapf/satzung"
+    StAPF:
+      Name: "StAPF"
+      URL: "/zapf/stapf"
+    studienfuehrer:
+      Name: "Studienführer"
+      URL: "/zapf/studienfuehrer"
+
+verein:
+  Name: "Der Verein"
+  URL: "/verein"
+  Submenu:
+    Satzung:
+      Name: "Satzung"
+      URL: "/verein/satzung"
+    Kontakt:
+      Name: "Kontakt"
+      URL: "/verein/kontakt"
+    Mitgliederversammlung:
+      Name: "Mitgliederversammlung"
+      URL: "/verein/mitgliederversammlung"
+
+
