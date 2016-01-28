@@ -1,0 +1,26 @@
+baseurl = "http://www.zapfev.de/"
+languageCode = "de-DE"
+title = "ZaPF e.V."
+
+theme="zapf"
+
+[params]
+    # You can use markdown here.
+    brand = "ZaPF"
+    topline = "Zusammenkunft aller Physik-Fachschaften"
+    footline = "code with <i class='fa fa-heart'></i>"
+
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "Home"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Sidebar social links.
+    github = "enten/hugo-boilerplate" # Your Github profile ID
