@@ -1,10 +1,8 @@
 +++
-date = "2016-01-28T19:37:30+01:00"
-draft = true
+date = "2016-01-28T22:50:40+01:00"
 title = "Satzung der ZaPF"
 
 +++
-
 
 ## §1 Name
 
@@ -63,5 +61,4 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2013 in Jena
 - Sommer-ZaPF 2014 in Düsseldorf
 - Winter-ZaPF 2014 in Bremen
-
-und auf der Sommer-ZaPF in Aachen
+- und auf der Sommer-ZaPF in Aachen

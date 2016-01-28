@@ -1,6 +1,5 @@
 +++
-draft = true
-title = "kontakt"
-
+title = "Kontakt"
 +++
 
+(todo)

@@ -1,9 +1,7 @@
 +++
-title = "ZaPF"
+title = "Zusammenkunft aller Physik-Fachschaften"
 menu = "main"
 +++
-
-# Zusammenkunft aller Physik-Fachschaften
 
 Die Zusammenkunft aller deutschsprachigen Physik-Fachschaften, kurz ZaPF, ist die deutsche Bundesfachschaftstagung für die Physik. Gleichzeitig versteht sich die ZaPF eben auch als die Zusammenkunft aller deutschsprachigen Fachschaften, also gehören auch die Fachschaften aus der Schweiz und Österreich dazu! Als Vertretung zwischen den halbjährlich stattfindenden ZaPFen wird auf jeder ZaPF der StAPF gewählt, der die ZaPF vertritt.
 

@@ -1,8 +1,6 @@
 +++
 date = "2016-01-28T19:26:02+01:00"
-draft = true
 title = "Geschäftsordnung für Plenen der ZaPF"
-
 +++
 
 Begriffe und Regelungen, die im Anhang kommentiert oder erklärt werden, sind

@@ -1,10 +1,7 @@
 +++
-date = "2016-01-28T19:48:15+01:00"
-draft = true
+date = "2016-01-28T22:50:11+01:00"
 title = "Tagungs-Reader der ZaPF"
-
 +++
-
 
 Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
