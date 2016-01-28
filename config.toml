@@ -6,7 +6,7 @@ theme="zapf"
 
 [params]
     # You can use markdown here.
-    brand = "ZaPF"
+    brand = "ZaPF e.V."
     topline = "Zusammenkunft aller Physik-Fachschaften"
     footline = "code with <i class='fa fa-heart'></i>"
 
@@ -23,4 +23,4 @@ theme="zapf"
     highlight = "default"
 
     # Sidebar social links.
-    github = "enten/hugo-boilerplate" # Your Github profile ID
+    github = "ZaPF" # Your Github profile ID
