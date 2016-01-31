@@ -309,9 +309,9 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Winter-ZaPF 2014 in Bremen.
 - und auf der Sommer-ZaPF 2015 in Aachen.
 
-# Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
+## Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
 
-## Geschäftsordnungsanträge
+### Geschäftsordnungsanträge
 
 Geschäftsordnungsanträge sind dazu gedacht, zu verhindern, dass eine Diskussion
 sich ins Absurde zieht. Sie sind mit äußerster Vorsicht anzuwenden und sind
@@ -349,11 +349,11 @@ angenommen werden.
 Formale Gegenrede bedeutet nur bekanntzugeben, dass man dagegen ist, inhaltliche
 Gegenrede beinhaltet eine Begründung.
 
-## Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften
+### Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften
 
 Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachschaften.
 
-## Mindestanzahl von Ja-Stimmen bei Personenzahlen
+### Mindestanzahl von Ja-Stimmen bei Personenzahlen
 
 Das Minimum von acht Ja-Stimmen bewirkt, dass Kandidatinnen und Kandidaten
 mindestens die absolute Mehrheit der zur Beschlussfähigkeit notwendigen Stimmen
