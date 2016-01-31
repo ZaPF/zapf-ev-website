@@ -1,6 +1,6 @@
 +++
 title = "ZaPF e.v."
-
+type  = "home"
 +++
 
 Herzlich Willkommen auf der Website zapfev.de! Hier finden Sie Informationen zur Zusammenkunft aller Physik-Fachschaften, kurz ZaPF und zu dem Verein, der die Austragung dieser Zusammenkünfte fördert.
