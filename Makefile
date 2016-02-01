@@ -9,7 +9,7 @@ INPUTS += content/
 
 .PHONY: all test clean clean
 
-FAVICON := static/favicon.png
+FAVICON := static/favicon.ico
 FAVICON_SVG := resources/img/favicon.svg
 
 all: ${OUTPUT_DIR}
@@ -22,11 +22,6 @@ $(FAVICON): $(FAVICON_SVG)
 	\( -clone 0 -resize 64x64 \) \
 	-delete 0 -alpha off -colors 256 $@
 
-static:
-	mkdir -p static
-
-layouts:
-	mkdir -p layouts
 
 basedir: $(FAVICON)
 	@echo "Createing output dir: ${OUTPUT_DIR}"
