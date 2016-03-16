@@ -103,7 +103,7 @@ Der StAPF wählt sich aus seiner Mitte einen Sprecher.
 Sollte kein StAPF gewählt werden übernimmt das Plenum der ZaPF die Aufgaben
 des StAPF.
 
-### (c) Die Vertrauenspersonen
+### ((c)) Die Vertrauenspersonen
 
 Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende Personen, die
 Ausgrenzung, Diskriminierung oder Belästigung im Rahmen der ZaPF erfahren haben.
