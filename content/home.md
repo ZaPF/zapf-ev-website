@@ -10,5 +10,3 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Die nächste ZaPF findet vom *04. bis 08.05.2016* in *Konstanz* statt. Mehr Informationen gibt es hier.
 
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt Der Verein genauer vorgestellt.
-
-An dieser Stelle möchten wir Sie auch gerne auf unsere Neuigkeiten hinweisen.
