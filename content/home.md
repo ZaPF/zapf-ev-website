@@ -7,6 +7,6 @@ Herzlich Willkommen auf der Website *zapfev.de*! Hier finden Sie Informationen z
 
 Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprachigen) Physik-Fachschaften gemeint. Sie findet halbjährlich an einer Hochschule im deutschsprachigen Raum statt. Weitere Informationen finden sich unter dem Menüpunkt Die ZaPF.
 
-Die nächste ZaPF findet vom *04. bis 08.05.2016* in *Konstanz* statt. Mehr Informationen gibt es hier.
+Die nächste ZaPF findet vom *04. bis 08.05.2016* in *Konstanz* statt. Mehr Informationen gibt es [hier](https://zapf.uni-konstanz.de/ "ZaPF am See 2016").
 
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt Der Verein genauer vorgestellt.
