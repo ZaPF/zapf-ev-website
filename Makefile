@@ -4,7 +4,6 @@ OUTPUT_DIR := public
 SOURCE_DIR := ./
 
 INPUTS := static/
-INPUTS += layouts/
 INPUTS += content/
 
 .PHONY: all test clean clean
