@@ -3,4 +3,4 @@
 	url = https://github.com/ZaPF/ZaPF_Reader.git
 [submodule "static/resolutionen"]
 	path = static/resolutionen
-	url = git@github.com:ZaPF/ZaPF_Resos.git
+	url = https://github.com/ZaPF/ZaPF_Resos.git
