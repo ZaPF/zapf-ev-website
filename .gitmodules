@@ -1,3 +1,6 @@
 [submodule "static/reader"]
 	path = static/reader
 	url = https://github.com/ZaPF/ZaPF_Reader.git
+[submodule "static/resolutionen"]
+	path = static/resolutionen
+	url = git@github.com:ZaPF/ZaPF_Resos.git
