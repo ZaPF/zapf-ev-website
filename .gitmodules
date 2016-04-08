@@ -4,3 +4,6 @@
 [submodule "static/resolutionen"]
 	path = static/resolutionen
 	url = https://github.com/ZaPF/ZaPF_Resos.git
+[submodule "static/berichte"]
+	path = static/berichte
+	url = https://github.com/ZaPF/ZaPF_Berichte.git
