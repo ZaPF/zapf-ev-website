@@ -14,4 +14,5 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Positionspapier zu Übungskonzepten](/resolutionen/sose15/Positionspapier_Uebungskonzepte/Positionspapier_SoSe15_Uebungskonzepte.pdf) | 31.05.2015 |
 | [Positionspapier zum Rücktritt von Prüfungen](/resolutionen/sose15/Positionspapier_Ruecktritt_von_Pruefungen/Positionspapier_SoSe15_Ruecktritt_von_Pruefungen.pdf) | 31.05.2015 |
 | [Resolution zur qualitativen Umsetzung von eduroam und anderen hochschulöffentlichen Netzwerken an allen Hochschulen](/resolutionen/sose15/Netzneutralitaet_in_Universitaetsnetzen/Resolution_SoSe15_Netzneutralität_in_Universitätsnetzen.pdf) | 31.05.2015 |
-| [Positionspapier zu Lernzentren](/resolutionen/wise14/Positionspapier_zu_Lernzentren/Positionspapier_WiSe14_Lernzentrum.pdf) | 23.11.2015 |
+| [Positionspapier zu Lernzentren](/resolutionen/wise14/Positionspapier_zu_Lernzentren/Positionspapier_WiSe14_Lernzentrum.pdf) | 23.11.2014 |
+
