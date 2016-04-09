@@ -4,7 +4,6 @@ OUTPUT_DIR := public
 SOURCE_DIR := ./
 
 INPUTS := static/
-INPUTS += layouts/
 INPUTS += content/
 
 .PHONY: all test clean clean
@@ -13,6 +12,8 @@ FAVICON := static/favicon.ico
 FAVICON_SVG := resources/img/favicon.svg
 
 all: ${OUTPUT_DIR}
+	git submodule init
+	git submodule update
 
 $(FAVICON): $(FAVICON_SVG)
 	convert $<  -bordercolor white -border 0 \
@@ -36,3 +37,4 @@ test:
 clean:
 	@rm -rf $(FAVICON)
 	@rm -rf ${OUTPUT_DIR} public
+	@git submodule deinit
