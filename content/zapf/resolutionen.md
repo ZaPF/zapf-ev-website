@@ -10,6 +10,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Stellungnahme zur Transparenz in der Drittmittelforschung](/resolutionen/wise15/Transparenz_in_der_Drittmittelforschung/Stellungnahme_WiSe15_Transparenz_in_der_Drittmittelforschung.pdf) | 22.11.2015 |
 | [Stellungnahme zum Bildungszugang von Geflüchteten](/resolutionen/wise15/Geflüchtete_an_Hochschulen/Stellungnahem_WiSe15_Bildungszugang_fuer_Gefluechtete.pdf) | 22.11.2015 |
 | [Positionspapier zu barrierefreiem Studieren](/resolutionen/wise15/Barrierefreies_Studieren/Positionspapier_WiSe15_barrierefreies_Studieren.pdf) | 22.11.2015 |
+| [Positionspapier zur Darstellung des CHE-Rankings](/resolutionen/wise15/CHE/Positionspapier_WiSe15_CHE.pdf) | 22.11.2015 |
 | [Stellungnahme zur Umsetzung von elektronischen Studierendenausweisen](/resolutionen/sose15/Umsetzung_von_elektronischen_Studierendenausweisen/Resolution_SoSe15_Umsetzung_von_elektronischen_Studierendenausweisen.pdf) | 31.05.2015 |
 | [Positionspapier zu Übungskonzepten](/resolutionen/sose15/Positionspapier_Uebungskonzepte/Positionspapier_SoSe15_Uebungskonzepte.pdf) | 31.05.2015 |
 | [Positionspapier zum Rücktritt von Prüfungen](/resolutionen/sose15/Positionspapier_Ruecktritt_von_Pruefungen/Positionspapier_SoSe15_Ruecktritt_von_Pruefungen.pdf) | 31.05.2015 |
