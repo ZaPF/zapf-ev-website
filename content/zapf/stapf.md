@@ -9,7 +9,6 @@ Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die 
 
 Der StAPF besteht aktuell aus den folgenden Studierenden:
 
-**todo**
 
 In der Amtsperiode Winter 2015 bis Winter 2016 (Gewählt: 22.11.2015 auf dem Abschlussplenum der Winter-ZaPF 2015 in Frankfurt): Karola Schulz und Katharina Meixner
 
