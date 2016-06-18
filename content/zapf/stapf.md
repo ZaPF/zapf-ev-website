@@ -1,4 +1,4 @@
-+++
+﻿+++
 date = "2016-01-28T19:37:21+01:00"
 title = "StAPF"
 +++
@@ -11,9 +11,9 @@ Der StAPF besteht aktuell aus den folgenden Studierenden:
 
 **todo**
 
-In der Amtsperiode Sommer 2015 bis Sommer 2016 (Gewählt: 31.05.2015 auf dem Abschlussplenum der Sommer-ZaPF 2015 in Aachen): Adriana Röttger, Björn Guth und Jakob Schnell
-
 In der Amtsperiode Winter 2015 bis Winter 2016 (Gewählt: 22.11.2015 auf dem Abschlussplenum der Winter-ZaPF 2015 in Frankfurt): Karola Schulz und Katharina Meixner
+
+In der Amtsperiode Sommer 2016 bis Sommer 2017 (Gewählt: 08.05.2016 auf dem Abschlussplenum der Sommer-ZaPF 2016 in Konstanz): Maria Schlungbaum, Lukian Bottke, Andre Kreuzburg
 
 ## Mehr Informationen und Kontakt
 

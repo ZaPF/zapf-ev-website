@@ -1,3 +1,4 @@
 public
 *.swp
+**/Thumbs.db
 static/favicon.ico
