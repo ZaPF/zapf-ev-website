@@ -40,5 +40,8 @@ verein:
     Mitgliederversammlung:
       Name: "Mitgliederversammlung"
       URL: "/verein/mitgliederversammlung"
+    Vorstand:
+      Name: "Vorstand"
+      URL: "/verein/vorstand"
 
 
