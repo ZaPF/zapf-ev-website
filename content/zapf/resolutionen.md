@@ -1,10 +1,22 @@
-+++
+﻿+++
 date = "2016-01-28T20:00:53+01:00"
 title = "Kürzlich veröffentlichte Resolutionen"
 +++
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution zu Zwei-Klassen-Studiensystemen](/resolutionen/sose16/Zweiklassenstudiensysteme/Zweiklassenstudiensysteme.pdf) | 08.05.2016 |
+| [Positionspapier zu Zugangs- und Zulassungsbeschränkungen](/resolutionen/sose16/Zulassungen/zulassungsbeschraenkungen.pdf) | 08.05.2016 |
+| [Resolution zu Studentischen Beschäftigungsverhältnissen nach dem WissZeitVG](/resolutionen/sose16/WissZeitVG/WissZeitVG.pdf) | 08.05.2016 |
+| [Resolution zur Veröffentlichungspflicht bei Drittmittelforschung](/resolutionen/sose16/Veroeffentlichungspflicht_Drittmittel/Drittmittel.pdf) | 08.05.2016 |
+| [Positionspapier zu Internationalen Semesterzeiten](/resolutionen/sose16/Semesterzeiten/Semesterzeiten.pdf) | 08.05.2016 |
+| [Positionspapier zur Vermittlung von Programmierkompetenzen im Physikstudium](/resolutionen/sose16/Programmierkenntnisse/Programmierkenntnisse.pdf) | 08.05.2016 |
+| [Positionspapier zur Fachdidaktik im Lehramtsstudium](/resolutionen/sose16/Lehramt/Lehramt.pdf) | 08.05.2016 |
+| [Resolution zur Gleichbehandlung aller Statusgruppen bei Quotenregelungen](/resolutionen/sose16/Frauenquotenreso/Frauenquotenreso.pdf) | 08.05.2016 |
+| [Resolution zur Exzellenzinitiative III](/resolutionen/sose16/ExIni/Exzellenzinitiative.pdf) | 08.05.2016 |
+| [Beschluss zur Erweiterung des Selbstverständnis der ZaPF](/resolutionen/sose16/Doktoranden/doktoranden.pdf) | 08.05.2016 |
+| [Positionspapier zum Umgang mit den Ranking Ergebnissen durch Presse und Dritte](/resolutionen/sose16/CHE/che.pdf) | 08.05.2016 |
+| [Positionspapier zum deutschen Akkreditierungssystem](/resolutionen/sose16/Akkreditierung/akkreditierung.pdf) | 08.05.2016 |
 | [Stellungnahme zum Wissenschaftszeitvertragsgesetz](/resolutionen/wise15/WissZeitVG/Stellungnahme_WiSe15_WissZeitVG.pdf) | 22.11.2015 |
 | [Positionspapier zur Einbindung wissenschaftstheoretischer und ethischer Fragestellungen im Physikstudium](/resolutionen/wise15/Wissenschaftstheorie/Positionspapier_WiSe15_Wissenschaftstheorie.pdf) | 22.11.2015 |
 | [Stellungnahme zur Transparenz in der Drittmittelforschung](/resolutionen/wise15/Transparenz_in_der_Drittmittelforschung/Stellungnahme_WiSe15_Transparenz_in_der_Drittmittelforschung.pdf) | 22.11.2015 |
