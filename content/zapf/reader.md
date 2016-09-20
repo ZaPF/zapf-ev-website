@@ -5,6 +5,7 @@ title = "Tagungs-Reader der ZaPF"
 
 Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
+- SoSe 2016 (Konstanz) [Kurzfassung](/reader/2016_SoSe_Konstanz_kurz.pdf) | [Ausführliche Fassung](/reader/2016_SoSe_Konstanz_lang.pdf)
 - [WiSe 2015 (Frankfurt am Main)](/reader/Reader_ZaPF_WiSe15_Frankfurt.pdf)
 - [SoSe 2015 (Aachen)](/reader/Reader_SoSe15_Aachen.pdf)
 - [WiSe 2014 (Bremen)](/reader/2014_WiSe_Bremen.pdf)
