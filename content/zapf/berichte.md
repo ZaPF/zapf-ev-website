@@ -5,6 +5,7 @@ title = "Berichte"
 
 Hier finden Sie das Archiv der Berichte der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
+- [SoSe 2015 (Konstanz)](/berichte/SoSe16/Bericht_SoSe16_Konstanz.pdf)
 - [WiSe 2015 (Frankfurt am Main)](/berichte/WiSe15/Bericht_WiSe15_Frankfurt.pdf)
 - [SoSe 2015 (Aachen)](/berichte/SoSe15/Bericht_SoSe15_Aachen.pdf)
 - [WiSe 2014 (Bremen)](/berichte/WiSe14/Bericht_WiSe14-Bremen.pdf)
