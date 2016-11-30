@@ -1,15 +1,16 @@
 +++
 title = "Vorstand"
-date = "2016-06-19T14:00:00+02:00"
+date = "2016-11-30T13:50:00+01:00"
 +++
 
 
-Auf der Mitgliederversammlung am 07. Mai 2016 wurden folgende Personen in den Vorstand des ZaPF e.V. gewählt:
+Auf der Mitgliederversammlung am 12. November 2016 wurden folgende Personen in den Vorstand des ZaPF e.V. gewählt:
 
 * Florian Marx (Vorsitzender)
 * Patrick Haiber (Kassenwart)
-* Christoph Steinacker
-* Jan Luca Naumann
-* Valentin Wohlfarth
+* Jens Borgemeister
+* Jan Gräfje
+* Laura Lauf
 * Tobias Löffler
-* Thomas Rudzki
+* Jan Luca Naumann
+* Christoph Steinacker
