@@ -5,6 +5,18 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution gegen Zugangs- und Zulassungsbeschränkungen](/resolutionen/wise16/Zugangs-Zulassungsbeschraenkung/Reso\ gegen\ Zugangs-\ und\ Zulassungsbeschraenkungen.pdf) | 13.11.2016 |
+| [Resolution zur Verwendung von Taschenrechnern in der Schule](/resolutionen/wise16/Taschenrechner/taschenrechner.pdf) | 13.11.2016 |
+| [Resolution zu Symptompflicht auf Attesten](/resolutionen/wise16/Symptompflicht/symptompflicht.pdf) | 13.11.2016 |
+| [Resolution zum Studienführer](/resolutionen/wise16/Studienfuehrer/studienfuehrer.pdf) | 13.11.2016 |
+| [Empfehlung zum Engagement für eine bessere Hochschulfinanzierung](/resolutionen/wise16/Empfehlung_zum_Engagement_fuer_eine_bessere_Hochschulfinanzierung/Hochschulfinanzierung.pdf) | 13.11.2016 |
+| [Resolution zu Lehramtsstudiengängen](/resolutionen/wise16/Lehramt/Lehramt.pdf) | 13.11.2016 |
+| [Positionspapier zu Nächten der Wissenschaft](/resolutionen/wise16/Naechte_der_Wissenschaft/NdW.pdf) | 13.11.2016 |
+| [Solidaritätsbekundung mit den Wissenschaftler*innen in der Türkei](/resolutionen/wise16/Solidaritaetsbekundung/solidaritaetsbekundung.pdf) | 13.11.2016 |
+| [Offener Brief zum Rahmenvertrag zwischen der VG Wort und der Kultusministerkonferenz](/resolutionen/wise16/VG_Wort/VG_Wort.pdf) | 12.11.2016 |
+| [Resolution zu den geplanten Studiengebühren in Baden-Württemberg](/resolutionen/wise16/Reso_Studiengebuehren/Reso_Studiengebuehren.pdf) | 12.11.2016 |
+| [Positionspapier zu Studiengebühren](/resolutionen/wise16/Positionspapier_Studiengebuehren/Positionspapier_Studiengebuehren.pdf) | 12.11.2016 |
+| [Positionspapier zu Ethikinhalten im Physikstudium](/resolutionen/wise16/Ethikinhalte_im_Physikstudium/ethikinhalte.pdf) | 12.11.2016 |
 | [Resolution zu Zwei-Klassen-Studiensystemen](/resolutionen/sose16/Zweiklassenstudiensysteme/Zweiklassenstudiensysteme.pdf) | 08.05.2016 |
 | [Positionspapier zu Zugangs- und Zulassungsbeschränkungen](/resolutionen/sose16/Zulassungen/zulassungsbeschraenkungen.pdf) | 08.05.2016 |
 | [Resolution zu Studentischen Beschäftigungsverhältnissen nach dem WissZeitVG](/resolutionen/sose16/WissZeitVG/WissZeitVG.pdf) | 08.05.2016 |
