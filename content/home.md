@@ -7,6 +7,6 @@ Herzlich Willkommen auf der Website *zapfev.de*! Hier finden Sie Informationen z
 
 Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprachigen) Physik-Fachschaften gemeint. Sie findet halbjährlich an einer Hochschule im deutschsprachigen Raum statt. Weitere Informationen finden sich unter dem Menüpunkt [Die ZaPF](./zapf "Die ZaPF").
 
-Die nächste ZaPF findet vom *10. bis 13.11.2016* in *Dresden* statt. Mehr Informationen gibt es [hier](https://zapf.pfsr.de/ "ZELDA Dresden").
+Die nächste ZaPF findet vom *24. bis 28.05.2017* in *Berlin* statt. Mehr Informationen gibt es [hier](http://zapf.in/berlin/ "ZaPF Sommer17 Berlin").
 
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
