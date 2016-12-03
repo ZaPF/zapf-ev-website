@@ -10,12 +10,12 @@ Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die 
 Der StAPF besteht aktuell aus den folgenden Studierenden:
 
 
-In der Amtsperiode Winter 2015 bis Winter 2016 (Gewählt: 22.11.2015 auf dem Abschlussplenum der Winter-ZaPF 2015 in Frankfurt): Karola Schulz und Katharina Meixner
-
 In der Amtsperiode Sommer 2016 bis Sommer 2017 (Gewählt: 08.05.2016 auf dem Abschlussplenum der Sommer-ZaPF 2016 in Konstanz): Maria Schlungbaum, Lukian Bottke, Andre Kreuzburg
+
+In der Amtsperiode Winter 2016 bis Winter 2017 (Gewählt: 13.11.2016 auf dem Abschlussplenum der Winter-ZaPF 2016 in Dresden: Katharina Meixner und Peter Steinmüller
 
 ## Mehr Informationen und Kontakt
 
 Mehr zum StAPF findet sich im ZaPF-Wiki unter [StAPF](http://zapf.wiki/StAPF).
 
-Kontaktiert werden kann der StAPF unter der E-Mail Adresse [stapf@googlegroups.com](mailto:stapf@googlegroups.com).
+Kontaktiert werden kann der StAPF unter der E-Mail Adresse [stapf@zapf.in](mailto:stapf@zapf.in).
