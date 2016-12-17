@@ -14,15 +14,16 @@ E-Mail: [vorstand@zapfev.de](mailto:vorstand@zapfev.de)
 
 ## Vertretungsberechtigter Vorstand
 
-Der auf der Mitgliederversammlung am 30.05.2015 in Aachen neu gewählte Vorstand setzt sich zusammen aus:
+Auf der Mitgliederversammlung am 12. November 2016 in Dresden wurden folgende Personen in den Vorstand des ZaPF e.V. gewählt:
 
-- Zoë Lange (Frankfurt)
-- Frederike Kubandt (Frankfurt)
-- Florian Marx (Frankfurt)
-- Marius Walther (Dresden)
-- Jakob Borchardt (Bremen)
-- Marco Nüchel (Aachen)
-- Patrick Haiber (Konstanz)
+* Florian Marx (Vorsitzender)
+* Patrick Haiber (Kassenwart)
+* Jens Borgemeister
+* Jan Gräfje
+* Laura Lauf
+* Tobias Löffler
+* Jan Luca Naumann
+* Christoph Steinacker
 
 ## Vereinsregistereintrag
 
