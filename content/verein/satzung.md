@@ -30,7 +30,7 @@ berichtet werden.
 
 Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke
 im Sinne des Abschnitts Steuerbegünstigte Zwecke der Abgabenverordnung.
-Der Verein ist selbstlos tätig, er verfolgt keine eigenwirtschftlichen
+Der Verein ist selbstlos tätig, er verfolgt keine eigenwirtschaftlichen
 Zwecke. Mittel des Vereins dürfen nur für satzungsmäßige Zwecke
 verwendet werden. Die Mitglieder erhalten in ihrer Eigenschaft als
 Mitglied keine Zuwendung aus den Mitteln des Vereins. Es darf keine
