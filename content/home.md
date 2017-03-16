@@ -9,4 +9,6 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 
 Die nächste ZaPF findet vom *24. bis 28.05.2017* in *Berlin* statt. Mehr Informationen gibt es [hier](http://zapf.in/berlin/ "ZaPF Sommer17 Berlin").
 
+Die übernächste ZaPF findet vom 28.10. bis 1.11.2017 in Siegen statt. Weitere Informationen gibt es [hier](https://siegen.zapf.in/ "ZaPF Winter17 Siegen").
+
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
