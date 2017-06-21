@@ -9,10 +9,9 @@ Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die 
 
 Der StAPF besteht aktuell aus den folgenden Studierenden:
 
-
-In der Amtsperiode Sommer 2016 bis Sommer 2017 (Gewählt: 08.05.2016 auf dem Abschlussplenum der Sommer-ZaPF 2016 in Konstanz): Maria Schlungbaum, Lukian Bottke, Andre Kreuzburg
-
 In der Amtsperiode Winter 2016 bis Winter 2017 (Gewählt: 13.11.2016 auf dem Abschlussplenum der Winter-ZaPF 2016 in Dresden: Katharina Meixner und Peter Steinmüller
+
+In der Amtsperiode Sommer 2017 bis Sommer 2018 (Gewählt: 28.05.2017 auf dem Abschlussplenum der Sommer-ZaPF 2017 in Berlin): Niklas Donocik, Jennifer Hartfiel und Oliver Irtenkauf
 
 ## Mehr Informationen und Kontakt
 
