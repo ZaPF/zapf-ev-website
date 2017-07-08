@@ -21,10 +21,10 @@ Auf der Mitgliederversammlung am 09. Juni 2017 in Frankfurt am Main wurden folge
 * Patrick Haiber (Kassenwart)
 * Jens Borgemeister
 * Jan Gräfje
-* Jan Luka Naumann
+* Jan Luca Naumann
 * Andreas Drotloff
 * Tobias Löffler
-* Lias Dietrich
+* Lisa Dietrich
 
 ## Vereinsregistereintrag
 
