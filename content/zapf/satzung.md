@@ -1,3 +1,8 @@
++++
+ date = "2016-03-16T18:35:00+01:00"
+ title = "Satzung der ZaPF"
++++
+
 Satzung der ZaPF
 ================
 
