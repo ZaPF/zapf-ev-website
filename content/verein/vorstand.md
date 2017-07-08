@@ -4,13 +4,14 @@ date = "2016-11-30T13:50:00+01:00"
 +++
 
 
-Auf der Mitgliederversammlung am 12. November 2016 wurden folgende Personen in den Vorstand des ZaPF e.V. gewählt:
+Auf der Mitgliederversammlung am 09. Juni 2017 in Frankfurt am Main wurden folgende Personen in den Vorstand des ZaPF e.V. gewählt:
 
-* Florian Marx (Vorsitzender)
+* Frederike Kubandt (Vorsitzende)
+* Laura Lauf (2. Vorsitzende)
 * Patrick Haiber (Kassenwart)
 * Jens Borgemeister
 * Jan Gräfje
-* Laura Lauf
+* Jan Luka Naumann
+* Andreas Drotloff
 * Tobias Löffler
-* Jan Luca Naumann
-* Christoph Steinacker
+* Lias Dietrich
