@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Positionspapier zu Gesellschaftliche Verantwortung der Hochschulen](/resolutionen/sose17/gesellschaftlich_verantwortung/PosPapier_gesellschaftliche_verwantwortung.pdf) | 28.05.2017 |
 | [Positionspapier zur BaMa-Umfrage](/resolutionen/sose17/PosPapier_BaMa_Umfrage/PosPapier_BaMa_Umfrage.pdf) | 28.05.2017 |
 | [Resolution zur Exzellenz-Strategie](/resolutionen/sose17/Ex-Ini/reso_ex_ini.pdf) | 28.05.2017 |
 | [Positionspapier zu Lernzielen für Grund- oder Anfängerpraktika der Physik](/resolutionen/sose17/Praktika/PosPapier_Praktika.pdf) | 28.05.2017 |
