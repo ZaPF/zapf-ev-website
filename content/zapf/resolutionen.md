@@ -5,6 +5,17 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Positionspapier zu Gesellschaftliche Verantwortung der Hochschulen](/resolutionen/sose17/gesellschaftlich_verantwortung/PosPapier_gesellschaftliche_verwantwortung.pdf) | 28.05.2017 |
+| [Positionspapier zur BaMa-Umfrage](/resolutionen/sose17/PosPapier_BaMa_Umfrage/PosPapier_BaMa_Umfrage.pdf) | 28.05.2017 |
+| [Resolution zur Exzellenz-Strategie](/resolutionen/sose17/Ex-Ini/reso_ex_ini.pdf) | 28.05.2017 |
+| [Positionspapier zu Lernzielen für Grund- oder Anfängerpraktika der Physik](/resolutionen/sose17/Praktika/PosPapier_Praktika.pdf) | 28.05.2017 |
+| [Resolution zur studentischen Beteiligung bei Bauvorhaben](/resolutionen/sose17/Bauprojekte/reso_bauprojekte.pdf) | 28.05.2017 |
+| [Offener Brief zum Thema VG-Wort](/resolutionen/sose17/vg_wort/vg_wort.pdf) | 28.05.2017 |
+| [Positionspapier zur Symptompflicht auf Attesten](/resolutionen/sose17/symptompflicht/PosPapier_Symptompflicht.pdf) | 28.05.2017 |
+| [Positionspapier zum aktuellen Diskurs über den Mathematikkenntnisstand der Studienanfänger*innen](/resolutionen/sose17/abiwissen/PosPapier_abiwissen.pdf) | 28.05.2017 |
+| [Resolution zur Schaffung permanenter Stellen im wissenschaftlichen Mittelbau](/resolutionen/sose17/mittelbau/mittelbau.pdf) | 27.05.2017 |
+| [Resolution gegen Studiengebühren](/resolutionen/sose17/studiengebuehren/studiengebuehren.pdf) | 27.05.2017 |
+| [Resolution: Kritik am Besetzungsverhalten der HRK in den Akkreditierungsrat](/resolutionen/sose17/Akkreditiertungsrat/Reso\ Akkreditierungsrat.pdf) | 27.05.2017 |
 | [Resolution gegen Zugangs- und Zulassungsbeschränkungen](/resolutionen/wise16/Zugangs-Zulassungsbeschraenkung/Reso\ gegen\ Zugangs-\ und\ Zulassungsbeschraenkungen.pdf) | 13.11.2016 |
 | [Resolution zur Verwendung von Taschenrechnern in der Schule](/resolutionen/wise16/Taschenrechner/taschenrechner.pdf) | 13.11.2016 |
 | [Resolution zu Symptompflicht auf Attesten](/resolutionen/wise16/Symptompflicht/symptompflicht.pdf) | 13.11.2016 |
