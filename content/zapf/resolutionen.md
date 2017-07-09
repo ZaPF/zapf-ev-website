@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Pressemitteilung Hochschulrektorenkonferenz blockiert Zusammenarbeit](/resolutionen/sose16/Akkreditierung/pressemitteilung_ZaPF.pdf) | 24.06.2017 |
 | [Resolution gegen Zugangs- und Zulassungsbeschränkungen](/resolutionen/wise16/Zugangs-Zulassungsbeschraenkung/Reso\ gegen\ Zugangs-\ und\ Zulassungsbeschraenkungen.pdf) | 13.11.2016 |
 | [Resolution zur Verwendung von Taschenrechnern in der Schule](/resolutionen/wise16/Taschenrechner/taschenrechner.pdf) | 13.11.2016 |
 | [Resolution zu Symptompflicht auf Attesten](/resolutionen/wise16/Symptompflicht/symptompflicht.pdf) | 13.11.2016 |
