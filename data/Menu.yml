@@ -43,5 +43,6 @@ verein:
     Vorstand:
       Name: "Vorstand"
       URL: "/verein/vorstand"
-
-
+    Dokumente:
+      Name: "Dokumente"
+      URL: "/verein/dokumente"

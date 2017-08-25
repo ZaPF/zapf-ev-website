@@ -3,6 +3,12 @@ title = "Vereinssatzung"
 
 +++
 
+Beschlossen am 30.05.2015 in Frankfurt. Zuletzt geändert auf der
+Mitgliederversammlung am 12.11.2016.
+
+Eingetragen im Vereinsregister des Amtsgerichtes Frankfurt unter der
+Registriernummer VR 14547.
+
 
 §1 Name, Sitz und Geschäftsjahr [name-sitz-und-geschäftsjahr]
 ===============================
@@ -10,20 +16,28 @@ title = "Vereinssatzung"
 1.  Der Verein führt den Namen Zusammenkunft aller Physik Fachschaften
     e.V..
 
-2.  Der Verein hat seinen Sitz in Frankfurt am Main.
+2.  Der Verein hat seinen Sitz in Frankfurt am Main und ist beim Amtsgericht
+    Frankfurt unter der Registernummer VR 14547 eingetragen.
 
 3.  Das Geschäftsjahr ist das Kalenderjahr.
 
 §2 Zweck des Vereins [zweck-des-vereins]
 ====================
 
-Der Verein dient der Förderung der Durchführung der halbjährlichen
-Treffen der Vertreter/innen der Physikstudierenden der Hochschulen im
-deutschsprachigen Raum. Der Verein bezweckt mit diesen Treffen einen
-Informationsaustausch der einzelnen Studierendenvertretungen und soll so
-eine überregionale Koordination ermöglichen. Durch Fachvorträge soll
-über neueste Entwicklungen aus Wissenschaft, Forschung und Technologie
-berichtet werden.
+Der Verein dient der Förderung
+
+1. der Durchführung der halbjährlichen Treffen der Vertreter/innen der
+   Physikstudierenden der Hochschulen im deutschsprachigen Raum, der
+   Zusammenkunft aller Physikfachschaften (ZaPF).
+
+2. und der Umsetzung und Finanzierung der Beschlüsse der ZaPF, sowie der Gremien
+
+3. der Arbeit der Gremien der ZaPF
+
+Der Verein bezweckt mit diesen Aufgaben einen Informationsaustausch der
+einzelnen Studierendenvertretungen und soll so eine überregionale
+Koordination ermöglichen. Durch Fachvorträge soll über neueste Entwicklungen
+aus Wissenschaft, Forschung und Technologie berichtet werden.
 
 §3 Gemeinnützigkeit [gemeinnützigkeit]
 ===================
@@ -40,20 +54,25 @@ unverhältnismäßig hohe Vergütungen begünstigt werden.
 §4 Erwerb der Mitgliedschaft [erwerb-der-mitgliedschaft]
 ============================
 
-Mitglied des Vereins kann jede natürliche Person werden, die die Satzung
-des Vereins anerkennt.  
+1. Mitglied des Vereins kann jede natürliche Person werden, die die Satzung
+   des Vereins anerkennt.  
 
-Außerordentliches Mitglied (Fördermitglied) kann jede natürliche und
-juristische Person werden, die die Satzung des Vereins anerkennt. Über
-Ausnahmen entscheidet der Vorstand.  
-Die Mitgliedschaft wird durch schriftlichen Antrag erworben.
+2. Außerordentliches Mitglied (Fördermitglied) kann jede natürliche und
+   juristische Person werden, die die Satzung des Vereins anerkennt. Über
+   Ausnahmen entscheidet der Vorstand.
+
+3. Jedes ordentliche Mitglied kann gleichzeitig auch ein außerordentliches
+   Mitglied sein.
+
+4. Die Mitgliedschaft wird durch Antrag in Textform erworben. Es sollen die
+   Bereitgestellten Vorlagen verwendet werden
 
 §5 Beendigung der Mitgliedschaft [beendigung-der-mitgliedschaft]
 ================================
 
 1.  Die Mitgliedschaft ordentlicher Mitglieder endet unverzüglich durch
 
-    1.  schriftliche Erklärung des Mitglieds,
+    1.  Erklärung des Mitglieds in Textform,
 
     2.  Streichung aus der Liste der Mitglieder, wenn über einen
         Zeitraum von 15 Monaten an keiner Mitgliederversammlung
@@ -62,7 +81,7 @@ Die Mitgliedschaft wird durch schriftlichen Antrag erworben.
 2.  Die Mitgliedschaft außerordentlicher Mitglieder endet zum Ende des
     Kalenderjahrs durch
 
-    1.  schriftliche Erklärung des Mitglieds,
+    1.  Erklärung des Mitglieds in Textform,
 
     2.  Nichtzahlung des Mitgliedsbeitrags bis zum 31. Dezember eines
         Jahres.
@@ -74,11 +93,17 @@ Die Mitgliedschaft wird durch schriftlichen Antrag erworben.
 §6 Finanzen [finanzen]
 ===========
 
-Es wird kein Mitgliedsbeitrag für ordentliche Mitglieder erhoben. Der
-Verein finanziert sich durch die Mitgliedsbeiträge der außerordentlichen
-Mitglieder, öffentliche Mittel, Spenden und Gebühren. Zuwendungen dürfen
-nicht angenommen werden, wenn sie zu Bedingungen verpflichten, die dem
-Vereinszweck widersprechen. Näheres regelt die Beitragsordnung.
+1. Es wird kein Mitgliedsbeitrag für ordentliche Mitglieder erhoben. Ist ein
+   Mitglied gleichzeitig auch außerordentliches Mitglied, so gelten für sie/ihn
+   die Beitragsregelungen für außerordentliche Mitglieder.
+
+2. Der Verein finanziert sich durch die Mitgliedsbeiträge der außerordentlichen
+   Mitglieder, öffentliche Mittel, Spenden und Gebühren.
+
+3. Zuwendungen dürfen nicht angenommen werden, wenn sie zu Bedingungen verpflichten,
+   die dem Vereinszweck widersprechen.
+
+4. Näheres regelt die Beitragsordnung.
 
 §7 Organe des Vereins [organe-des-vereins]
 =====================
@@ -99,7 +124,8 @@ Organe des Vereins sind
     beschlussfähig.
 
 3.  Jedes ordentliche Mitglied ist stimmberechtigt und hat genau eine
-    Stimme. Außerordentliche Mitglieder nehmen beratend teil.
+    Stimme. Außerordentliche Mitglieder nehmen beratend teil, sofern
+    sie nicht sowieso ordentliche Mitglieder sind.
 
 4.  Es wird ein Protokoll geführt.
 
@@ -125,25 +151,27 @@ Organe des Vereins sind
 
     -   Festlegung der Beitragsordnung
 
-    -   Satzungsänderungen ( Mehrheit)
+    -   Satzungsänderungen (2/3 Mehrheit)
 
-    -   Auflösung des Vereins ( Mehrheit)
+    -   Auflösung des Vereins (3/4 Mehrheit)
 
 §9 Vorstand [vorstand]
 ===========
 
 1.  Der Vorstand nach § 26 BGB besteht aus der/dem Vorsitzenden, der/dem
-    Kassenführer/in und bis zu sechs weiteren Personen, die mit ihrer
+    Kassenführer/in und mindestens einer weiteren Personen, die mit ihrer
     Wahl mit besonderen Aufgaben betraut werden können.
 
 2.  Jedes Vorstandsmitglied ist einzeln vertretungsberechtigt.
 
-3.  Der Vorstand wird durch die Mitgliederversammlung mit  der Stimmen
+3.  Der Vorstand wird durch die Mitgliederversammlung mit 2/3 der Stimmen
     der anwesenden stimmberechtigten Mitglieder des Vereins gewählt.
     Kommt diese Mehrheit in zwei Wahlgängen nicht zustande, so
     entscheidet im dritten Wahlgang die einfache Mehrheit. Frühere
     Vorstandsmitglieder, die nicht erneut gewählt wurden, scheiden
-    automatisch aus dem Vorstand aus.
+    automatisch aus dem Vorstand aus. Damit ein Vorstand in Abwesenheit
+    gewählt werden kann, bedarf es hierzu einer Willensbekundung des zur
+    Wahl stehenden Mitglieds in Textform.
 
 4.  Die Aufgaben des Vorsitzenden des Vorstands sind insbesondere
 
@@ -170,10 +198,14 @@ Organe des Vereins sind
 
     3.  die Einreichung der Steuererklärung beim Finanzamt.
 
-6.  Zur Aufgabe eines jeden Vorstandsmitglieds gehört die Erstellung
+6.  Einzelne Aufgaben der / des Vorstandsvorsitzenden und der / des Kassenführerin /
+    Kassenführers können stattdessen auch anderen Vorstandsmitgliedern bei ihrer
+    Wahl übertragen werden.
+
+7.  Zur Aufgabe eines jeden Vorstandsmitglieds gehört die Erstellung
     eines schriftlichen Tätigkeits- und Rechenschaftsberichts.
 
-7.  Als Aufgabengebiete, zu denen Vorstände gewählt werden können kommen
+8.  Als Aufgabengebiete, zu denen Vorstände gewählt werden können kommen
     insbesondere in Betracht:
 
     1.  Vertretung des Vereins bezüglich der Durchführung einer
@@ -184,29 +216,39 @@ Organe des Vereins sind
 §10 Entlastung des Vorstandes [entlastung-des-vorstandes]
 =============================
 
-Die Vorstandsmitglieder legen am Ende ihrer Amtszeit der
-Mitgliederversammlung den Tätigkeits- und Rechenschaftsbericht vor.
-Insbesondere müssen diese, sowie der Finanzbericht des Kassenführers,
-durch die/den Kassenprüfer/in bestätigt werden. Die Entlastung erfolgt
-auf Grundlage der Berichte.  
-Ein Vorstandsmitglied kann für nicht abgeschlossene Rechtsgeschäfte, die
-aus dessen Tätigkeit in der Amtszeit herrühren, nicht entlastet werden.
-Die Entlastung ist dann auf der nächsten Mitgliederversammlung nach
-Abschluss dieser Rechtsgeschäfte zu beantragen.  
-Ein Vorstandsmitglied kann nicht über seine eigene Entlastung abstimmen.
+1. Die Vorstandsmitglieder legen am Ende ihrer Amtszeit ihrer
+   Mitgliederversammlung den Tätigkeits- und Rechenschaftsbericht vor.
+   Insbesondere müssen diese, sowie der Finanzbericht des Kassenführers,
+   durch die/den Kassenprüfer/in bestätigt werden. Die Entlastung erfolgt
+   auf Grundlage der Berichte.  
+
+2. Ein Vorstandsmitglied kann für nicht abgeschlossene Rechtsgeschäfte, die
+   aus dessen Tätigkeit in der Amtszeit herrühren, nicht entlastet werden.
+   Die Entlastung ist dann auf der nächsten Mitgliederversammlung nach
+   Abschluss dieser Rechtsgeschäfte zu beantragen.  
+
+3. Ein Vorstandsmitglied kann nicht über seine eigene Entlastung abstimmen.
 
 §11 Satzungsänderung [satzungsänderung]
 ====================
 
-Eine Satzungsänderung kann nur beschlossen werden, wenn sie vorher auf
-der Tagesordnung angekündigt war.  
-Eine Satzungsänderung kann nur durch die Mitgliederversammlung mit  der
-Stimmen der anwesenden stimmberechtigten Mitglieder des Vereins
-erfolgen.  
-Anträge auf Aufnahme eines Tagesordnungspunktes Satzungsänderung müssen
-mindestens vier Wochen vor der Mitgliederversammlung unter ausführlicher
-Angabe von Gründen und konkreten Entwürfen der Änderungen beim Vorstand
-eingereicht werden.
+1. Eine Satzungsänderung kann nur beschlossen werden, wenn sie vorher auf
+   der Tagesordnung angekündigt war.  
+
+2. Eine Satzungsänderung kann nur durch die Mitgliederversammlung mit 3/4 der
+   Stimmen der anwesenden stimmberechtigten Mitglieder des Vereins
+   erfolgen.  
+
+3. Anträge auf Aufnahme eines Tagesordnungspunktes Satzungsänderung müssen
+   mindestens vier Wochen vor der Mitgliederversammlung unter ausführlicher
+   Angabe von Gründen und konkreten Entwürfen der Änderungen beim Vorstand
+   eingereicht werden.
+
+4. Änderungen oder Ergänzungen der Satzung, die von der zuständigen
+   Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand
+   umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung.
+   Sie sind den Mitgliedern spätestens mit der nächsten Einladung zur
+   Mitgliederversammlung mitzuteilen.
 
 §12 Auflösung [auflösung]
 =============
@@ -239,12 +281,4 @@ eingereicht werden.
 2.  Die rechtswidrige oder unwirksame Bestimmung ist unverzüglich durch
     Beschluss der nächsten Mitgliederversammlung zu ersetzen.
 
-§14 Schlussbestimmungen [schlussbestimmungen]
-=======================
-
-Diese Satzung wurde in der Mitgliederversammlung am 30. Mai 2015
-beschlossen. Sie tritt mit der Eintragung des Vereins in das
-Vereinsregister in Kraft. Alle vorherigen Satzungen treten damit außer
-Kraft.
-
-Aachen, den 30. Mai 2015
+Dresden, den 12. November 2016
