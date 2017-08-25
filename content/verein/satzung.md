@@ -103,7 +103,7 @@ unverhältnismäßig hohe Vergütungen begünstigt werden.
 3. Zuwendungen dürfen nicht angenommen werden, wenn sie zu Bedingungen verpflichten,
    die dem Vereinszweck widersprechen.
 
-4. Näheres regelt die Beitragsordnung.
+4. Näheres regelt die [Beitragsordnung](/dokumente/Beitragsordnung_ZaPF_eV.pdf).
 
 §7 Organe des Vereins [organe-des-vereins]
 =====================
