@@ -1000,7 +1000,8 @@ progress {
     background-color: #2053ab;
     font-family: Raleway, "Open Sans", Arial, sans-serif;
     color: #8cb4ec;
-    text-align: center
+    text-align: center;
+    overflow: auto;
 }
 .main_wrapper>.main_header a {
     color: #fff
