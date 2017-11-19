@@ -10,7 +10,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Resolution zur Hochschulpolitik in Nordrhein-Westfalen](/resolutionen/wise17/HochschukpolitikNRW/Reso_HochschulpolitikNRW.pdf) | 01.11.2017 |
 | [Resolution zu den aktuellen hochschulpolitischen Entwicklungen in Baden-Württemberg](/resolutionen/wise17/HoPo_BaWue/hopo_bawue.pdf) | 01.11.2017 |
 | [Positionspapier zum Friedensnobelpreis für Atomwaffenverbotsinitiative](/resolutionen/wise17/ICAN/pospap_ican_ws1617.pdf) | 01.11.2017 |
-| [Resolution gegen Zwangsexmatrikulationen](/resolutionen/wise17/Klausurversuche/Klausurversuche.pdf) | 01.11.2017 |
+| [Resolution zu Zwangsexmatrikulationen](/resolutionen/wise17/Zwangsexmatrikulation/Zwangsexmatrikulation.pdf) | 01.11.2017 |
 | [Positionspapier zu Akkreditierung](/resolutionen/wise17/Akkreditierung_PosPap/Pospap_Akkreditierung.pdf) | 31.10.2017 |
 | [Resolution zu Akkreditierung](/resolutionen/wise17/Akkreditierung_Reso/reso_akkreditierung_ws1718.pdf) | 31.10.2017 |
 | [Positionspapier zur Förderung der Wissenschaftskommunikation in der akademischen Ausbildung](/resolutionen/wise17/FoerderWissKomm/pospap_foerderwisskomm_ws1718.pdf) | 31.10.2017 |
