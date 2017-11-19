@@ -5,6 +5,18 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution zu Berufsorientierenden Praktika](/resolutionen/wise17/BerufsorientierendePraktika/Reso_BerufsorientierendePraktika.pdf) | 01.11.2017 |
+| [Resolution zur Exzellenzstrategie](/resolutionen/wise17/Exzellenzstrategie/Exzellenzstrategie.pdf) | 01.11.2017 |
+| [Resolution zur Hochschulpolitik in Nordrhein-Westfalen](/resolutionen/wise17/HochschukpolitikNRW/Reso_HochschulpolitikNRW.pdf) | 01.11.2017 |
+| [Resolution zu den aktuellen hochschulpolitischen Entwicklungen in Baden-Württemberg](/resolutionen/wise17/HoPo_BaWue/hopo_bawue.pdf) | 01.11.2017 |
+| [Positionspapier zum Friedensnobelpreis für Atomwaffenverbotsinitiative](/resolutionen/wise17/ICAN/pospap_ican_ws1617.pdf) | 01.11.2017 |
+| [Resolution gegen Zwangsexmatrikulationen](/resolutionen/wise17/Klausurversuche/Klausurversuche.pdf) | 01.11.2017 |
+| [Positionspapier zu Akkreditierung](/resolutionen/wise17/Akkreditierung_PosPap/Pospap_Akkreditierung.pdf) | 31.10.2017 |
+| [Resolution zu Akkreditierung](/resolutionen/wise17/Akkreditierung_Reso/reso_akkreditierung_ws1718.pdf) | 31.10.2017 |
+| [Positionspapier zur Förderung der Wissenschaftskommunikation in der akademischen Ausbildung](/resolutionen/wise17/FoerderWissKomm/pospap_foerderwisskomm_ws1718.pdf) | 31.10.2017 |
+| [Resolution zum Umgang mit Nullergebnissen](/resolutionen/wise17/Nullergebnisse/reso_nullergebnisse_ws1718.pdf) | 31.10.2017 |
+| [Resolution zu Prüfungsunfähigkeitsbescheinigungen](/resolutionen/wise17/Pruefungsunfaehigkeit/Pruefungsunfaehigkeitsbescheinigung.pdf) | 31.10.2017 |
+| [Positionspapier zur Rolle der Wissenschaftskommunikation](/resolutionen/wise17/RolleWissKomm/Rolle_WissKomm.pdf) | 31.10.2017 |
 | [Pressemitteilung Hochschulrektorenkonferenz blockiert Zusammenarbeit](/resolutionen/sose17/Akkreditiertungsrat/pressemitteilung_ZaPF.pdf) | 24.06.2017 |
 | [Positionspapier zu Gesellschaftliche Verantwortung der Hochschulen](/resolutionen/sose17/gesellschaftlich_verantwortung/PosPapier_gesellschaftliche_verwantwortung.pdf) | 28.05.2017 |
 | [Positionspapier zur BaMa-Umfrage](/resolutionen/sose17/PosPapier_BaMa_Umfrage/PosPapier_BaMa_Umfrage.pdf) | 28.05.2017 |
