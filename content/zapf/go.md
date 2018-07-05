@@ -1,5 +1,5 @@
 +++
-date = "2016-01-28T19:26:02+01:00"
+date = "2018-07-04T10:40:00+01:00"
 title = "Geschäftsordnung für Plenen der ZaPF"
 +++
 
@@ -118,7 +118,7 @@ Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können
 
 ### 4.2 Personenwahlen
 
-1. Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht anwesende Teilnehmerinnen und Teilnehmer gewählt werden können.
+1. Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht teilnehmende Personen gewählt werden können.
 
 2. Personenwahlen sind grundsätzlich geheim durchzuführen. In Abweichung davon dürfen Sitzungsleitung und Protokollführung per Akklamation gewählt werden.
 
@@ -133,7 +133,7 @@ Ein Kandidat oder eine Kandidatin gilt als gewählt, wenn er oder sie mehr Ja-St
 Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene Stimmen.
 Sollten mehr Kandidatinnen und Kandidaten gewählt werden, als Posten zur Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
 
-6. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Zur Wahl berechtigt sind alle anwesenden natürlichen Personen.
+6. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive Wahlrecht besitzen alle anwesenden natürlichen Personen.
 
 7. Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 
@@ -154,6 +154,7 @@ Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen aus
    Daraufhin werden alle Wahlzettel, die der ersten gewählten Person eine Ja-Stimme gegeben haben, von den übrigen Wahlzetteln getrennt.
    - In den darauf folgenden Durchgängen wird immer die Person mit den meisten Stimmen in den verbliebenen Wahlzetteln der Gruppe der gewählten Personen hinzugefügt und ihre Wahlzettel von den übrigen Wahlzetteln getrennt.
    Dies wird so lange wiederholt bis alle Plätze besetzt sind oder keine Wahlzettel mehr übrig sind.
+   - Bei Stimmengleichheit entscheidet die Anzahl der Stimmen aus der ersten Runde. Bei Gleichstand entscheidet das Los.
    - Sollten noch nicht alle Plätze in der Gruppe der gewählten Personen besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde besetzt.
    Bei Gleichstand entscheidet das Los.
 
