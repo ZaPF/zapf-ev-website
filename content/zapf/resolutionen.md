@@ -5,7 +5,10 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
-| [Positionspapier Zum gültigen Studienakkreditierungsstaatsvertrag und der dazugehörigen Musterrrechtsverordnung](/resolutionen/sose18/Akkreditierung/pospap_svmrvo.pdf) | 03.06.2018 |
+| [](/resolutionen/sose18/) | 03.06.2018 |
+| [Resolution zur länderspezifischen Rechtsverordnungen als Spezifizierung der MRVO](/resolutionen/sose18/reso_laender_akkr.pdf) | 03.06.2018 |
+| [Resolution zur Entwicklung des Ablaufs für Akkreditierungsverfahren](/resolutionen/sose18/reso_ablaeufe_akkr.pdf) | 03.06.2018 |
+| [Positionspapier zum gültigen Studienakkreditierungsstaatsvertrag und der dazugehörigen Musterrrechtsverordnung](/resolutionen/sose18/Akkreditierung/pospap_svmrvo.pdf) | 03.06.2018 |
 | [Resolution zum Streik der studentischen Hilfskräfte in Berlin](/resolutionen/sose18/Tarifvertrag/reso.pdf) | 03.06.2018 |
 | [Solidaritätserklärung mit den streikenden SHKs in Berlin](/resolutionen/sose18/Tarifvertrag/solierklaerung.pdf) | 03.06.2018 |
 | [Resolution zu Berufsorientierenden Praktika](/resolutionen/wise17/BerufsorientierendePraktika/Reso_BerufsorientierendePraktika.pdf) | 01.11.2017 |
