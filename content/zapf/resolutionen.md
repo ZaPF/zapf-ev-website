@@ -10,7 +10,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Resolution about the handling of null results](/resolutionen/sose18/Nullresults/reso_nullresults.pdf) | 03.06.2018 |
 | [Resolution zur Mobilität im Studium](/resolutionen/sose18/Mobilitaet/reso_mobilitaet.pdf) | 03.06.2018 |
 | [Resolution zur Novellierung der Hochschulgesetze](/resolutionen/sose18/Hochschulgesetze/reso_hsgesetze.pdf) | 03.06.2018 |
-| [Resolution zur Sensibilisierung von Fachschaften zum Thema Depression](/resolutionen/sose18/Depressionen/pospap_werbung.pdf) | 03.06.2018 |
+| [Resolution zur Sensibilisierung von Fachschaften zum Thema Depression](/resolutionen/sose18/Depressionen/reso_depressionen.pdf) | 03.06.2018 |
 | [Positionspapier gegen kommerzielle Werbung in Lern- und Lehrräumen](/resolutionen/sose18/Werbung/pospap_werbung.pdf) | 03.06.2018 |
 | [Positionspapier zur Besetzung und Ausgestaltung von Professuren in der Physikdidaktik](/resolutionen/sose18/Fachdidaktik/pospap_fachdidaktik.pdf) | 03.06.2018 |
 | [Resolution zur länderspezifischen Rechtsverordnungen als Spezifizierung der MRVO](/resolutionen/sose18/reso_laender_akkr.pdf) | 03.06.2018 |
