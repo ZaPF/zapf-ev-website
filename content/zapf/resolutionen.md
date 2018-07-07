@@ -6,6 +6,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 |Titel | Veröffentlicht am |
 |---|---|
 | [](/resolutionen/sose18/) | 03.06.2018 |
+| [Positionspapier zur Besetzung und Ausgestaltung von Professuren in der Physikdidaktik](/resolutionen/sose18/Fachdidaktik/pospap_fachdidaktik.pdf) | 03.06.2018 |
 | [Resolution zur länderspezifischen Rechtsverordnungen als Spezifizierung der MRVO](/resolutionen/sose18/reso_laender_akkr.pdf) | 03.06.2018 |
 | [Resolution zur Entwicklung des Ablaufs für Akkreditierungsverfahren](/resolutionen/sose18/reso_ablaeufe_akkr.pdf) | 03.06.2018 |
 | [Positionspapier zum gültigen Studienakkreditierungsstaatsvertrag und der dazugehörigen Musterrrechtsverordnung](/resolutionen/sose18/Akkreditierung/pospap_svmrvo.pdf) | 03.06.2018 |
