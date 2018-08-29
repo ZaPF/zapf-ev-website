@@ -13,8 +13,8 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Resolution zur Sensibilisierung von Fachschaften zum Thema Depression](/resolutionen/sose18/Depressionen/reso_depressionen.pdf) | 03.06.2018 |
 | [Positionspapier gegen kommerzielle Werbung in Lern- und Lehrräumen](/resolutionen/sose18/Werbung/pospap_werbung.pdf) | 03.06.2018 |
 | [Positionspapier zur Besetzung und Ausgestaltung von Professuren in der Physikdidaktik](/resolutionen/sose18/Fachdidaktik/pospap_fachdidaktik.pdf) | 03.06.2018 |
-| [Resolution zur länderspezifischen Rechtsverordnungen als Spezifizierung der MRVO](/resolutionen/sose18/reso_laender_akkr.pdf) | 03.06.2018 |
-| [Resolution zur Entwicklung des Ablaufs für Akkreditierungsverfahren](/resolutionen/sose18/reso_ablaeufe_akkr.pdf) | 03.06.2018 |
+| [Resolution zur länderspezifischen Rechtsverordnungen als Spezifizierung der MRVO](/resolutionen/sose18/Akkreditierung/reso_laender_akkr.pdf) | 03.06.2018 |
+| [Resolution zur Entwicklung des Ablaufs für Akkreditierungsverfahren](/resolutionen/sose18/Akkreditierung/reso_ablaeufe_akkr.pdf) | 03.06.2018 |
 | [Positionspapier zum gültigen Studienakkreditierungsstaatsvertrag und der dazugehörigen Musterrrechtsverordnung](/resolutionen/sose18/Akkreditierung/pospap_svmrvo.pdf) | 03.06.2018 |
 | [Resolution zum Streik der studentischen Hilfskräfte in Berlin](/resolutionen/sose18/Tarifvertrag/reso.pdf) | 03.06.2018 |
 | [Solidaritätserklärung mit den streikenden SHKs in Berlin](/resolutionen/sose18/Tarifvertrag/solierklaerung.pdf) | 03.06.2018 |
