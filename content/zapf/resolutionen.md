@@ -1,10 +1,18 @@
 +++
-date = "2018-07-07T11:30:00+01:00"
+date = "2019-01-19T10:00:00+01:00"
 title = "Kürzlich veröffentlichte Resolutionen"
 +++
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution zur Akkreditierungspflicht von Studiengängen in Mecklenburg-Vorpommern](/resolutionen/wise18/Reso_Akkreditierungspflicht_MV/Akkreditierungspflicht_in_MV.pdf) | 25.11.2018 |
+| [Resolution zum BAföG](/resolutionen/wise18/Reso_BAföG/BAföG.pdf) | 25.11.2018 |
+| [Resolution zur geplanten Novelle des Berliner Hochschulgesetzes (BerlHG)](/resolutionen/wise18/Reso_Novelle_BerlHG/Geplante\ Novelle\ des\ Berliner\ Hochschulgesetzes.pdf) | 25.11.2018 |
+| [Resolution zu Open Science](/resolutionen/wise18/Reso_Open_Science/Resolution_Open_Science.pdf) | 25.11.2018 |
+| [Resolution gegen außeruniversitäre Werbung in Lern- und Lehrräumen](/resolutionen/wise18/Reso_Raumbranding/Raumbranding.pdf) | 25.11.2018 |
+| [Positionspapier zu studentischen begutachtenden Personen in Akkreditierungsverfahren](/resolutionen/wise18/PosPap_Anfragen_Agenturen/Direkte_Anfragen_an_Fachschaften.pdf) | 25.11.2018 |
+| [Positionspapier zur Rolle der Wissenschaftskommunikation](/resolutionen/wise18/PosPap_WissKomm_I/WissKomm_I.pdf) | 25.11.2018 |
+| [Positionspapier zur Förderung der Wissenschaftskommunikation in der akademischen Ausbildung](/resolutionen/wise18/PosPap_WissKomm_II/WissKomm_II.pdf) | 25.11.2018 |
 | [Resolution für einen flexibleren Umgang mit Prüfungsan- und abmeldungen](/resolutionen/sose18/Pruefungsanmeldung/reso_pruefungsanmeldung.pdf) | 03.06.2018 |
 | [Resolution zur Position der SHK-Räte im neuen Hochschulgesetz NRW](/resolutionen/sose18/SHK-Raete/reso_shk_raete_nrw.pdf) | 03.06.2018 |
 | [Resolution about the handling of null results](/resolutionen/sose18/Nullresults/reso_nullresults.pdf) | 03.06.2018 |
