@@ -1,5 +1,5 @@
 +++
-date = "2016-01-28T19:37:21+01:00"
+date = "2019-01-19T10:00:00+01:00"
 title = "StAPF"
 +++
 
@@ -9,9 +9,9 @@ Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die 
 
 Der StAPF besteht aktuell aus den folgenden Studierenden:
 
-In der Amtsperiode Winter 2017 bis Winter 2018 (Gewählt: 31.10.2017 auf dem Abschlussplenum der Winter-ZaPF 2017 in Siegen): Ann-Kathrin Klein und Marcus Mikorski
-
 In der Amtsperiode Sommer 2018 bis Sommer 2019 (Gewählt: 03.06.2018 auf dem Abschlussplenum der Sommer-ZaPF 2018 in Heidelberg): Luise Siegl, Colin Heckmeyer und Niklas Donocik
+
+In der Amtsperiode Winter 2018 bis Winter 2019 (Gewählt: 25.11.2018 auf dem Abschlussplenum der Winter-ZaPF 2018 in Würzburg): Victoria Schemenz und Chantal Beck
 
 ## Mehr Informationen und Kontakt
 
