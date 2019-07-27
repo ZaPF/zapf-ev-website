@@ -4,6 +4,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 +++
 
 |Titel | Veröffentlicht am |
+|---|---|  
 | [Resolution zu den Akkreditierungsrichtlinien](/resolutionen/sose19/Akkreditierungsrichtlinien_der_ZaPF/Akkreditierungsrichtlinien_der_ZaPF.pdf) | 11.06.2019 |
 | [Resolution zuU universitärer Selbstverwaltung](/resolutionen/sose19/Reso_Selbstverwaltung/Reso_Selbstverwaltung.pdf) | 11.06.2019 |
 | [Resolution zur Unterstützung des BAföG-Bündnisses](/resolutionen/sose19/BAFoeG/Bafoeg_Reso.pdf) | 11.06.2019 |
