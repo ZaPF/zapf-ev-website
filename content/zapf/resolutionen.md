@@ -4,7 +4,14 @@ title = "Kürzlich veröffentlichte Resolutionen"
 +++
 
 |Titel | Veröffentlicht am |
-|---|---|
+| [Resolution zu den Akkreditierungsrichtlinien](/resolutionen/sose19/Akkreditierungsrichtlinien_der_ZaPF/Akkreditierungsrichtlinien_der_ZaPF.pdf) | 11.06.2019 |
+| [Resolution zuU universitärer Selbstverwaltung](/resolutionen/sose19/Reso_Selbstverwaltung/Reso_Selbstverwaltung.pdf) | 11.06.2019 |
+| [Resolution zur Unterstützung des BAföG-Bündnisses](/resolutionen/sose19/BAFoeG/Bafoeg_Reso.pdf) | 11.06.2019 |
+| [Resolution zur Verurteilung von Onlineplattformen zur Denunziation von Lehrenden](/resolutionen/sose19/Lehrerpranger/Lehrerpranger.pdf) | 10.06.2019 |
+| [Resolution zu Verfassten Studierenschaften](/resolutionen/sose19/Reso_VS/Reso_VS.pdf) | 11.06.2019 |
+| [Resolution zur Zivilklausel NRW](/resolutionen/sose19/Unterschriftenkampagne_Zivilklausel/Reso_Unterschriftenkampagne.pdf) | 11.06.2019 |
+| [Positionspapier zu Fortgeschrittenenpraktika](/resolutionen/sose19/Fortgeschrittenenpraktika/Fortgeschrittenenpraktika.pdf) | 10.06.2019 |
+
 | [Resolution zur Akkreditierungspflicht von Studiengängen in Mecklenburg-Vorpommern](/resolutionen/wise18/Reso_Akkreditierungspflicht_MV/Akkreditierungspflicht_in_MV.pdf) | 25.11.2018 |
 | [Resolution zum BAföG](/resolutionen/wise18/Reso_BAföG/BAföG.pdf) | 25.11.2018 |
 | [Resolution zur geplanten Novelle des Berliner Hochschulgesetzes (BerlHG)](/resolutionen/wise18/Reso_Novelle_BerlHG/Geplante\ Novelle\ des\ Berliner\ Hochschulgesetzes.pdf) | 25.11.2018 |
