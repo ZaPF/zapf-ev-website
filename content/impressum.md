@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "Impressum"
 
 +++
@@ -31,13 +31,9 @@ Auf der Mitgliederversammlung am 09. Juni 2017 in Frankfurt am Main wurden folge
 Der Verein Zusammenkunft aller Physik-Fachschaften (ZaPF) ist beim AG Frankfurt/Main auf dem Registerblatt VR 14547 eingetragen.
 Von 1999 bis 2010 war der Sitz des Vereines in Bochum. Die Eintragung beim Amtsgericht Bochum erfolgte seinerzeit auf dem Registerblatt VR 3175.
 
-## Steuernummer
+## Freistellungsbescheid
 
-Steuernummer beim Finanzamt Frankfurt am Main (seit 21.3.2011): 047/250/95460
-
-Bisherige Steuernummer beim Finanzamt Bochum: 350/5705/2227
-
-Der aktuelle Freistellungsbescheid für 2009 bis 2011 zur Körperschaftsteuer und Gewerbesteuer wurde am 12.6.2013 vom Finanzamt Frankfurt/Main V erteilt.
+Der aktuelle Freistellungsbescheid für 2012 bis 2014 zur Körperschaftsteuer und Gewerbesteuer wurde am 31.01.2017 vom Finanzamt Frankfurt/Main V erteilt.
 
 ## Disclaimer
 
