@@ -14,17 +14,7 @@ E-Mail: [vorstand@zapfev.de](mailto:vorstand@zapfev.de)
 
 ## Vertretungsberechtigter Vorstand
 
-Auf der Mitgliederversammlung am 09. Juni 2017 in Frankfurt am Main wurden folgende Personen in den Vorstand des ZaPF e.V. gewählt:
-
-* Frederike Kubandt (Vorsitzende)
-* Laura Lauf (2. Vorsitzende)
-* Patrick Haiber (Kassenwart)
-* Jens Borgemeister
-* Jan Gräfje
-* Jan Luca Naumann
-* Andreas Drotloff
-* Tobias Löffler
-* Lisa Dietrich
+{{< vorstand >}}
 
 ## Vereinsregistereintrag
 

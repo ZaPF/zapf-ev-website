@@ -1,0 +1,7 @@
+<p>Auf der Mitgliederversammlung am {{ .Site.Data.Vorstand.Datum }} in {{ .Site.Data.Vorstand.Ort }} wurden folgende Personen in den Vorstand des ZaPF e.V. gewählt:</p>
+
+<ul>
+{{ range .Site.Data.Vorstand.Vorstaende }}
+  <li>{{ . }}</li>
+{{ end }}
+</ul>
