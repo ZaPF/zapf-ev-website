@@ -5,8 +5,8 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
-| [Positionspapier zur Nationalen Forschungsdaten Infrastruktur](/resolutionen/sose19/Akkreditierungsrichtlinien_der_ZaPF/Akkreditierungsrichtlinien_der_ZaPF.pdf) | 11.06.2019 |
-| [Resolution zur Wissenschaftskommunikation](/resolutionen/sose19/Akkreditierungsrichtlinien_der_ZaPF/Akkreditierungsrichtlinien_der_ZaPF.pdf) | 11.06.2019 |
+| [Positionspapier zur Nationalen Forschungsdaten Infrastruktur](/resolutionen/wise19/nfdi/nfdi.pdf) | 25.11.2019 |
+| [Resolution zur Wissenschaftskommunikation](/resolutionen/wise19/wissenschaftskommunikation/wissenschaftskommunikation.pdf) | 25.11.2019 |
 | [Resolution zu den Akkreditierungsrichtlinien](/resolutionen/sose19/Akkreditierungsrichtlinien_der_ZaPF/Akkreditierungsrichtlinien_der_ZaPF.pdf) | 11.06.2019 |
 | [Resolution zu universitärer Selbstverwaltung](/resolutionen/sose19/Reso_Selbstverwaltung/Reso_Selbstverwaltung.pdf) | 11.06.2019 |
 | [Resolution zur Unterstützung des BAföG-Bündnisses](/resolutionen/sose19/BAFoeG/Bafoeg_Reso.pdf) | 11.06.2019 |
