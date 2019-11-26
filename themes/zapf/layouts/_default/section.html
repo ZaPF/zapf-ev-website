@@ -3,6 +3,7 @@
   <header class="container">
     {{ partial "bloc/content/h1-title" . }}
   </header>
+  {{ .Content }}
   {{ range $index, .Paginator.Pages }}
     {{ .Render "section.li" }}
   {{ end }}
