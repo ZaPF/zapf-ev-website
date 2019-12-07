@@ -5,6 +5,17 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
+| [Beschluss der Akkreditierungsrichtlinien](/resolutionen/wise19/akkreditierungsrichtlinien/Akkreditierungsrichtlinien.pdf) | 07.12.2019 |
+| [Beschluss zum Studienreform-Forum](/resolutionen/wise19/studienreform/studienreform.pdf) | 07.12.2019 |
+| [Beschluss der Kommentierten Musterrechtsverordnung](/resolutionen/wise19/mrvo/MRVO_kommentar.pdf) | 07.12.2019 |
+| [Resolution zur Anpassung der Semesterzeiten](/resolutionen/wise19/semesterzeiten/semesterzeiten.pdf) | 07.12.2019 |
+| [Resolution zu Lern- und Arbeitsräumen](/resolutionen/wise19/lernraume/Lernräume.pdf) | 07.12.2019 |
+| [Resolution zu Prüfungsunfähigkeitsbescheinigungen](/resolutionen/wise19/prufungsbescheinigungen/symptompflicht.pdf) | 07.12.2019 |
+| [Resolution zur Solidarisierung mit Fridays for Future](/resolutionen/wise19/fff/fridays_for_future.pdf) | 07.12.2019 |
+| [Positionspapier zu Bibliotheken und Raumentwicklung](/resolutionen/wise19/bibliotheken/bibliotheken.pdf) | 25.11.2019 |
+| [Positionspapier zum Lehramtsstudium](/resolutionen/wise19/lehramt/lehramt.pdf) | 25.11.2019 |
+| [Selbstverpflichtung zu genderneutraler Sprache](/resolutionen/wise19/genderneutral/genderneutrale_sprache.pdf) | 07.12.2019 |
+| [Selbstverpflichtung für Vertrauenspersonen](/resolutionen/wise19/vertrauenspersonen/vertrauensperson.pdf) | 07.12.2019 |
 | [Positionspapier zur Nationalen Forschungsdaten Infrastruktur](/resolutionen/wise19/nfdi/nfdi.pdf) | 25.11.2019 |
 | [Resolution zur Wissenschaftskommunikation](/resolutionen/wise19/wissenschaftskommunikation/wissenschaftskommunikation.pdf) | 25.11.2019 |
 | [Resolution zu den Akkreditierungsrichtlinien](/resolutionen/sose19/Akkreditierungsrichtlinien_der_ZaPF/Akkreditierungsrichtlinien_der_ZaPF.pdf) | 11.06.2019 |
