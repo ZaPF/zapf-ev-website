@@ -1,3 +1,8 @@
++++
+date = "2019-11-03T10:00:00+01:00"
+title = "Geschäftsordnung für Plenen der ZaPF"
++++
+
 ====================================
 Geschäftsordnung für Plenen der ZaPF
 ====================================
