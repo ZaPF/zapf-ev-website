@@ -15,3 +15,4 @@ Hier finden Sie das Archiv der Berichte der vergangenen Zusammenkünfte aller Ph
 - [SoSe 2013 (Jena)](/berichte/SoSe13/Bericht_SommerZaPF13_Jena.pdf)
 - SoSe 2011 (Dresden) – Bericht an die [KFP](/berichte/SoSe11/BerichtDerZaPF_SS2011_KFP.pdf), [Fachschaften](/berichte/SoSe11/BerichtDerZaPF_SS2011_FS.pdf) und [andere BuFaTas](/berichte/SoSe11/BerichtDerZaPF_SS2011_BuFaTa.pdf)
 - [SoSe 2019 (Bonn)](/berichte/SoSe19/Bericht_SoSe19_Bonn.pdf)
+- [WiSe 2019 (Freiburg)](/berichte/WiSe19/Bericht_WiSe19_Freiburg.pdf)
