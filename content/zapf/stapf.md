@@ -3,15 +3,20 @@ date = "2019-01-19T10:00:00+01:00"
 title = "StAPF"
 +++
 
-Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die ZaPF in der Öffentlichkeit.Der StAPF wird auf den ZaPFen gewählt, wobei auf einer Sommer-ZaPF drei und auf einer Winter-ZaPF zwei Mitglieder für jeweils ein Jahr gewählt werden. Er besteht aus maximal fünf Physik-Studierenden von mindestens drei verschiedenen Hochschulen. Er konferiert öffentlich mindestens zweimal zwischen den ZaPFen. Termin und Tagungsort (auf einer ZaPF, öffentlicher Chatraum, etc.) sind rechtzeitig an geeigneter Stelle bekannt zu machen. Der StAPF ist an die Weisungen des Plenums gebunden, kann jedoch eigenverantwortlich handeln und muss seine Beschlüsse dem ZaPF-Plenum gegenüber vertreten. Die Entscheidungen innerhalb des StAPF müssen in diesen Fällen einstimmig fallen. Der StAPF gibt Informationen umgehend an die Fachschaften weiter. Auf jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen. Der StAPF ist für die Archivierung und Veröffentlichung der Ergebnisse der ZaPF verantwortlich, des Weiteren ist er Unterzeichner der ZaPF-Veröffentlichungen.
+Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die ZaPF in der Öffentlichkeit. Das Gremium wird satzungsgemäß auf den ZaPFen gewählt, wobei auf einer Sommer-ZaPF drei und auf einer Winter-ZaPF zwei Mitglieder für jeweils ein Jahr gewählt werden. Er besteht aus maximal fünf Physik-Studierenden von mindestens drei verschiedenen Hochschulen. Er konferiert öffentlich mindestens zweimal zwischen den ZaPFen. Termin und Tagungsort (auf einer ZaPF, öffentlicher Chatraum, etc.) sind rechtzeitig an geeigneter Stelle bekannt zu machen. Der StAPF ist an die Weisungen des Plenums gebunden, kann jedoch eigenverantwortlich handeln und muss seine Beschlüsse dem ZaPF-Plenum gegenüber vertreten. Die Entscheidungen innerhalb des StAPF müssen in diesen Fällen einstimmig fallen. Der StAPF gibt Informationen umgehend an die Fachschaften weiter. Auf jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen. Der StAPF ist für die Archivierung und Veröffentlichung der Ergebnisse der ZaPF verantwortlich, des Weiteren ist er Unterzeichner der ZaPF-Veröffentlichungen.
 
 ## Mitglieder
 
-Der StAPF besteht aktuell aus den folgenden Studierenden:
+Der StAPF besteht aktuell aus den folgenden fünf Studierenden:
 
-In der Amtsperiode Winter 2018 bis Winter 2019 (Gewählt: 25.11.2018 auf dem Abschlussplenum der Winter-ZaPF 2018 in Würzburg): Victoria Schemenz und Chantal Beck
+In der Amtsperiode Winter 2019 bis Winter 2020 (Gewählt: 03.11.2018 auf dem Abschlussplenum der Winter-ZaPF 2019 in Freiburg): 
+* Victoria Schemenz 
+* Anna Summers
 
-In der Amtsperiode Sommer 2019 bis Sommer 2020 (Gewählt: 11.06.2019 auf dem Abschlussplenum der Sommer-ZaPF 2019 in Bonn): Christoph Blattgerste, Andreas Drotloff und Leon Nutzinger
+In der Amtsperiode Sommer 2019 bis Sommer 2020 (Gewählt: 11.06.2019 auf dem Abschlussplenum der Sommer-ZaPF 2019 in Bonn): 
+* Christoph Blattgerste
+* Andreas Drotloff 
+* Leon Nutzinger
 
 ## Mehr Informationen und Kontakt
 
