@@ -5,7 +5,9 @@ title = "Mitgliederversammlung"
 
 Hier finden Sie die Protokolle der letzten Mitgliederversammlungen des ZaPF e.V.:
 
-- [Mitgliederversammlung 24.11.2018 in Würzburg](/protokolle/Protokoll_MV_2018_11_24_Wuerzburg.pdf)
+- [Mitgliederversammlung 13.07.2019 in Berlin](/protokolle/Protokoll_MV_2019_07_13_Berlin.pdf)
+- [Mitgliederversammlung 10.06.2019 in Bonn](/protokolle/Protokoll_MV_2019_06_10_Bonn.pdf)
+- [Mitgliederversammlung 24.11.2018 in WÃ¼rzburg](/protokolle/Protokoll_MV_2018_11_24_Wuerzburg.pdf)
 - [Mitgliederversammlung 20.06.2018 in Heidelberg](/protokolle/Protokoll_MV_2018_06_20_Heidelberg.pdf)
 - [Mitgliederversammlung 21.01.2018 in Frankfurt](/protokolle/Protokoll_MV_2018_01_21_Frankfurt.pdf)
 - [Mitgliederversammlung 31.10.2017 in Siegen](/protokolle/Protokoll_MV_2017_10_31_Siegen.pdf)
