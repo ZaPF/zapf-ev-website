@@ -10,9 +10,8 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Sommersemester 2020 abgesagt
-#### Digitale Alternativen zur Beschlussfassung werden erörtert
+### ZaPF im Wintersemester 2020 an der TU München
 
-Aufgrund der internationalen Corona Pandemie, werden in ganz Deutschland Großveranstaltungen abgesagt. Auch die vom 20.-24. Mai geplante [Ostsee-ZaPF in Rostock](https://ostsee.zapf.in) mit über 200 Teilnehmern kann nicht wie geplant durchgeführt werden. Momentan wird an Alternativen gearbeitet, um digital einen Austausch zu aktuellen Hochschulpolitischen Veränderungen und Geschehnissen zu ermöglichen.
+Vom 5.11.-9.11. findet die ZaPF in Garching bei München in kleinerem Rahmen statt. Dabei werden Präsenzveranstaltungen auch digital zugänglich gemacht, damit möglichst viele Fachschaftsvertreter trotz der erschwerten Bedingungen mitdiskutieren und sich austauschen können. 
+Weitere Infos sind auf der Webseite der [ZaPF in Garching](https://garching.zapf.in) zu finden. 
 
-Die übernächste ZaPF findet voraussichtlich vom 05.11 bis 08.11.2020 in *Garching (München)* statt. Weitere Informationen gibt es [hier](https://zapf.wiki/WiSe20 "ZaPF Winter20 München").
