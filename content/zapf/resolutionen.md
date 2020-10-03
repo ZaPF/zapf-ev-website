@@ -5,8 +5,9 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
-| [Beschluss des Bündnisses Solidarsemester](/resolutionen/sose20/Beschluss_Solidarsemester.pdf) | 02.04.2020 |
+| [Resolution zu Perspektiven der Hochschullehre](/resolutionen/sose20/Reso_Aus_der_Krise_lernen.pdf) | 11.07.2020 |
 | [Positionspapier zu fairen Prüfungsrichtlinien](/resolutionen/sose20/Positionspapier_Pruefungsrichtlinien.pdf) | 18.06.2020 |
+| [Beschluss des Bündnisses Solidarsemester](/resolutionen/sose20/Beschluss_Solidarsemester.pdf) | 02.04.2020 |
 | [Beschluss der Akkreditierungsrichtlinien](/resolutionen/wise19/akkreditierungsrichtlinien/Akkreditierungsrichtlinien.pdf) | 07.12.2019 |
 | [Beschluss zum Studienreform-Forum](/resolutionen/wise19/studienreform/studienreform.pdf) | 07.12.2019 |
 | [Beschluss der Kommentierten Musterrechtsverordnung](/resolutionen/wise19/mrvo/MRVO_kommentar.pdf) | 07.12.2019 |
