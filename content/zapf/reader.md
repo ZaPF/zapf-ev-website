@@ -6,6 +6,7 @@ title = "Tagungs-Reader der ZaPF"
 Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
 
+- [SoSe 2020 (Digital)](/reader/2020_SoSe_Digital.pdf)
 - [SoSe 2019 (Bonn)](/reader/2019_SoSe_Bonn.pdf)
 - [WiSe 2018 (Würzburg)](/reader/2018_WiSe_Wuerzburg.pdf)
 - [SoSe 2018 (Heidelberg)](/reader/2018_SoSe_Heidelberg.pdf)
