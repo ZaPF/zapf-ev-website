@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
+| [Resolution zur Novellierung des Bayrischen Hochschulgesetzes](/resolutionen/wise20/Resolution_Novellierung_BayHSchG.pdf) | 15.11.2020 |
 | [Resolution zu Perspektiven der Hochschullehre](/resolutionen/sose20/Reso_Aus_der_Krise_lernen.pdf) | 11.07.2020 |
 | [Positionspapier zu fairen Prüfungsrichtlinien](/resolutionen/sose20/Positionspapier_Pruefungsrichtlinien.pdf) | 18.06.2020 |
 | [Beschluss des Bündnisses Solidarsemester](/resolutionen/sose20/Beschluss_Solidarsemester.pdf) | 02.04.2020 |
