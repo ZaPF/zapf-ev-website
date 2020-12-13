@@ -9,7 +9,7 @@ Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die 
 
 Der StAPF besteht aktuell aus den folgenden fünf Studierenden:
 
-In der Amtsperiode Sommer 2020 bis Sommer 2021 (Gewählt: 11.07.2020 auf der 2. Sitzung des 18,6 StAPFes): 
+In der Amtsperiode Sommer 2019 bis Sommer 2021 (Gewählt: 11.06.2019 auf dem Abschlussplenum der Sommer-ZaPF 2019 in Bonn - durch den Ausfall der Sommer-ZaPF 2020 hat sich die Amtsperiode bis 2021 verlängert):
 
 - Christoph Blattgerste
 - Andreas Drotloff 
