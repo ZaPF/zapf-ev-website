@@ -23,7 +23,7 @@ Von 1999 bis 2010 war der Sitz des Vereines in Bochum. Die Eintragung beim Amtsg
 
 ## Freistellungsbescheid
 
-Der aktuelle Freistellungsbescheid für 2012 bis 2014 zur Körperschaftsteuer und Gewerbesteuer wurde am 31.01.2017 vom Finanzamt Frankfurt/Main V erteilt.
+Der aktuelle Freistellungsbescheid für 2015 bis 2017 zur Körperschaftsteuer und Gewerbesteuer wurde am 02.10.2019 vom Finanzamt Frankfurt/Main V erteilt.
 
 ## Disclaimer
 
