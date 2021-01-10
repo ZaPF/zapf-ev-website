@@ -5,9 +5,6 @@ zapf:
     Berichte:
       Name: "Berichte"
       URL: "/zapf/berichte"
-    Fachschaften:
-      Name: "Fachschaften"
-      URL: "/zapf/fachschaften"
     GO:
       Name: "Geschäftsordnung"
       URL: "/zapf/go"
@@ -26,6 +23,9 @@ zapf:
     studienfuehrer:
       Name: "Studienführer"
       URL: "/zapf/studienfuehrer"
+    Veroffentlichungen:
+      Name: "Veröffentlichungen"
+      URL: "/zapf/veroffentlichungen"
 
 verein:
   Name: "Der Verein"

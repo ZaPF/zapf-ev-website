@@ -5,7 +5,13 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
-| [Resolution zur Novellierung des Bayrischen Hochschulgesetzes](/resolutionen/wise20/Resolution_Novellierung_BayHSchG.pdf) | 15.11.2020 |
+| [Resolution zur Novellierung des Bayrischen Hochschulgesetzes](/resolutionen/wise20/bayhschg/bayhschg.pdf) | 15.11.2020 |
+| [Forderungskatalag an eine BAföG-Novellierung](/resolutionen/wise20/bafoeg/bafoeg.pdf) | 15.11.2020 |
+| [Positionspapier zu FAIR und Open Data im physikalischen Praktikum](/resolutionen/wise20/opendata/opendata.pdf) | 15.11.2020 |
+| [Unterstützung des Positionspapiers: Qualitätsberichte systemakkreditierter Hochschulen](/resolutionen/wise20/systemakkreditierung/systemakkreditierung.pdf) | 15.11.2020 |
+| [Positionspapier zu Vorschlägen der ZaPF für sinnvolle Vertrauenspersonen-Teams für Fachschaften](/resolutionen/wise20/vertrauenspersonen/vertrauenspersonen.pdf) | 15.11.2020 |
+| [Selbstverpflichtung zur Fertigstellung einer Broschüre studentischen Engagements](/resolutionen/wise20/broschure/broschuere.pdf) | 15.11.2020 |
+| [Mandatierung zu NFDI](/resolutionen/wise20/nfdi/nfdi.pdf) | 12.11.2020 |
 | [Resolution zu Perspektiven der Hochschullehre](/resolutionen/sose20/Reso_Aus_der_Krise_lernen.pdf) | 11.07.2020 |
 | [Positionspapier zu fairen Prüfungsrichtlinien](/resolutionen/sose20/Positionspapier_Pruefungsrichtlinien.pdf) | 18.06.2020 |
 | [Beschluss des Bündnisses Solidarsemester](/resolutionen/sose20/Beschluss_Solidarsemester.pdf) | 02.04.2020 |

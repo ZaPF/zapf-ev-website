@@ -10,8 +10,8 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Wintersemester 2020 an der TU München
+### ZaPF im Sommersemester 2021 an der Uni Rostock
 
-Vom 5.11.-9.11. findet die ZaPF in Garching bei München in kleinerem Rahmen statt. Dabei werden Präsenzveranstaltungen auch digital zugänglich gemacht, damit möglichst viele Fachschaftsvertreter trotz der erschwerten Bedingungen mitdiskutieren und sich austauschen können. 
-Weitere Infos sind auf der Webseite der [ZaPF in Garching](https://garching.zapf.in) zu finden. 
+Trotz der dynamischen Reaktionen auf die Corona-Pandemie wird die ZaPF als Ostsee-ZaPF von der Uni Rostock und der TU Greifswald geplant. Angedacht ist die Tagung für den Mai 2021, wobei ein genaueres Datum und die Form der Tagung noch nicht fest stehen. Auch wenn eine Präsenzveranstaltung zum Austausch und der Meinungsfindung wünschenswert ist, waren vergangene digitale Formate ebenfalls zielführend. 
+Weitere Infos und Neuigkeiten sind auf der Webseite der [Ostsee-ZaPF](https://ostsee.zapf.in) zu finden. 
 
