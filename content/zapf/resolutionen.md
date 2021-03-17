@@ -10,6 +10,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Positionspapier zu FAIR und Open Data im physikalischen Praktikum](/resolutionen/wise20/opendata/opendata.pdf) | 15.11.2020 |
 | [Unterstützung des Positionspapiers: Qualitätsberichte systemakkreditierter Hochschulen](/resolutionen/wise20/systemakkreditierung/systemakkreditierung.pdf) | 15.11.2020 |
 | [Positionspapier zu Vorschlägen der ZaPF für sinnvolle Vertrauenspersonen-Teams für Fachschaften](/resolutionen/wise20/vertrauenspersonen/vertrauenspersonen.pdf) | 15.11.2020 |
+| [Positionspapier zum Solidarsemester-Bündnis](/resolutionen/wise20/solidarsemester/solidarsemester.pdf) | 15.11.2020 |
 | [Selbstverpflichtung zur Fertigstellung einer Broschüre studentischen Engagements](/resolutionen/wise20/broschure/broschuere.pdf) | 15.11.2020 |
 | [Mandatierung zu NFDI](/resolutionen/wise20/nfdi/nfdi.pdf) | 12.11.2020 |
 | [Resolution zu Perspektiven der Hochschullehre](/resolutionen/sose20/Reso_Aus_der_Krise_lernen.pdf) | 11.07.2020 |
