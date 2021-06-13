@@ -5,9 +5,10 @@ title = "Mitgliederversammlung"
 
 Hier finden Sie die Protokolle der letzten Mitgliederversammlungen des ZaPF e.V.:
 
+- [Mitgliederversammlung 20.12.2020 online](/protokolle/Protokoll_MV_2020_12_20_Digital.pdf)
 - [Mitgliederversammlung 12.11.2020 in München](/protokolle/Protokoll_MV_2020_11_12_Muenchen.pdf)
 - [Mitgliederversammlung 06.06.2020 online](/protokolle/Protokoll_MV_2020_06_06_Digital.pdf)
-- [Mitgliederversammlung 01.11.2019 in Freiburg](/protokolle/Protokoll_MV_2019_01_11_Freiburg.pdf)
+- [Mitgliederversammlung 01.11.2019 in Freiburg](/protokolle/Protokoll_MV_2019_11_01_Freiburg.pdf)
 - [Mitgliederversammlung 13.07.2019 in Berlin](/protokolle/Protokoll_MV_2019_07_13_Berlin.pdf)
 - [Mitgliederversammlung 10.06.2019 in Bonn](/protokolle/Protokoll_MV_2019_06_10_Bonn.pdf)
 - [Mitgliederversammlung 24.11.2018 in Würzburg](/protokolle/Protokoll_MV_2018_11_24_Wuerzburg.pdf)

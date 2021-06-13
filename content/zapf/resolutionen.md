@@ -5,6 +5,8 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
+| [Resolution zur Überarbeitung der MRVO](/resolutionen/sose21/mrvo/mrvo.pdf) | 23.05.2021 |
+| [Positionspapier zur Einbindung von Forschungsdatenmanagement in der Lehre](/resolutionen/sose21/fdm/fdm.pdf) | 23.05.2021 |
 | [Resolution zur Novellierung des Bayrischen Hochschulgesetzes](/resolutionen/wise20/bayhschg/bayhschg.pdf) | 15.11.2020 |
 | [Forderungskatalag an eine BAföG-Novellierung](/resolutionen/wise20/bafoeg/bafoeg.pdf) | 15.11.2020 |
 | [Positionspapier zu FAIR und Open Data im physikalischen Praktikum](/resolutionen/wise20/opendata/opendata.pdf) | 15.11.2020 |
