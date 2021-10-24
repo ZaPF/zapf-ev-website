@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
+| [Resolution zur universitären Nutzung von Videokonferenz- und cloudbasierten Diensten](/resolutionen/sose21/Datenschutzbeauftragte/datenschutzbeauftragte.pdf) | 23.05.2021 |
 | [Resolution zur Überarbeitung der MRVO](/resolutionen/sose21/mrvo/mrvo.pdf) | 23.05.2021 |
 | [Positionspapier zur Einbindung von Forschungsdatenmanagement in der Lehre](/resolutionen/sose21/fdm/fdm.pdf) | 23.05.2021 |
 | [Resolution zur Novellierung des Bayrischen Hochschulgesetzes](/resolutionen/wise20/bayhschg/bayhschg.pdf) | 15.11.2020 |
