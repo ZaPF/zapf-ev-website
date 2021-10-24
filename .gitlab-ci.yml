@@ -1,8 +1,21 @@
 stages:
   - build
+  - sync
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
+
+sync-job:
+  stage: build
+  image:
+    name: alpine
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+    - if: $CI_PIPELINE_SOURCE == "trigger"
+    - if: $CI_PIPELINE_SOURCE == "web"
+  script:
+    - apk add git
+    - git pull --ff-only https://github.com/ZaPF/zapf-ev-website.git main
 
 build-job:
   stage: build
