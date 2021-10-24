@@ -16,7 +16,7 @@ sync-job:
   script:
     - apk add git
     - git pull --ff-only https://github.com/ZaPF/zapf-ev-website.git main
-    - git push https://gitlab-ci-token:${GITLAB_PUSH_ACCESS_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH} main
+    - git push https://gitlab-ci-token:${GITLAB_PUSH_ACCESS_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git main
 
 build-job:
   stage: build
