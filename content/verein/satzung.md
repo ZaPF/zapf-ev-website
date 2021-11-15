@@ -281,7 +281,7 @@ Organe des Vereins sind
 2.  Die rechtswidrige oder unwirksame Bestimmung ist unverzüglich durch
     Beschluss der nächsten Mitgliederversammlung zu ersetzen.
     
-§14 Salvatorische Klausel
+§14 Schlussbestimmungen
 =========================
 
 Diese Satzung wurde in der Mitgliederversammlung am 30.~Mai~2015 beschlossen und zuletzt am 31.~Oktober~2017 geändert. Sie tritt mit sofortiger Wirkung in Kraft. Alle vorherigen Versionen treten damit außer Kraft.
