@@ -4,13 +4,13 @@ title = "Vereinssatzung"
 +++
 
 Beschlossen am 30.05.2015 in Frankfurt. Zuletzt geändert auf der
-Mitgliederversammlung am 12.11.2016.
+Mitgliederversammlung am 31.10.2017.
 
 Eingetragen im Vereinsregister des Amtsgerichtes Frankfurt unter der
 Registriernummer VR 14547.
 
 
-§1 Name, Sitz und Geschäftsjahr [name-sitz-und-geschäftsjahr]
+§1 Name, Sitz und Geschäftsjahr
 ===============================
 
 1.  Der Verein führt den Namen Zusammenkunft aller Physik Fachschaften
@@ -21,7 +21,7 @@ Registriernummer VR 14547.
 
 3.  Das Geschäftsjahr ist das Kalenderjahr.
 
-§2 Zweck des Vereins [zweck-des-vereins]
+§2 Zweck des Vereins
 ====================
 
 Der Verein dient der Förderung
@@ -39,7 +39,7 @@ einzelnen Studierendenvertretungen und soll so eine überregionale
 Koordination ermöglichen. Durch Fachvorträge soll über neueste Entwicklungen
 aus Wissenschaft, Forschung und Technologie berichtet werden.
 
-§3 Gemeinnützigkeit [gemeinnützigkeit]
+§3 Gemeinnützigkeit
 ===================
 
 Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke
@@ -51,7 +51,7 @@ Mitglied keine Zuwendung aus den Mitteln des Vereins. Es darf keine
 Person durch Ausgaben, die dem Vereinszweck fremd sind oder durch
 unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-§4 Erwerb der Mitgliedschaft [erwerb-der-mitgliedschaft]
+§4 Erwerb der Mitgliedschaft
 ============================
 
 1. Mitglied des Vereins kann jede natürliche Person werden, die die Satzung
@@ -67,7 +67,7 @@ unverhältnismäßig hohe Vergütungen begünstigt werden.
 4. Die Mitgliedschaft wird durch Antrag in Textform erworben. Es sollen die
    Bereitgestellten Vorlagen verwendet werden
 
-§5 Beendigung der Mitgliedschaft [beendigung-der-mitgliedschaft]
+§5 Beendigung der Mitgliedschaft
 ================================
 
 1.  Die Mitgliedschaft ordentlicher Mitglieder endet unverzüglich durch
@@ -90,7 +90,7 @@ unverhältnismäßig hohe Vergütungen begünstigt werden.
     ein Mitglied ausschließen. Als wichtiger Grund zählt ein Verstoß
     gegen die Vereinsinteressen.
 
-§6 Finanzen [finanzen]
+§6 Finanzen
 ===========
 
 1. Es wird kein Mitgliedsbeitrag für ordentliche Mitglieder erhoben. Ist ein
@@ -105,7 +105,7 @@ unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 4. Näheres regelt die [Beitragsordnung](/dokumente/Beitragsordnung_ZaPF_eV.pdf).
 
-§7 Organe des Vereins [organe-des-vereins]
+§7 Organe des Vereins
 =====================
 
 Organe des Vereins sind
@@ -114,7 +114,7 @@ Organe des Vereins sind
 
 2.  Die Mitgliederversammlung
 
-§8 Die Mitgliederversammlung [die-mitgliederversammlung]
+§8 Die Mitgliederversammlung
 ============================
 
 1.  Die Mitgliederversammlung ist das höchste Organ des Vereins und
@@ -155,7 +155,7 @@ Organe des Vereins sind
 
     -   Auflösung des Vereins (3/4 Mehrheit)
 
-§9 Vorstand [vorstand]
+§9 Vorstand
 ===========
 
 1.  Der Vorstand nach § 26 BGB besteht aus der/dem Vorsitzenden, der/dem
@@ -213,7 +213,7 @@ Organe des Vereins sind
 
     2.  Akquise und Betreuung von Fördermitgliedern und Spendern.
 
-§10 Entlastung des Vorstandes [entlastung-des-vorstandes]
+§10 Entlastung des Vorstandes
 =============================
 
 1. Die Vorstandsmitglieder legen am Ende ihrer Amtszeit ihrer
@@ -229,7 +229,7 @@ Organe des Vereins sind
 
 3. Ein Vorstandsmitglied kann nicht über seine eigene Entlastung abstimmen.
 
-§11 Satzungsänderung [satzungsänderung]
+§11 Satzungsänderung
 ====================
 
 1. Eine Satzungsänderung kann nur beschlossen werden, wenn sie vorher auf
@@ -250,11 +250,11 @@ Organe des Vereins sind
    Sie sind den Mitgliedern spätestens mit der nächsten Einladung zur
    Mitgliederversammlung mitzuteilen.
 
-§12 Auflösung [auflösung]
+§12 Auflösung
 =============
 
 1.  Die Auflösung des Vereins kann von der Mitgliederversammlung nur mit
-     Mehrheit der Stimmen der anwesenden stimmberechtigten Mitglieder
+    3/4 Mehrheit der Stimmen der anwesenden stimmberechtigten Mitglieder
     des Vereins erfolgen.
 
 2.  Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall
@@ -267,7 +267,7 @@ Organe des Vereins sind
 3.  Bei der Auflösung wählt die Mitgliederversammlung zwei Mitglieder zu
     vertretungsberechtigten Liquidatoren.
 
-§13 Salvatorische Klausel [salvatorische-klausel]
+§13 Salvatorische Klausel
 =========================
 
 1.  Sollte eine der Bestimmungen dieser Satzung ganz oder teilweise
@@ -280,5 +280,10 @@ Organe des Vereins sind
 
 2.  Die rechtswidrige oder unwirksame Bestimmung ist unverzüglich durch
     Beschluss der nächsten Mitgliederversammlung zu ersetzen.
+    
+§14 Salvatorische Klausel
+=========================
 
-Dresden, den 12. November 2016
+Diese Satzung wurde in der Mitgliederversammlung am 30.~Mai~2015 beschlossen und zuletzt am 31.~Oktober~2017 geändert. Sie tritt mit sofortiger Wirkung in Kraft. Alle vorherigen Versionen treten damit außer Kraft.
+
+Siegen, der 31. Oktober 2017
