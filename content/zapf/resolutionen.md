@@ -5,6 +5,12 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
+| [Resolution zur Unterstützung des Bündnis 50 Jahre BAfÖG](/resolutionen/sose21/BAföG/bafög.pdf) | 23.05.2021 |
+| [Resolution für ein barrierefreies Studium](/resolutionen/sose21/Barrierefreies Studium/barfrei.pdf) | 23.05.2021 |
+| [Resolution zum Entwurf des Bayerischen Hochschulinnovationsgesetzes](/resolutionen/sose21/BayHIG/BayHIG.pdf) | 23.05.2021 |
+| [Positionspapier zu Mobilität und Durchlässigkeit](/resolutionen/sose21/Mobilität/mobilität2.pdf) | 23.05.2021 |
+| [Resolution zum Umdenken in den Universitäten hin zu Open-Source-Lösungen](/resolutionen/sose21/opensource/opensource.pdf) | 23.05.2021 |
+| [Resolution zur universitären Nutzung von Videokonferenz- und cloudbasierten Diensten - Hochschulen](/resolutionen/sose21/Datenschutz an Hochschulen/datenschutzhochschule.pdf) | 23.05.2021 |
 | [Resolution zur universitären Nutzung von Videokonferenz- und cloudbasierten Diensten](/resolutionen/sose21/Datenschutzbeauftragte/datenschutzbeauftragte.pdf) | 23.05.2021 |
 | [Resolution zur Überarbeitung der MRVO](/resolutionen/sose21/mrvo/mrvo.pdf) | 23.05.2021 |
 | [Positionspapier zur Einbindung von Forschungsdatenmanagement in der Lehre](/resolutionen/sose21/fdm/fdm.pdf) | 23.05.2021 |
