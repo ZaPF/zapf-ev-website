@@ -10,8 +10,8 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Sommersemester 2021 an der Uni Rostock
+### ZaPF im Sommersemester 2022 in Bochum
 
-Trotz der dynamischen Reaktionen auf die Corona-Pandemie wird die ZaPF als Ostsee-ZaPF von der Uni Rostock und der TU Greifswald geplant. Angedacht ist die Tagung für den Mai 2021, wobei ein genaueres Datum und die Form der Tagung noch nicht fest stehen. Auch wenn eine Präsenzveranstaltung zum Austausch und der Meinungsfindung wünschenswert ist, waren vergangene digitale Formate ebenfalls zielführend. 
-Weitere Infos und Neuigkeiten sind auf der Webseite der [Ostsee-ZaPF](https://ostsee.zapf.in) zu finden. 
+Die Sommer-ZapF 2022 findet in Bochum statt. Geplant ist der Zeitraum vom 03. bis 07. Juni 2022.
+Sobald die Webseite entstanden ist, wird sie an dieser Stelle verlinkt sein.
 
