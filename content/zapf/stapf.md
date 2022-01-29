@@ -20,6 +20,7 @@ In der Amtsperiode Winter 2021 bis Winter 2022 (Gewählt: 4.12.2021 auf dem Absc
 - Sophie Penger
 - Maximilian Schneider
 
+
 ## Mehr Informationen und Kontakt
 
 Mehr zum StAPF findet sich im ZaPF-Wiki unter [StAPF](http://zapf.wiki/StAPF).
