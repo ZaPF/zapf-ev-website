@@ -10,8 +10,8 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Sommersemester 2022 in Bochum
+### ZaPF im Wintersemester 2022 in Hamburg
 
-Die Sommer-ZapF 2022 findet in Bochum statt. Geplant ist der Zeitraum vom 03. bis 07. Juni 2022.
+Die Winter-ZapF 2022 findet in Hamburg statt. Geplant ist der Zeitraum vom 10. bis 13. November 2022.
 Sobald die Webseite entstanden ist, wird sie an dieser Stelle verlinkt sein.
 
