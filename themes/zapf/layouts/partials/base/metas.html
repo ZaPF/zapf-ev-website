@@ -63,7 +63,7 @@
 {{ end }}
 
 {{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}
-<link rel="canonical" href="{{ .Permalink }}" />
+<link rel="canonical" href="{{ .RelPermalink }}" />
 
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/touch-icon-144-precomposed.png" | absURL }}">
 <link href="{{ "/favicon.ico" | absURL }}" rel="icon">
