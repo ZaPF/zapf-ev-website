@@ -14,7 +14,7 @@ In der Amtsperiode Winter 2021 bis Winter 2022 (Gewählt: 4.12.2021 auf dem Absc
 - Sophie Penger
 - Maximilian Schneider
 
-In der Amtsperiode Sommer 2022 bis Sommer 2023 (Gewählt: 7.06.2021 auf dem Abschlussplenum der Sommer-ZaPF 2022 in Bochum:
+In der Amtsperiode Sommer 2022 bis Sommer 2023 (Gewählt: 7.06.2022 auf dem Abschlussplenum der Sommer-ZaPF 2022 in Bochum):
 
 - Charlotte Geiger
 - Niklas Jamborek
