@@ -5,6 +5,9 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|  
+| [Resolution zur Schaffung von Anrechnungsmöglichkeiten für bürgerschaftliches Engagement](/resolutionen/wise21/Anrechnung_buergerschaftliches_Engagement/Anrechnung_buergerschaftliches_Engagement.pdf) | 04.12.2021 |
+| [Resolution zur freien Open Source Software](/resolutionen/wise21/FOSS/FOSS.pdf) | 04.12.2021 |
+| [Resolution zum geplanten Versammlungsgesetz in NRW](/resolutionen/wise21/Versammlungsgesetz_NRW/VersammlungsgesetzNRW.pdf) | 04.12.2021 |
 | [Resolution zur Unterstützung des Bündnis 50 Jahre BAfÖG](/resolutionen/sose21/BAföG/bafög.pdf) | 23.05.2021 |
 | [Resolution für ein barrierefreies Studium](/resolutionen/sose21/Barrierefreies_Studium/barfrei.pdf) | 23.05.2021 |
 | [Resolution zum Entwurf des Bayerischen Hochschulinnovationsgesetzes](/resolutionen/sose21/BayHIG/BayHIG.pdf) | 23.05.2021 |
