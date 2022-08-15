@@ -1,5 +1,4 @@
-Hyde-Y
-======
+# Hyde-Y
 
 <small>Forked from [Hyde-X](https://github.com/zyro/hyde-x)</small>
 
@@ -24,6 +23,7 @@ See the [official Hugo themes documentation](http://gohugo.io/themes/installing)
 ## Usage
 
 This theme expects a relatively standard Hugo blog/personal site layout:
+
 ```
 .
 └── content
@@ -45,7 +45,7 @@ Just run `hugo --theme=hyde-y` to generate your site!
 
 An example of what your site's `config.toml` could look like. All theme-specific parameters are under `[params]` and standard Hugo parameters are used where possible.
 
-``` toml
+```toml
 # hostname (and path) to the root eg. http://spf13.com/
 baseurl = "http://www.example.com"
 
@@ -186,26 +186,26 @@ The task `watch` allows to rebuild the stylesheet when a change is spotted on `s
 
 ## Tips
 
-* If you've added `theme = "hyde-y"` to your `config.toml`, you don't need to keep using the `--theme=hyde-y` flag!
-* Although all of the syntax highlight CSS files under the theme's `static/css/highlight` are bundled with the site, only the one you choose will be included in the page and delivered to the browser.
-* Change the favicon by providing your own as `static/favicon.png` (and `static/touch-icon-144-precomposed.png` for Apple devices) in your site directory.
-* Hugo makes it easy to override theme layout and behaviour, read about it [here](http://gohugo.io/themes/customizing).
-* Pagination is set to 10 items by default, change it by updating `paginate = 10` in your `config.toml`.
+- If you've added `theme = "hyde-y"` to your `config.toml`, you don't need to keep using the `--theme=hyde-y` flag!
+- Although all of the syntax highlight CSS files under the theme's `static/css/highlight` are bundled with the site, only the one you choose will be included in the page and delivered to the browser.
+- Change the favicon by providing your own as `static/favicon.png` (and `static/touch-icon-144-precomposed.png` for Apple devices) in your site directory.
+- Hugo makes it easy to override theme layout and behaviour, read about it [here](http://gohugo.io/themes/customizing).
+- Pagination is set to 10 items by default, change it by updating `paginate = 10` in your `config.toml`.
 
 ## Changes and enhancements from the original theme
 
-* Highly customizable: every layout blocks are pieces of HTML code individually stored.
-* Consistent hierarchy for the partials and templates files to assist the overrides of any layout block.
-* Adjustable sidebar in config file.
-* Project layout (badges, github ribbon) for posts stored in `content/code/` folder.
-* CSS built with [KNACSS](http://knacss.com/) micro-framework.
-* Client-side syntax highlighting through [highlight.js](https://highlightjs.org/), sane fallback if disabled or no JS - infinitely more flexible than the standard Hugo highlighting.
-* Disqus integration: comment counts listed under blog entry names in post list, comments displayed at the bottom of each post.
-* Google Analytics integration.
-* Google Authorship metadata.
-* Paginated blog listing.
-* [FontAwesome](http://fortawesome.github.io/Font-Awesome) social links.
-* ...many other small layout tweaks!
+- Highly customizable: every layout blocks are pieces of HTML code individually stored.
+- Consistent hierarchy for the partials and templates files to assist the overrides of any layout block.
+- Adjustable sidebar in config file.
+- Project layout (badges, github ribbon) for posts stored in `content/code/` folder.
+- CSS built with [KNACSS](http://knacss.com/) micro-framework.
+- Client-side syntax highlighting through [highlight.js](https://highlightjs.org/), sane fallback if disabled or no JS - infinitely more flexible than the standard Hugo highlighting.
+- Disqus integration: comment counts listed under blog entry names in post list, comments displayed at the bottom of each post.
+- Google Analytics integration.
+- Google Authorship metadata.
+- Paginated blog listing.
+- [FontAwesome](http://fortawesome.github.io/Font-Awesome) social links.
+- ...many other small layout tweaks!
 
 ## Attribution
 
