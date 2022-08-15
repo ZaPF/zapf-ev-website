@@ -6,14 +6,12 @@ title = "Kürzlich veröffentlichte Resolutionen"
 |Titel | Veröffentlicht am |
 |---|---|  
 | [Resolution zur Gleichstellung von durch Drittmittel finanzierten Stellen mit Qualifizierungsstellen](/resolutionen/sose22/WissZeitVG/WissZeitVG.pdf) | 07.06.2022 |
-| [Resolution zur wiederaufnahme der Wissenschaftlichen Kooperationen](/resolutionen/sose22/Wissenschaftliche_Kooperation_wieder_aufnehmen/Wissenschaftliche_Kooperation_wieder_aufnehmen.pdf) | 07.06.2022 |
 | [Resolution zu Studierendenwerke](/resolutionen/sose22/Studwerk/Studwerk.pdf) | 07.06.2022 |
 | [Positionspapier zur Wissenschaftskommunikation](/resolutionen/sose22/PosPa_Wissenschaftskommunikation/PosPa_Wissenschaftskommunikation.pdf) | 07.06.2022 |
 | [Resolution zur den Koalitionsverhandlungen in NRW](/resolutionen/sose22/NRW-Koalitionsverhandlungen/NRW-Koalitionsverhandlungen.pdf) | 07.06.2022 |
 | [Resolution zur Nachhaltigkeit](/resolutionen/sose22/Nachhaltigkeit/Nachhaltigkeit.pdf) | 07.06.2022 |
 | [Resolution zur niederschwelligen Bereitstellung von Menstruationsprodukten an Hochschulen](/resolutionen/sose22/Menstuationsprodukte/Menstuationsprodukte.pdf) | 07.06.2022 |
 | [Resolution zum Heizkostenzuschuss](/resolutionen/sose22/Heizkosten/Heizkosten.pdf) | 07.06.2022 |
-| [Resolution zur Unterstützung der Global Peace Dividend Initiative](/resolutionen/sose22/Global_Peace_Dividend/Global_Peace_Dividend.pdf) | 07.06.2022 |
 | [Resolution zur BAföG Novellierung](/resolutionen/sose22/Bafög_22/Bafög_22.pdf) | 07.06.2022 |
 | [Resolution zur Schaffung von Anrechnungsmöglichkeiten für bürgerschaftliches Engagement](/resolutionen/wise21/Anrechnung_buergerschaftliches_Engagement/Anrechnung_buergerschaftliches_Engagement.pdf) | 04.12.2021 |
 | [Resolution zur freien Open Source Software](/resolutionen/wise21/FOSS/FOSS.pdf) | 04.12.2021 |
