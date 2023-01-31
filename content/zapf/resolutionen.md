@@ -21,7 +21,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Resolution zur Nachhaltigkeit](/resolutionen/sose22/Nachhaltigkeit/Nachhaltigkeit.pdf) | 07.06.2022 |
 | [Resolution zur niederschwelligen Bereitstellung von Menstruationsprodukten an Hochschulen](/resolutionen/sose22/Menstuationsprodukte/Menstuationsprodukte.pdf) | 07.06.2022 |
 | [Resolution zum Heizkostenzuschuss](/resolutionen/sose22/Heizkosten/Heizkosten.pdf) | 07.06.2022 |
-| [Resolution zur BAföG Novellierung](/resolutionen/sose22/bsafoeg_22/Bafoeg_22.pdf) | 07.06.2022 |
+| [Resolution zur BAföG Novellierung](/resolutionen/sose22/bafoeg_22/Bafoeg_22.pdf) | 07.06.2022 |
 | [Resolution zur Schaffung von Anrechnungsmöglichkeiten für bürgerschaftliches Engagement](/resolutionen/wise21/Anrechnung_buergerschaftliches_Engagement/Anrechnung_buergerschaftliches_Engagement.pdf) | 04.12.2021 |
 | [Resolution zur freien Open Source Software](/resolutionen/wise21/FOSS/FOSS.pdf) | 04.12.2021 |
 | [Resolution zum geplanten Versammlungsgesetz in NRW](/resolutionen/wise21/Versammlungsgesetz_NRW/VersammlungsgesetzNRW.pdf) | 04.12.2021 |
