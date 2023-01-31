@@ -17,6 +17,9 @@ zapf:
     Satzung:
       Name: "Satzung"
       URL: "/zapf/satzung"
+    Kodex:
+      Name: "Kodex"
+      URL: "/zapf/kodex"
     StAPF:
       Name: "StAPF"
       URL: "/zapf/stapf"
