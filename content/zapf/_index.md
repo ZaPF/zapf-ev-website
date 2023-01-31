@@ -7,11 +7,6 @@ Die Zusammenkunft aller deutschsprachigen Physik-Fachschaften, kurz ZaPF, ist di
 
 ---
 
-### ZaPF im Wintersemester 2022 in Hamburg
-
-Vom 10. bis 13. November 2022 findet die Winter-ZaPF in Hamburg statt.
-
-
 ### ZaPF im Sommersemester 2023 in Berlin
 
 Im Sommersemester 2023 wird die ZaPF in Berlin stattfinden. 

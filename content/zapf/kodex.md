@@ -8,7 +8,7 @@
 
 Stellungnahme der Zusammenkunft aller Physik-Fachschaften gegen Diskrimi- nierung, Ausschließung und grenzüberschreitendes Verhalten, “beschlossen”* in Wien.
 
---
+---
 
 Wir wollen die ZaPF gemeinsam in einem respektvollen Miteinander gestalten.
 Wir wollen inklusive, diskriminierungsfreie und offene Kommunikation mitein- ander.
@@ -44,5 +44,6 @@ Mit der Anmeldung zu einer entsprechenden Veranstaltung, spätestens jedoch mit
 
 Verabschiedet am 13. November 2022 auf der ZaPF in Hamburg.
 
--- 
+---
+
 *Da das Abschlussplenumsprotokoll aus Wien verschwunden ist, kann der Beschluss historisch nicht belegt werden.
