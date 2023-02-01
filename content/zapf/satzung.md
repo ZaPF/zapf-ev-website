@@ -17,10 +17,10 @@ Fachschaften Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 
 ## §3 Aufgaben
 
-Die ZaPF findet einmal pro Semester statt und tagt öffentlich. Sie dient dem
-Sammeln und der Diskussion von Informationen und tritt mit den Resultaten
-gegebenenfalls an die Öffentlichkeit oder an Dritte heran.
-Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den
+Die ZaPF findet einmal pro Semester statt und tagt öffentlich. Sie dient dem 
+Sammeln und der Diskussion von Informationen und tritt mit den Resultaten 
+gegebenenfalls an die Öffentlichkeit oder an Dritte heran. 
+Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den 
 Fachschaften.
 
 Die ZaPF befasst sich mit studien- und hochschulrelevanten Themen. Sie besitzt
@@ -55,8 +55,7 @@ anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
-Die Nachwahl findet zum nächstmöglichen Zeitpunkt auf einem Abschlussplenum
-einer Tagung statt.
+Die Nachwahl findet auf einem Plenum der nächstmöglichen Tagung statt.
 Sollten nach einer Wahl Posten unbesetzt sein, bleiben sie vakant.
 
 Falls mindestens zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen,
@@ -73,12 +72,12 @@ Tagung.
 
 ### (a) Das ZaPF-Plenum
 
-Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt
-sich aus allen Teilnehmerinnen und Teilnehmern der jeweiligen ZaPF zusammen.
+Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt 
+sich aus allen teilnehmenden Personen der jeweiligen ZaPF zusammen.
 
-Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum vorbereitet.
-Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertreter und Vertreterinnen
-für den studentischen Akkreditierungspool für Bachelor- und Masterstudiengänge und
+Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum vorbereitet. 
+Zu seinen Beschlusskompetenzen zählt auch die Wahl der vertretenden Personen für 
+den studentischen Akkreditierungspool für Bachelor- und Masterstudiengänge und 
 ähnliche Gremien.
 
 Das Plenum beschließt ebenfalls die nächsten Veranstaltungsorte der ZaPF.
@@ -87,114 +86,116 @@ Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
 
 ### (b) Der Ständige Ausschuss der Physik-Fachschaften
 
-Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der
+Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der 
 Öffentlichkeit.
 
-Der StAPF besteht aus maximal fünf natürlichen Personen von mindestens drei
+Der StAPF besteht aus maximal fünf natürlichen Personen von mindestens drei 
 verschiedenen Hochschulen, welche für jeweils ein Jahr gewählt werden.
 
 Die Amtszeit von drei Mitgliedern des StAPF beginnt zu einer im Sommersemester
 stattfindenden ZaPF und die zweier StAPF-Mitglieder zu einer im Wintersemester
 stattfindenden ZaPF.
 
-Der StAPF konferiert öffentlich mindestens zweimal zwischen den ZaPFen.
-Termin und Tagungsort (auf einer ZaPF, öffentlicher Chatraum, etc.) sind
+Der StAPF konferiert öffentlich mindestens zweimal zwischen den ZaPFen. 
+Termin und Tagungsort (auf einer ZaPF, öffentlicher Chatraum, etc.) sind 
 rechtzeitig an geeigneter Stelle bekannt zu machen.
 
-Der StAPF ist an die Weisungen des Plenums gebunden, kann jedoch
+Der StAPF ist an die Weisungen des Plenums gebunden, kann jedoch 
 eigenverantwortlich handeln und muss seine Beschlüsse dem ZaPF-Plenum gegenüber
-vertreten.
-Die Entscheidungen innerhalb des StAPF müssen in diesen Fällen einstimmig fallen.
-Der StAPF ist beschlussfähig falls mindestens drei seiner Mitglieder auf einer
-Sitzung anwesend sind und der Beschluss in der Sitzungseinladung angekündigt
+vertreten. 
+Die Entscheidungen innerhalb des StAPF müssen in diesen Fällen einstimmig fallen. 
+Der StAPF ist beschlussfähig falls mindestens drei seiner Mitglieder auf einer 
+Sitzung anwesend sind und der Beschluss in der Sitzungseinladung angekündigt 
 wurde.
 
-Der StAPF gibt Informationen umgehend an die Fachschaften weiter.
+Der StAPF gibt Informationen umgehend an die Fachschaften weiter. 
 Auf jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen.
 
 Der StAPF ist für die Archivierung und Veröffentlichung der Ergebnisse der ZaPF
-verantwortlich, des Weiteren ist er Unterzeichner der ZaPF-Veröffentlichungen.
-Der StAPF wählt sich aus seiner Mitte einen Sprecher.
+verantwortlich, des Weiteren ist er Unterzeichner der ZaPF-Veröffentlichungen. 
+Der StAPF wählt sich aus seiner Mitte eine ihn repräsentierende Person. 
+Diese Person darf sich als die "STIMME der ZaPF" bezeichnen.
 
-Sollten alle Posten des StAPFes vakant sein, übernehmen die von der ZaPF
-entsandten Mitglieder des Kommunikationsgremiums oder, falls diese vakant sind,
-die Mitglieder des Technischen Organisationsausschuss aller Physikfachschaften
-oder, falls auch diese vakant sind, die Mitglieder der letzten die ZaPF
-ausrichtenden Fachschaft die Archivierungs- und Veröffentlichungsaufgaben des
+Sollten alle Posten des StAPFes vakant sein, übernehmen die von der ZaPF 
+entsandten Mitglieder des Kommunikationsgremiums oder, falls diese vakant sind, 
+die Mitglieder des Technischen Organisationsausschuss aller Physikfachschaften 
+oder, falls auch diese vakant sind, die Mitglieder der letzten die ZaPF 
+ausrichtenden Fachschaft die Archivierungs- und Veröffentlichungsaufgaben des 
 StAPF.
 
 ### (c) Die Vertrauenspersonen
 
-Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende Personen, die
+Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende Personen, die 
 Ausgrenzung, Diskriminierung oder Belästigung im Rahmen der ZaPF erfahren haben.
 
 Die Wahl der höchstens sechs Vertrauenspersonen ist zu Beginn jeder ZaPF durchzuführen.
-Ihre Amtszeit endet mit dem Ende des Abschlussplenums oder Niederlegung des Amtes.
+Unabhängig von der Zahl der zurückgetretenen Mitglieder gilt die verbliebene Gruppe der 
+Vertrauenspersonen weiterhin als gewählt.
 
-Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF
-gesondert zu regeln.
+Die Amtszeit der Vertrauenspersonen beginnt mit der Annahme der Wahl und 
+endet mit Beginn der nächsten ZaPF. 
+Für vakante Plätze bei den Vertrauenspersonen findet keine Nachwahl statt.
+
+Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF gesondert zu regeln.
 
 ### (d) Das Kommunikationsgremium
 
 Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und jDPG.
 
-Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie
-die Veröffentlichung gemeinsamer Beschlüsse.
-Weiterhin entsendet dieses Gremium einen gemeinsamen Vertreter oder eine
-gemeinsame Vertreterin zur KFP.
+Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie 
+die Veröffentlichung gemeinsamer Beschlüsse. 
+Weiterhin entsendet dieses Gremium gemeinsam eine vertretende Person zur KFP.
 
 Die ZaPF entsendet zwei Mitglieder in das Kommunikationsgremium.
 
-Davon beginnt die Amtszeit eines Mitgliedes auf einer ZaPF im Sommersemester und
+Davon beginnt die Amtszeit eines Mitgliedes auf einer ZaPF im Sommersemester und 
 die des anderen Mitgliedes auf einer ZaPF im Wintersemester.
 
 Die Amtszeit der Mitglieder im Kommunikationsgremium beläuft sich auf ein Jahr.
 
-Näheres regelt das Dokument zur "Regelung zur Zusammenarbeit von jDPG und ZaPF
+Näheres regelt das Dokument zur "Regelung zur Zusammenarbeit von jDPG und ZaPF 
 in hochschulpolitischen Fragestellungen" in der Fassung vom Endplenum der ZaPF
 im Sommersemester 2010 in Frankfurt.
 
 ### (e) Der Technische Organisationsausschuss aller Physikfachschaften (TOPF)
 
-Der Technische Organisationsausschuss aller Physikfachschaften (TOPF) ist für
+Der Technische Organisationsausschuss aller Physikfachschaften (TOPF) ist für 
 die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF verantwortlich.
 
-Er besteht aus zwei vom Plenum zu bestimmenden Personen, die für die
-Aufrechterhaltung des Betriebs und die Dokumentation der Basissysteme
-hauptverantwortlich sind, und einer beliebigen Anzahl von freiwilligen Helfern,
-die für die Dokumentation und den Betrieb von einzelnen Projekten verantwortlich
-sind.
+Er besteht aus zwei vom Plenum zu bestimmenden Personen, die für die 
+Aufrechterhaltung des Betriebs und die Dokumentation der Basissysteme 
+hauptverantwortlich sind, und einer beliebigen Anzahl von freiwillig Helfenden, 
+die für die Dokumentation und den Betrieb von einzelnen Projekten verantwortlich sind.
 
-Die Hauptverantwortlichen sind dem Plenum und dem StAPF rechenschaftspflichtig
-und an ihre Weisungen gebunden. Insbesondere hat das Plenum die Möglichkeit,
-Datenschutzerklärungen und Nutzungsordnungen sowohl für das Gesamtsystem als
+Die hauptverantwortlichen Personen sind dem Plenum und dem StAPF rechenschaftspflichtig 
+und an ihre Weisungen gebunden. Insbesondere hat das Plenum die Möglichkeit, 
+Datenschutzerklärungen und Nutzungsordnungen sowohl für das Gesamtsystem als 
 auch für einzelne Projekte zu bestimmen.
 
-Die freiwilligen Helfer werden nicht gewählt, sondern durch die beiden
-Hauptverantwortlichen gemeinsam bestimmt. Sie sind ihnen rechenschaftspflichtig
+Die freiwillig Helfenden werden nicht gewählt, sondern durch die beiden 
+hauptverantwortlichen Personen gemeinsam bestimmt. Sie sind ihnen rechenschaftspflichtig 
 sowie an deren Weisungen und die erlassenen Ordnungen gebunden.
 
-Die Amtszeit eines Hauptverantwortlichen beginnt zu einer im Sommersemester
-stattfindenden ZaPF, die des anderen zu einer im Wintersemester stattfindenden
-ZaPF.
+Die Amtszeit einer hauptverantwortlichen Person beginnt zu einer im Sommersemester 
+stattfindenden ZaPF, die der anderen zu einer im Wintersemester stattfindenden ZaPF.
 
-Die Amtszeit der Hauptverantwortlichen beträgt ein Jahr.
+Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.
 
 ## §6 Satzungsänderungen
 
 Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei Beschlussfähigkeit
-des Plenums vor der Abstimmung zwingend festzustellen ist. Satzungsänderungen
-sind nicht durch Initiativanträge möglich und können nur auf dem Endplenum
+des Plenums vor der Abstimmung zwingend festzustellen ist. Satzungsänderungen 
+sind nicht durch Initiativanträge möglich und können nur auf dem Endplenum 
 abgestimmt werden.
 
-Wünsche nach einer Satzungsänderung sind bis spätestens sieben Tage vor dem
-Anfangsplenum geeignet (z.B. über die ZaPF-Mailingliste)
-zusammen mit einem Antragsentwurf oder mindestens einer schriftlichen
+Wünsche nach einer Satzungsänderung sind bis spätestens sieben Tage vor dem 
+Anfangsplenum geeignet (z.B. über die ZaPF-Mailingliste) 
+zusammen mit einem Antragsentwurf oder mindestens einer schriftlichen 
 Begründung und einem konkreten Thema der Satzungsänderung anzukündigen.
 
-Auf der ZaPF muss dann zwingend ein Arbeitskreis zum Thema der vorgeschlagenen
-Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw.
-Satzungsänderungsanträge bis spätestens 15:00 Uhr am Vortag des Endplenums bei
+Auf der ZaPF muss dann zwingend ein Arbeitskreis zum Thema der vorgeschlagenen 
+Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw. 
+Satzungsänderungsanträge bis spätestens 15:00 Uhr am Vortag des Endplenums bei 
 der die ZaPF ausrichtenden Fachschaft eingereicht und ausgehängt werden müssen.
 
 ## Schlussbestimmungen und Änderungshistorie
@@ -218,4 +219,5 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2016 in Konstanz,
 - Sommer-ZaPF 2017 in Berlin,
 - Winter-ZaPF 2018 in Würzburg,
+- Sommer-ZaPF 2019 in Bonn,
 - und auf der Winter-ZaPF 2019 in Freiburg.
