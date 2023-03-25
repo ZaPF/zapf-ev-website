@@ -18,3 +18,4 @@ Hier finden Sie das Archiv der Berichte der vergangenen Zusammenkünfte aller Ph
 - [WiSe 2019 (Freiburg)](/berichte/WiSe19/Bericht_WiSe19_Freiburg.pdf)
 - [SoSe 2020 (Digital)](/berichte/SoSe20/Bericht_SoSe20_Digi.pdf)
 - [WiSe 2020 (München)](/berichte/WiSe20/Bericht_WiSe20_Garching.pdf)
+- [SoSe 2022 (Bochum)](/berichte/SoSe22/Bericht_SoSe22_Bochum.pdf)
