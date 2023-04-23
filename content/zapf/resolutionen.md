@@ -7,7 +7,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 |---|---|
 | [Resolution zum Deutschlandticket](/resolutionen/wise22/Deutschlandticket/Resolution_zum_Deutschlandticket.pdf) | 13.11.2022 |
 | [Resolution zur Energiekrise in Österreich](/resolutionen/wise22/Energiekrise_Oesterreich/Resolution_zur_Energiekrise_in_Oesterreich.pdf) | 13.11.2022 |
-| [Resolution zur Berücksichtigung von Bildungseinrichtungen beim Gaspreisdeckel](/resolutionen/wise22/wise22/Gaspreisdeckel/Resolution_zur_Beruecksichtigung_von_Bildungseinrichtungen_beim_Gaspreisdeckel.pdf) | 13.11.2022 |
+| [Resolution zur Berücksichtigung von Bildungseinrichtungen beim Gaspreisdeckel](/resolutionen/wise22/Gaspreisdeckel/Resolution_zur_Beruecksichtigung_von_Bildungseinrichtungen_beim_Gaspreisdeckel.pdf) | 13.11.2022 |
 | [Resolution zur Unterstützung der Global Peace Dividend](/resolutionen/wise22/Global_Peace_Dividend/Resolution_zur_Unterstuetzung_der_Global_Peace_Dividend_Initiative.pdf) | 13.11.2022 |
 | [Resolution zur Hochschulfinanzierung in der Energiekriese](/resolutionen/wise22/Hochschulfinanzierung/Resolution_zur_Hochschulfinanzierung_in_der_Energiekrise.pdf) | 13.11.2022 |
 | [Resolution zur Indexmiete](/resolutionen/wise22/Indexmiete/Resolution_zur_Indexmiete.pdf) | 13.11.2022 |
