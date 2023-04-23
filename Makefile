@@ -25,7 +25,7 @@ $(FAVICON): $(FAVICON_SVG)
 
 
 basedir: $(FAVICON)
-	@echo "Createing output dir: ${OUTPUT_DIR}"
+	@echo "Creating output dir: ${OUTPUT_DIR}"
 	@mkdir -p ${OUTPUT_DIR}
 
 ${OUTPUT_DIR}: ${INPUTS} basedir

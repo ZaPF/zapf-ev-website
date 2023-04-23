@@ -1,5 +1,5 @@
 +++
-date = "2019-01-19T10:00:00+01:00"
+date = "2023-01-28T15:00:00+01:00"
 title = "StAPF"
 +++
 
@@ -9,16 +9,17 @@ Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die 
 
 Der StAPF besteht aktuell aus den folgenden fünf Studierenden:
 
-In der Amtsperiode Winter 2021 bis Winter 2022 (Gewählt: 4.12.2021 auf dem Abschlussplenum der Winter-ZaPF 2021 in Göttingen):
-
-- Sophie Penger
-- Maximilian Schneider
-
-In der Amtsperiode Sommer 2022 bis Sommer 2023 (Gewählt: 7.06.2021 auf dem Abschlussplenum der Sommer-ZaPF 2022 in Bochum:
+In der Amtsperiode Sommer 2022 bis Sommer 2023 (Gewählt: 7.06.2022 auf dem Abschlussplenum der Sommer-ZaPF 2022 in Bochum):
 
 - Charlotte Geiger
 - Niklas Jamborek
 - Jean-Pascal Scherer
+
+
+In der Amtsperiode Winter 2022 bis Winter 2023 (Gewählt: 13.11.2022 auf dem Abschlussplenum der Winter-ZaPF 2022 in Hamburg):
+
+- Simone Wessel
+- Lukas Ulbricht
 
 ## Mehr Informationen und Kontakt
 

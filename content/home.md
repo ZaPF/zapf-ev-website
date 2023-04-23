@@ -10,7 +10,10 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Wintersemester 2022 in Hamburg
+### ZaPF im Sommersemester 2023 in Berlin
 
-Die Winter-ZapF 2022 findet in Hamburg statt. Geplant ist der Zeitraum vom 10. bis 13. November 2022.
-Die Website ist mittlerweile [hier](https://zishh.physnet.uni-hamburg.de/) zu finden.
+
+Die Sommer-ZapF 2023 findet in Berlin statt. Geplant ist der Zeitraum vom 27. April bis 01. Mai 2023.
+[https://zapf.in/berlin/](https://zapf.in/berlin/)
+
+

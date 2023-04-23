@@ -1,0 +1,7 @@
+= ZaPF eV Website
+
+== Update GO
+. Download the file `go.rst` to your local machine from the following repository: https://github.com/ZaPF/Geschaeftsordnung_ZaPF
+. Install https://pandoc.org/[pandoc] on your local machine.
+. Run the command `pandoc go.rst -o go.md` which converts the file to the Markdown format.
+. Replace `go.md` under `content/zapf/` in the repository with the new file from pandoc.

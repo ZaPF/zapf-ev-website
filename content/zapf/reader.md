@@ -6,6 +6,7 @@ title = "Tagungs-Reader der ZaPF"
 Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
 
+- [WiSe 2021 (Göttingen et al.)](/reader/2021-WiSe_Goettingen_et_al.pdf)
 - [SoSe 2020 (Digital)](/reader/2020_SoSe_Digital.pdf)
 - [WiSe 2019 (Freiburg)](/reader/2019_WiSe_Freiburg.pdf)
 - [SoSe 2019 (Bonn)](/reader/2019_SoSe_Bonn.pdf)
@@ -44,7 +45,7 @@ Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte al
 - SoSe 2003 (Darmstadt – kein Reader!)
 - [WiSe 2002 (Heidelberg)](/reader/2002-wi-reader_hb02.pdf)
 - [SoSe 2002 (Berlin-Cottbus)](/reader/2002-so-reader_becojo02.pdf)
-- WiSe 2001 (Siegen – kein Reader!)
+- WiSe 2001 (Siegen – kein Reader! Einzeltext in Reader von Heidelberg WiSe 2002 Anhang D)
 - [SoSe 2001 (Erlangen)](/reader/2001-so-reader_er01.pdf)
 - WiSe 2000 (Bonn – kein Reader!)
 - SoSe 2000 (Konstanz – kein Reader!)
