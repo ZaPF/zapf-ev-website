@@ -9,12 +9,12 @@ Die Zusammenkunft aller deutschsprachigen Physik-Fachschaften, kurz ZaPF, ist di
 
 ### ZaPF im Sommersemester 2023 in Berlin
 
-Im Sommersemester 2023 wird die ZaPF in Berlin stattfinden. 
-Sie wird zusammen von der Humboldt-Universität, der Technischen Universität Berlin, der Freien Universität und der Universität Potsdam geplant.
+Im Sommersemester 2023 wird vom 27.04.23 bis 01.05.23 die ZaPF in Berlin stattfinden. 
+Sie wird zusammen von der Humboldt-Universität, der Technischen Universität Berlin, der Freien Universität und der Universität Potsdam geplant und umgesetzt.
 
 ### ZaPF im Wintersemester 2023 in Düsseldorf
 
-Im Wintersemester 2023 wird die ZaPF in Düsseldorf stattfinden.
+Im Wintersemester 2023 wird vom 28.10.23 bis zum 01.11.23  die ZaPF in Düsseldorf stattfinden.
 
 ---
 
