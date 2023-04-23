@@ -12,6 +12,8 @@ Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Ve
 ---
 ### ZaPF im Sommersemester 2023 in Berlin
 
+
 Die Sommer-ZapF 2023 findet in Berlin statt. Geplant ist der Zeitraum vom 27. April bis 01. Mai 2023.
 [https://zapf.in/berlin/](https://zapf.in/berlin/)
+
 
