@@ -5,7 +5,7 @@ title = "Tagungs-Reader der ZaPF"
 
 Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
-
+- SoSe 2023 (Berlin - noch offen)
 - WiSe 2022 (Hamburg - noch offen)
 - SoSe 2022 (Bochum - noch offen)
 - [WiSe 2021 (Göttingen et al.)](/reader/2021-WiSe_Goettingen_et_al.pdf)
