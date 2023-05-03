@@ -10,10 +10,10 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Sommersemester 2023 in Berlin
+### ZaPF im Wintersemester 2023 in Düssseldorf
 
 
-Die Sommer-ZapF 2023 findet in Berlin statt. Geplant ist der Zeitraum vom 27. April bis 01. Mai 2023.
-[https://zapf.in/berlin/](https://zapf.in/berlin/)
+Die Winter-ZapF 2023 findet in Düsseldorf statt. Geplant ist der Zeitraum vom 27. oder 28. Oktober bis 31. Oktober 2023.
+[https://zapf.in/duesseldorf/](https://zapf.in/duesseldorf/)
 
 
