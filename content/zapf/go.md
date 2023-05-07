@@ -53,12 +53,12 @@ alle Mitglieder und helfende Personen der ausführenden Fachschaft.
 
 1.  Antragsberechtigt sind alle teilnehmende Personen.
 2.  Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind
-    mindestens eine Stunde vor Beginn des Plenums schriftlich bei der
+    mindestens eine Stunde vor Beginn des Plenums in Textform bei der
     die ZaPF ausrichtenden Fachschaft einzureichen. Dies gilt
     insbesondere für Texte, über die abgestimmt werden soll. Die
     Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig
-    geschieht. Die Fristen für Anträge zur Änderung der Geschäftsordnung
-    werden in einem eigenen Absatz geregelt.
+    geschieht. Die Fristen für Anträge zur Änderung der Geschäftsordnung und des
+    Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
 3.  Anträge, die nach dieser Frist eingereicht werden, sind
     Initiativanträge und müssen von mindestens zwei Personen aus
     verschiedenen Fachschaften getragen werden. Auch diese Anträge
@@ -76,10 +76,18 @@ alle Mitglieder und helfende Personen der ausführenden Fachschaft.
     dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
     Die Änderung der Geschäftsordnung tritt automatisch zum nächsten
     Plenum in Kraft.
-5.  Die antragsstellende Person muss im Plenum anwesend sein oder kann
+5.  Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
+    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
+    bekanntgemacht werden, z.B. über die Mailingliste.
+    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
+    des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
+    Abschlussplenum bekanntgegeben werden.
+    Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich.
+    Die Änderung des Verhaltenskodex tritt sofort in Kraft.
+6.  Die antragsstellende Person muss im Plenum anwesend sein oder kann
     eine Vertretung benennen und muss dies der Sitzungsleitung
     mitteilen. Die vertretende ist dann die neue antragstellende Person.
-6.  Anträge, die bestehende Aussagen der ZaPF, insbesondere die
+7.  Anträge, die bestehende Aussagen der ZaPF, insbesondere die
     Geschäftsordnung und die Satzung, ändern wollen, sollen ihre
     Änderung des bestehenden Textes _geeignet nachvollziehbar_ machen.
     Diese Pflicht entfällt für Initiativanträge.
@@ -218,6 +226,10 @@ Mitglied des Wahlausschusses selbst zur Wahl stehen.
     absoluten Mehrheit. Die Geschäftsordnungsanträge, die einer
     Zweidrittelmehrheit bedürfen, können nur explizit und mit einer
     Zweidrittelmehrheit geändert werden.
+    Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
+10. Beschlüsse zur Änderung des Verhaltenskodex des ZaPF bedürfen einer
+    Zweidrittelmehrheit.
+    Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
 
 ### 4.2 Personenwahlen
 
@@ -270,7 +282,7 @@ Mitglied des Wahlausschusses selbst zur Wahl stehen.
 2.  Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung
     aus einem Pool von teilnehmenden Personen der ZaPF. Bewerbungen
     hierfür müssen bis spätestens zu Beginn des Anfangsplenums in
-    schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn
+    Textform an eine, bis spätestens zwei Wochen vor Beginn
     der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse
     erfolgen.
 3.  Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen
