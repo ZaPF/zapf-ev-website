@@ -1,10 +1,13 @@
 +++
-date = "2020-06-23T10:00:00+01:00"
+date = "2023-05-09T16:00:00+01:00"
 title = "Kürzlich veröffentlichte Resolutionen"
 +++
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution zur Unterstützung eines Studentischen Tarifvertrags](/resolutionen/sose23/Studentischer_Tarifvertrag/Studentischer_Tarifvertrag.pdf) | 01.05.2023 |
+| [Resolution Studierende in der Krise nicht zu vergessen](/resolutionen/sose23/Studis_in_der_Krise_nicht_vergessen/Studis_in_der_Krise_nicht_vergessen.pdf) | 01.05.2023 |
+| [Resolution zu einem entwicklungs- statt absicherungsorientierten Studium](/resolutionen/sose23/Zum_Saechsischen_Hochschulgesetz/Zum_Saechsischen_Hochschulgesetz.pdf) | 01.05.2023 |
 | [Resolution zum Deutschlandticket](/resolutionen/wise22/Deutschlandticket/Resolution_zum_Deutschlandticket.pdf) | 13.11.2022 |
 | [Resolution zur Energiekrise in Österreich](/resolutionen/wise22/Energiekrise_Oesterreich/Resolution_zur_Energiekrise_in_Oesterreich.pdf) | 13.11.2022 |
 | [Resolution zur Berücksichtigung von Bildungseinrichtungen beim Gaspreisdeckel](/resolutionen/wise22/Gaspreisdeckel/Resolution_zur_Beruecksichtigung_von_Bildungseinrichtungen_beim_Gaspreisdeckel.pdf) | 13.11.2022 |
