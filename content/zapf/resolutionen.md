@@ -1,13 +1,26 @@
 +++
-date = "2023-05-09T16:00:00+01:00"
+date = "2023-05-25T10:00:00+01:00"
 title = "Kürzlich veröffentlichte Resolutionen"
 +++
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution zum Deutschlandticket](/resolutionen/sose23/Deutschlandticket/Resolution_zum_Deutschlandticket2023.pdf) | 01.05.2023 |
+| [Resolution zur Arbeitsbelastung und Studiendauer im physikalischen Grundstudium](/resolutionen/sose23/Studium/Resolution_zur_Arbeitsbelastung_und_Studiendauer_im_Physikalischen_Grundstudium.pdf) | 01.05.2023 |
+| [Resolution zu Nachteilsausgleichen](/resolutionen/sose23/Nachteilsausgleich/Resolution_zum_Nachteilsausgleich.pdf) | 01.05.2023 |
+| [Resolution zur Frauen- und Diversityförderung](/resolutionen/sose23/Diversity/Resolution_zu_Empfehlungen_zur_Frauen-_und_Diversity-_Foerderung.pdf) | 01.05.2023 |
+| [Resolution zu Nachhaltigkeit in der Hochschullehre in der Physik](/resolutionen/sose23/Nachhaltigkeit/Resolution_zur_Nachhaltigkeit_in_der_Hochschullehre.pdf) | 01.05.2023 |
+| [Resolution zur BAföG Novellierung](/resolutionen/sose23/Finanzierung/Resolution_zur_BAfoeG_Novellierung.pdf) | 01.05.2023 |
+| [Resolution Studierende in der Krise nicht zu vergessen](/resolutionen/sose23/Finanzierung/Studis_in_der_Krise_nicht_vergessen.pdf) | 01.05.2023 |
+| [Resolution zu Studium und Lehre in Pandemiezeiten](/resolutionen/sose23/Studium/Resolution_zu_Studium_und_Lehre_in_Pandemiezeiten.pdf) | 01.05.2023 |
 | [Resolution zur Unterstützung eines Studentischen Tarifvertrags](/resolutionen/sose23/Studentischer_Tarifvertrag/Studentischer_Tarifvertrag.pdf) | 01.05.2023 |
-| [Resolution Studierende in der Krise nicht zu vergessen](/resolutionen/sose23/Studis_in_der_Krise_nicht_vergessen/Studis_in_der_Krise_nicht_vergessen.pdf) | 01.05.2023 |
-| [Resolution zu einem entwicklungs- statt absicherungsorientierten Studium](/resolutionen/sose23/Zum_Saechsischen_Hochschulgesetz/Zum_Saechsischen_Hochschulgesetz.pdf) | 01.05.2023 |
+| [Resolution zum Lehrkräftemangel](/resolutionen/sose23/Lehramt/Resolution_zur_KMK_Lehrkraftmangel.pdf) | 01.05.2023 |
+| [Resolution zu guter Praxis im Lehramtsstudium](/resolutionen/sose23/Lehramt/Resolution_zu_guter_Praxis_im_Lehramtsstudium.pdf) | 01.05.2023 |
+| [Resolution zu einem entwicklungs- statt absicherungsorientierten Studium](/resolutionen/sose23/Hochschulgesetz/Zum_Saechsischen_Hochschulgesetz.pdf) | 01.05.2023 |
+| [Positionspapier zu Englisch im Physikstudium](/resolutionen/sose23/Studium/Positionspapier_zu_Englisch_im_Physikstudium.pdf) | 01.05.2023 |
+| [Unterstützung der Resolution zu Nachhaltigkeit in der Hochschullehre (MeTaFa)](/resolutionen/sose23/Nachhaltigkeit/Resolution_zur_Nachhaltigkeit_MeTaFa.pdf) | 01.05.2023 |
+| [Unterstützung der Resolution zur Unterstützung eines studentischen Tarifvertrags (MeTaFa)](/resolutionen/sose23/Studentischer_Tarifvertrag/Resolution_zum_TV_Studentischer_Hilfskraefte_MeTaFa.pdf) | 01.05.2023 |
+| [Unterstützung der Resolution zur Prüfungsunfähigkeit (MeTaFa)](/resolutionen/sose23/Pruefungsunfaehigkeit/Resolution_zur_Pruefungsunfaehigkeit_MeTaFa.pdf) | 01.05.2023 |
 | [Resolution zum Deutschlandticket](/resolutionen/wise22/Deutschlandticket/Resolution_zum_Deutschlandticket.pdf) | 13.11.2022 |
 | [Resolution zur Energiekrise in Österreich](/resolutionen/wise22/Energiekrise_Oesterreich/Resolution_zur_Energiekrise_in_Oesterreich.pdf) | 13.11.2022 |
 | [Resolution zur Berücksichtigung von Bildungseinrichtungen beim Gaspreisdeckel](/resolutionen/wise22/Gaspreisdeckel/Resolution_zur_Beruecksichtigung_von_Bildungseinrichtungen_beim_Gaspreisdeckel.pdf) | 13.11.2022 |
