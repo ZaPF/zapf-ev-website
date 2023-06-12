@@ -19,3 +19,4 @@ Hier finden Sie das Archiv der Berichte der vergangenen Zusammenkünfte aller Ph
 - [SoSe 2020 (Digital)](/berichte/SoSe20/Bericht_SoSe20_Digi.pdf)
 - [WiSe 2020 (München)](/berichte/WiSe20/Bericht_WiSe20_Garching.pdf)
 - [SoSe 2022 (Bochum)](/berichte/SoSe22/Bericht_SoSe22_Bochum.pdf)
+- [WiSe 2022 (Hamburg)](/berichte/WiSe22/Bericht_WiSe22_Hamburg.pdf)
