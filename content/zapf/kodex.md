@@ -6,28 +6,28 @@
 
 "Die ZaPF ist ein freies Forum von und für Physikstudika. Sie bietet eine sichere Umgebung für Teilnehmika unabhängig ihrer Alter, Geschlechter, sexueller Identitäten oder Orientierungen, physischen Erscheinungen und Befähigungen, Studiengänge, Lebensumstände sowie politischer oder religiöser Überzeugungen. Aus diesem Grund kann diskriminierendes, ausschließendes und grenzüberschreitendes Verhalten in jeglicher Form nicht toleriert werden."
 
-Stellungnahme der Zusammenkunft aller Physik-Fachschaften gegen Diskrimi- nierung, Ausschließung und grenzüberschreitendes Verhalten, “beschlossen”* in Wien.
+Stellungnahme der Zusammenkunft aller Physik-Fachschaften gegen Diskriminierung, Ausschließung und grenzüberschreitendes Verhalten, “beschlossen”* in Wien.
 
 ---
 
 Wir wollen die ZaPF gemeinsam in einem respektvollen Miteinander gestalten.
-Wir wollen inklusive, diskriminierungsfreie und offene Kommunikation mitein- ander.
+Wir wollen inklusive, diskriminierungsfreie und offene Kommunikation miteinander.
 Beispielhaft als nicht abgeschlossene Liste:
 
 * Wir freuen uns über neue Menschen auf der ZaPF und möchten eine Umgebung schaffen, in der wir voneinander lernen können.
-* Wir schätzen Meinungspluralismus und ermuntern Personen marginali- sierter Gruppen, sich aktiv einzubringen.
+* Wir schätzen Meinungspluralismus und ermuntern Personen marginalisierter Gruppen, sich aktiv einzubringen.
 * Wir kommunizieren respektvoll miteinander, auch wenn wir verschiedener Meinung sind.
 * Wir lassen einander ausreden und hören uns zu.
 * Wir gehen miteinander empathisch um.
 * Wir akzeptieren wenn Menschen Fragen nicht beantworten wollen.
-* Wir haben körperlichen Kontakt nur mit expliziter Zustimmung, Nichtzu- stimmung wird ohne Begrüngung akzeptiert und nicht hinterfragt.
+* Wir haben körperlichen Kontakt nur mit expliziter Zustimmung, Nichtzustimmung wird ohne Begrüngung akzeptiert und nicht hinterfragt.
 * Wir schaffen Sicherheit und diskutieren in einer entspannten Atmosphäre miteinander.
 * Wir ermutigen rücksichtsvolles Fragen.
 * Wir wünschen uns couragiertes Verhalten.
 * Wir schützen unsere Grenzen und halten uns an die von anderen gesetzten Grenzen. Du selbst bestimmt, was für dich grenzüberschreitend ist.
 
 Die ZaPFika engagieren sich eine Atmosphäre von Sicherheit und Gewaltlosigkeit für alle zu schaffen. Dies bedeutet insbesondere, dass:
-* wir keine Form von sexualisierter Gewalt, Belästigung oder Diskriminie- rung akzeptieren.
+* wir keine Form von sexualisierter Gewalt, Belästigung oder Diskriminierung akzeptieren.
 * wir keine Beleidigungen, Trollen, Degradierungen oder persönliche Angriffe akzeptieren.
 * wir nicht akzeptieren, wenn Menschen anstelle von Argumenten angegriffen werden.
 
