@@ -21,6 +21,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Unterstützung der Resolution zu Nachhaltigkeit in der Hochschullehre (MeTaFa)](/resolutionen/sose23/Nachhaltigkeit/Resolution_zur_Nachhaltigkeit_MeTaFa.pdf) | 01.05.2023 |
 | [Unterstützung der Resolution zur Unterstützung eines studentischen Tarifvertrags (MeTaFa)](/resolutionen/sose23/Studentischer_Tarifvertrag/Resolution_zum_TV_Studentischer_Hilfskraefte_MeTaFa.pdf) | 01.05.2023 |
 | [Unterstützung der Resolution zur Prüfungsunfähigkeit (MeTaFa)](/resolutionen/sose23/Pruefungsunfaehigkeit/Resolution_zur_Pruefungsunfaehigkeit_MeTaFa.pdf) | 01.05.2023 |
+| [Selbstverpflichtung Kuschel AK](/resolutionen/sose23/Verhaltenskodex/Selbstverpflichtung_Kuschel_AK.pdf) | 01.05.2023 |
 | [Resolution zum Deutschlandticket](/resolutionen/wise22/Deutschlandticket/Resolution_zum_Deutschlandticket.pdf) | 13.11.2022 |
 | [Resolution zur Energiekrise in Österreich](/resolutionen/wise22/Energiekrise_Oesterreich/Resolution_zur_Energiekrise_in_Oesterreich.pdf) | 13.11.2022 |
 | [Resolution zur Berücksichtigung von Bildungseinrichtungen beim Gaspreisdeckel](/resolutionen/wise22/Gaspreisdeckel/Resolution_zur_Beruecksichtigung_von_Bildungseinrichtungen_beim_Gaspreisdeckel.pdf) | 13.11.2022 |
