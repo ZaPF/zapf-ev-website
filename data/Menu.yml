@@ -26,6 +26,9 @@ zapf:
     studienfuehrer:
       Name: "Studienführer"
       URL: "/zapf/studienfuehrer"
+    THandreichungen:
+      Name: "Handreichungen"
+      URL: "/zapf/handreichungen"
     Veroffentlichungen:
       Name: "Veröffentlichungen"
       URL: "/zapf/veroffentlichungen"
