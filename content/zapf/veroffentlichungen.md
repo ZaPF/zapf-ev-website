@@ -5,5 +5,5 @@ title = "Kurzinformationen"
 
 Hier finden Sie das Archiv der Kurzinformationen zu den Ergebnissen der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
-- SoSe 2023 (Berlin - noch offen)
-- WiSe 2022 [zishh - ZaPF im schönen Hamburg WiSe 2022](/dokumente/kurzinformation_zishh.pdf)  
+- [SoSe 2023 Berlin](/dokumente/kurzinformation_berlin_sose23.pdf) 
+- [WiSe 2022 Hamburg](/dokumente/kurzinformation_hamburg_wise22.pdf)  
