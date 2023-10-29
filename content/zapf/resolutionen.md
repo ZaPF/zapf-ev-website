@@ -9,6 +9,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Resolution zur Arbeitsbelastung und Studiendauer im physikalischen Grundstudium](/resolutionen/sose23/Studium/Resolution_zur_Arbeitsbelastung_und_Studiendauer_im_Physikalischen_Grundstudium.pdf) | 01.05.2023 |
 | [Resolution zu Nachteilsausgleichen](/resolutionen/sose23/Nachteilsausgleich/Resolution_zum_Nachteilsausgleich.pdf) | 01.05.2023 |
 | [Resolution zur Frauen- und Diversityförderung](/resolutionen/sose23/Diversity/Resolution_zu_Empfehlungen_zur_Frauen-_und_Diversity-_Foerderung.pdf) | 01.05.2023 |
+| [Maßnahmenkatalog zur Frauen- und Diversityförderung](/resolutionen/sose23/Diversity/Massnahmenkatalog_Frauen_Diversityfoerderung.pdf) | 01.05.2023 |
 | [Resolution zu Nachhaltigkeit in der Hochschullehre in der Physik](/resolutionen/sose23/Nachhaltigkeit/Resolution_zur_Nachhaltigkeit_in_der_Hochschullehre.pdf) | 01.05.2023 |
 | [Resolution zur BAföG Novellierung](/resolutionen/sose23/Finanzierung/Resolution_zur_BAfoeG_Novellierung.pdf) | 01.05.2023 |
 | [Resolution Studierende in der Krise nicht zu vergessen](/resolutionen/sose23/Finanzierung/Studis_in_der_Krise_nicht_vergessen.pdf) | 01.05.2023 |
