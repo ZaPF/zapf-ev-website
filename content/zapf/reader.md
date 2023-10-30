@@ -73,7 +73,8 @@ Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte al
 - [SoSe 1991 (Marburg)](/reader/1991-so-reader_ma91.pdf)
 - [WiSe 1990 (Kaiserslautern)](/reader/1990-ws-kaiserslautern-reader.pdf)
 - [SoSe 1990 (Würzburg)](/reader/1990-so-wuerzburg.pdf)
-- [WiSe 1989 (Berlin)](/reader/1989-wi-berlin.pdf)
+<!-- [WiSe 1989 (Berlin)](/reader/1989-wi-berlin.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
+- WiSe 1989 (Berlin)
 - SoSe 1989 (Bochum)
 - [WiSe 1988 (Tübingen)](/reader/1988-ws-tuebingen.pdf)
 - [SoSe 1988 (Göttingen)](/reader/1988-so-goettingen.pdf)
