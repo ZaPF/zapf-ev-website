@@ -1,3 +1,9 @@
++++
+ date = "2023-10-31T10:00:00+01:00"
+ title = "Geschäftsordnung für Plenen der ZaPF"
++++
+
+
 # Geschäftsordnung für Plenen der ZaPF
 
 Begriffe und Regelungen, die im Anhang kommentiert oder erklärt werden,
