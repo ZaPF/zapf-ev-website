@@ -354,8 +354,8 @@ auf der:
 -   Winter-ZaPF 2018 in Würzburg,
 -   Sommer-ZaPF 2019 in Bonn,
 -   Winter-ZaPF 2019 in Freiburg,
--   der Sommer-ZaPF 2023 in Berlin,
--   und auf Winter-ZaPF 2023 in Düsseldorf.
+-   Sommer-ZaPF 2023 in Berlin,
+-   und auf der Winter-ZaPF 2023 in Düsseldorf.
 
 ## Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
 
