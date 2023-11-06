@@ -8,6 +8,8 @@ Hier finden Sie das Archiv der Berichte der vergangenen Zusammenkünfte aller Ph
 - [SoSe 2023 (Berlin)](/berichte/SoSe23/Bericht_SoSe23_Berlin.pdf)
 - [WiSe 2022 (Hamburg)](/berichte/WiSe22/Bericht_WiSe22_Hamburg.pdf)
 - [SoSe 2022 (Bochum)](/berichte/SoSe22/Bericht_SoSe22_Bochum.pdf)
+- [WiSe 2021 (Göttingen)](/berichte/WiSe21/Bericht_WiSe21_Goettingen.pdf)
+- [SoSe 2021 (Rostock)](/berichte/SoSe21/Bericht_SoSe21_Rostock.pdf)
 - [WiSe 2020 (München)](/berichte/WiSe20/Bericht_WiSe20_Garching.pdf)
 - [SoSe 2020 (Digital)](/berichte/SoSe20/Bericht_SoSe20_Digi.pdf)
 - [WiSe 2019 (Freiburg)](/berichte/WiSe19/Bericht_WiSe19_Freiburg.pdf)
