@@ -56,24 +56,31 @@ Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte al
 - WiSe 1999 (Jena – kein Reader!)
 - [SoSe 1999 (Karlsruhe)](/reader/1999-ss-reader_ka99.pdf)
 - WiSe 1998 (Osnabrück – kein Reader!)
-- [SoSe 1998 (Rostock)](/reader/1998-so-reader_ro98.pdf)
+<!-- - [SoSe 1998 (Rostock)](/reader/1998-so-reader_ro98.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
+- SoSe 1998 (Rostock)
 - WiSe 1997 (Bochum – kein Reader!)
 - [SoSe 1997 (Marburg)](/reader/1997-so-reader_ma97.pdf)
 - WiSe 1996 (Braunschweig)
 - SoSe 1996 (Chemnitz)
-- [WiSe 1995 (Bonn)](/reader/1995-wi-reader_bn95.pdf)
-- [SoSe 1995 (Hannover)](/reader/1995-so-reader_ha95.pdf)
-- [WiSe 1994 (Heidelberg)](/reader/1994-wi-reader_hb94.pdf)
+<!-- - [WiSe 1995 (Bonn)](/reader/1995-wi-reader_bn95.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
+- WiSe 1995 (Bonn)
+<!-- - [SoSe 1995 (Hannover)](/reader/1995-so-reader_ha95.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
+- SoSe 1995 (Hannover)
+<!-- - [WiSe 1994 (Heidelberg)](/reader/1994-wi-reader_hb94.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
+- WiSe 1994 (Heidelberg)
 - [SoSe 1994 (Regensburg)](/reader/1994-so-reader_re94.pdf)
-- [WiSe 1993 (Stuttgart)](/reader/1993-wi-reader_st93.pdf)
-- [SoSe 1993 (Dortmund)](/reader/1993-so-reader_do93.pdf)
+<!-- - [WiSe 1993 (Stuttgart)](/reader/1993-wi-reader_st93.pdf) , Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
+- WiSe 1993 (Stuttgart)
+<!-- - [SoSe 1993 (Dortmund)](/reader/1993-so-reader_do93.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
+- SoSe 1993 (Dortmund)
 - [WiSe 1992 (München)](/reader/1992-wi-reader_mu92.pdf)
 - [SoSe 1992 (Braunschweig)](/reader/1992-so-reader_bw92.pdf)
 - WiSe 1991 (Mainz)
 - [SoSe 1991 (Marburg)](/reader/1991-so-reader_ma91.pdf)
 - [WiSe 1990 (Kaiserslautern)](/reader/1990-ws-kaiserslautern-reader.pdf)
 - [SoSe 1990 (Würzburg)](/reader/1990-so-wuerzburg.pdf)
-- [WiSe 1989 (Berlin)](/reader/1989-wi-berlin.pdf)
+<!-- [WiSe 1989 (Berlin)](/reader/1989-wi-berlin.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
+- WiSe 1989 (Berlin)
 - SoSe 1989 (Bochum)
 - [WiSe 1988 (Tübingen)](/reader/1988-ws-tuebingen.pdf)
 - [SoSe 1988 (Göttingen)](/reader/1988-so-goettingen.pdf)
