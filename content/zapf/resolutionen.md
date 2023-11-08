@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution zu TVStud und zum #Hochschulaktionstag](/resolutionen/wise23/Studentischer_Tarifvertrag/Resolution_TVStud_und_Hochschulaktionstag.pdf) | 31.10.2023 |
 | [Stellungnahme der ZaPF zum Entwurf zur Reform des WissZeitVG](/resolutionen/wise23/Stellungnahme_WissZeitVG_02-07-2023/Stellungnahme_der_ZaPF_zum_WissZeitVG.pdf) | 02.07.2023 |
 | [Resolution zum Deutschlandticket](/resolutionen/sose23/Deutschlandticket/Resolution_zum_Deutschlandticket2023.pdf) | 01.05.2023 |
 | [Resolution zur Arbeitsbelastung und Studiendauer im physikalischen Grundstudium](/resolutionen/sose23/Studium/Resolution_zur_Arbeitsbelastung_und_Studiendauer_im_Physikalischen_Grundstudium.pdf) | 01.05.2023 |
