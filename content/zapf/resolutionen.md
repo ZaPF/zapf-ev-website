@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Positionspapier zum Einsatz von KI-Tools in der Lehre](/resolutionen/wise23/AI_in_Lehre/Positionspapier_zum_Einsatz_von_KI-Tools_in_der_Lehre.pdf) | 31.10.2023 |
 | [Resolution zu TVStud und zum #Hochschulaktionstag](/resolutionen/wise23/Studentischer_Tarifvertrag/Resolution_TVStud_und_Hochschulaktionstag.pdf) | 31.10.2023 |
 | [Stellungnahme der ZaPF zum Entwurf zur Reform des WissZeitVG](/resolutionen/wise23/Stellungnahme_WissZeitVG_02-07-2023/Stellungnahme_der_ZaPF_zum_WissZeitVG.pdf) | 02.07.2023 |
 | [Resolution zum Deutschlandticket](/resolutionen/sose23/Deutschlandticket/Resolution_zum_Deutschlandticket2023.pdf) | 01.05.2023 |
