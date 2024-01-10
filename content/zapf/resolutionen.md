@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution zur kommenden Hochschulgesetz-Novelle in Nordrhein-Westfalen](/resolutionen/wise23/Hochschulgesetz/Resolution_zur_Hochschulgesetz-Novelle_in_Nordrhein-Westfalen.pdf) | 31.10.2023 |
 | [Resolution: Wissenschaftliche Kooperationen stärken](/resolutionen/wise23/International/Resolution_Wissenschaftliche_Kooperationen_staerken.pdf) | 31.10.2023 |
 | [Resolution zu Deutschkursen für internationale Studierende](/resolutionen/wise23/International/Resolution_zu_Deutschkursen_fuer_internationale_Studierende.pdf) | 31.10.2023 |
 | [Resolution zur Situation internationaler Studierender](/resolutionen/wise23/International/Resolution_zur_Situation_internationaler_Studierender.pdf) | 31.10.2023 |
