@@ -6,6 +6,9 @@ title = "Kürzlich veröffentlichte Resolutionen"
 |Titel | Veröffentlicht am |
 |---|---|
 | [Resolution: Wissenschaftliche Kooperationen stärken](/resolutionen/wise23/International/Resolution_Wissenschaftliche_Kooperationen_staerken.pdf) | 31.10.2023 |
+| [Resolution zu Deutschkursen für internationale Studierende](/resolutionen/wise23/International/Resolution_zu_Deutschkursen_fuer_internationale_Studierende.pdf) | 31.10.2023 |
+| [Resolution zur Situation internationaler Studierender](/resolutionen/wise23/International/Resolution_zur_Situation_internationaler_Studierender.pdf) | 31.10.2023 |
+| [Resolution zum BAföG](/resolutionen/wise23/Finanzierung/Resolution_zum_BAFoeG.pdf) | 31.10.2023 |
 | [Positionspapier zum Einsatz von KI-Tools in der Lehre](/resolutionen/wise23/AI_in_Lehre/Positionspapier_zum_Einsatz_von_KI-Tools_in_der_Lehre.pdf) | 31.10.2023 |
 | [Resolution Jetzt gemeinsame Lösungen für das Semesterticket finden](/resolutionen/wise23/Deutschlandticket/Resolution_Jetzt_gemeinsame_Loesungen_fuer_das_Semesterticket_finden.pdf) | 31.10.2023 |
 | [Resolution zu TVStud und zum #Hochschulaktionstag](/resolutionen/wise23/Studentischer_Tarifvertrag/Resolution_TVStud_und_Hochschulaktionstag.pdf) | 31.10.2023 |
