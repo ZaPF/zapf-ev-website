@@ -10,10 +10,10 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Wintersemester 2023 in Düssseldorf
+### ZaPF im Sommersemester 2024 in Kiel
 
 
-Die Winter-ZapF 2023 findet in Düsseldorf statt. Geplant ist der Zeitraum vom 27. oder 28. Oktober bis 31. Oktober 2023.
-[https://zapf.in/duesseldorf/](https://zapf.in/duesseldorf/)
+Die Sommer-ZaPF 2024 findet in Kiel statt. Geplant ist der Zeitraum vom 17. Mai bis zum 21. Mai 2024.
+Ein Link zur Tagungswebseite folgt.
 
 
