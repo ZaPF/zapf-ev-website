@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution: Wissenschaftliche Kooperationen stärken](/resolutionen/wise23/International/Resolution_Wissenschaftliche_Kooperationen_staerken.pdf) | 31.10.2023 |
 | [Resolution zu Deutschkursen für internationale Studierende](/resolutionen/wise23/International/Resolution_zu_Deutschkursen_fuer_internationale_Studierende.pdf) | 31.10.2023 |
 | [Resolution zur Situation internationaler Studierender](/resolutionen/wise23/International/Resolution_zur_Situation_internationaler_Studierender.pdf) | 31.10.2023 |
 | [Resolution zum BAföG](/resolutionen/wise23/Finanzierung/Resolution_zum_BAFoeG.pdf) | 31.10.2023 |
