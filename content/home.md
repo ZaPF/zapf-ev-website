@@ -14,6 +14,6 @@ Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Ve
 
 
 Die Sommer-ZaPF 2024 findet in Kiel statt. Geplant ist der Zeitraum vom 17. Mai bis zum 21. Mai 2024.
-Ein Link zur Tagungswebseite folgt.
+[Link zur Webseite der ZaPF in Kiel](https://zapf.in/kiel/)
 
 

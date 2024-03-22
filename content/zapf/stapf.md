@@ -25,6 +25,6 @@ In der Amtsperiode Winter 2023 bis Sommer 2024 (Gewählt: 31.10.2023 auf dem Abs
 
 ## Mehr Informationen und Kontakt
 
-Mehr zum StAPF findet sich im ZaPF-Wiki unter [StAPF](http://zapf.wiki/StAPF).
+Mehr zum StAPF findet sich im ZaPF-Wiki unter [StAPF](https://zapf.wiki/StAPF).
 
 Kontaktiert werden kann der StAPF unter der E-Mail Adresse [stapf@zapf.in](mailto:stapf@zapf.in).
