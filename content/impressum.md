@@ -2,14 +2,14 @@
 title = "Impressum"
 
 +++
-Verantwortlich für diese Website (http://www.zapfev.de) im Sinne von § 5 des Telemediengesetzes (TMG) ist:
+Verantwortlich für diese Website (https://www.zapfev.de) im Sinne von § 5 des Telemediengesetzes (TMG) ist:
 
 ZaPF e.V.
 Goethe Universität Frankfurt
 Raum __.208
 Max-von-Laue-Str. 1
 60438 Frankfurt / Main
-Internet: http://www.zapfev.de
+Internet: https://www.zapfev.de
 E-Mail: [vorstand@zapfev.de](mailto:vorstand@zapfev.de)
 
 ## Vertretungsberechtigter Vorstand
@@ -27,6 +27,6 @@ Der aktuelle Freistellungsbescheid für 2015 bis 2017 zur Körperschaftsteuer un
 
 ## Disclaimer
 
-Wir stehen nicht in Beziehung zu [Zapf-Umzügen](http://www.zapf.de/) oder der [Zahnärztlichen Anwendervereinigung Praxis und Forschung](http://www.zapf.org/).
+Wir stehen nicht in Beziehung zu [Zapf-Umzügen](https://www.zapf.de/) oder der [Zahnärztlichen Anwendervereinigung Praxis und Forschung](https://www.zapf.org/).
 
 Auch wenn wir externe Links sorgfältig prüfen, können wir für die Inhalte fremder Anbieter keine Verantwortung übernehmen.
