@@ -13,7 +13,7 @@ Im Sommersemester 2024 wird die ZaPF vom 17. bis 21. Mai in Kiel stattfinden.
 
 ### ZaPF im Wintersemester 2024 in Mainz
 
-Im Wintersemester 2024 wird die ZaPF vom 31. Oktober bis zum 3. November in Düsseldorf stattfinden.
+Im Wintersemester 2024 wird die ZaPF vom 31. Oktober bis zum 3. November in Mainz stattfinden.
 
 ### ZaPF im Sommersemester 2024 in Erlangen
 
