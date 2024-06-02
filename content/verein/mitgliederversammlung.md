@@ -1,10 +1,12 @@
 +++
-date = "2016-01-28T20:08:55+01:00"
+date = "2024-06-02T10:45:00+02:00"
 title = "Mitgliederversammlung"
 +++
 
 Hier finden Sie die Protokolle der letzten Mitgliederversammlungen des ZaPF e.V.:
 
+- Mitgliederversammlung 19.05.2024 Kiel (Genehmigung steht aus)
+- [Mitgliederversammlung 28.10.2023 Düsseldorf](/protokolle/Protokoll_MV_2023_10_28_Duesseldorf.pdf)
 - Mitgliederversammlung 30.04.2023 Berlin (Genehmigung steht aus)
 - [Mitgliederversammlung 28.01.2023 Marburg](/protokolle/Protokoll_MV_2023_01_28_Marburg.pdf)
 - [Mitgliederversammlung 06.06.2022 Bochum](/protokolle/Protokoll_MV_2022_06_06_Bochum.pdf)
