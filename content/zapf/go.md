@@ -3,9 +3,6 @@
  title = "Geschäftsordnung für Plenen der ZaPF"
 +++
 
-
-# Geschäftsordnung für Plenen der ZaPF
-
 Begriffe und Regelungen, die im Anhang kommentiert oder erklärt werden,
 sind kursiv gedruckt.
 
