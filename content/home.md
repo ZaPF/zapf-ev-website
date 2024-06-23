@@ -10,10 +10,10 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Sommersemester 2024 in Kiel
+### ZaPF im Wintersemester 2024 in Mainz
 
 
-Die Sommer-ZaPF 2024 findet in Kiel statt. Geplant ist der Zeitraum vom 17. Mai bis zum 21. Mai 2024.
-[Link zur Webseite der ZaPF in Kiel](https://zapf.in/kiel/)
+Die Winter-ZaPF 2024 findet in Mainz statt. Geplant ist der Zeitraum vom 31. Oktober bis zum 03. November 2024.
+[Link zur Webseite der ZaPF in Mainz](https://zapf.in/mainz/)
 
 
