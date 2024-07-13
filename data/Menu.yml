@@ -39,7 +39,7 @@ verein:
   Submenu:
     Satzung:
       Name: "Satzung"
-      URL: "/vereinssatzung/satzung"
+      URL: "/verein/satzung/satzung"
     Kontakt:
       Name: "Kontakt"
       URL: "/verein/kontakt"
