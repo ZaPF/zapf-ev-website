@@ -10,3 +10,12 @@
 [submodule "content/verein/satzung"]
 	path = content/verein/satzung
 	url = https://github.com/ZaPF/Satzung_des_ZaPFev.git
+[submodule "content/zapf/kodex"]
+	path = content/zapf/kodex
+	url = https://github.com/ZaPF/verhaltenskodex
+[submodule "content/zapf/go"]
+	path = content/zapf/go
+	url = https://github.com/ZaPF/Geschaeftsordnung_ZaPF
+[submodule "content/zapf/satzung"]
+	path = content/zapf/satzung
+	url = https://github.com/ZaPF/Satzung_der_ZaPF
