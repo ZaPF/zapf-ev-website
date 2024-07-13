@@ -7,6 +7,6 @@
 [submodule "static/berichte"]
 	path = static/berichte
 	url = https://github.com/ZaPF/ZaPF_Berichte.git
-[submodule "static/vereinssatzung"]
-	path = static/vereinssatzung
+[submodule "content/verein/satzung"]
+	path = content/verein/satzung
 	url = https://github.com/ZaPF/Satzung_des_ZaPFev.git
