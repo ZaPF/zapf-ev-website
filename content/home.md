@@ -14,6 +14,6 @@ Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Ve
 
 
 Die Winter-ZaPF 2024 findet in Mainz statt. Geplant ist der Zeitraum vom 31. Oktober bis zum 03. November 2024.
-[Link zur Webseite der ZaPF in Mainz](https://zapf.in/mainz/)
+[Link zur Webseite der ZaPF in Mainz](https://zapf.in/mainz)
 
 
