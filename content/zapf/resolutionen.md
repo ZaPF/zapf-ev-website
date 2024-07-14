@@ -5,7 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
-| [Resolution Jetzt gemeinsame Lösungen für das Semesterticket finden](/resolutionen/wise23/Deutschlandticket/Resolution_Jetzt_gemeinsame_Loesungen_fuer_das_Semesterticket_finden.pdf) | 31.10.2023 |
+| [Resolution: Jetzt gemeinsame Lösungen für das Semesterticket finden](/resolutionen/wise23/Deutschlandticket/Resolution_Jetzt_gemeinsame_Loesungen_fuer_das_Semesterticket_finden.pdf) | 31.10.2023 |
 | [Resolution: Wissenschaftliche Kooperationen stärken](/resolutionen/wise23/International/Resolution_Wissenschaftliche_Kooperationen_staerken.pdf) | 31.10.2023 |
 | [Resolution zu Deutschkursen für internationale Studierende](/resolutionen/wise23/International/Resolution_zu_Deutschkursen_fuer_internationale_Studierende.pdf) | 31.10.2023 |
 | [Resolution zu TVStud und zum #Hochschulaktionstag](/resolutionen/wise23/Studentischer_Tarifvertrag/Resolution_TVStud_und_Hochschulaktionstag.pdf) | 31.10.2023 |
