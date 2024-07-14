@@ -9,19 +9,17 @@ Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die 
 
 Der StAPF besteht aktuell aus den folgenden fünf Studierenden:
 
-In der Amtsperiode Sommer 2023 bis Sommer 2024 (Gewählt: 1.5.2023 auf dem Abschlussplenum der Sommer-ZaPF 2023 in Berlin):
-
-- Katrin Katzenmeier
-- Teresa Hasler
-
-In der Amtsperiode Winter 2022 bis Winter 2023 (Gewählt: 31.10.2023 auf dem Abschlussplenum der Winter-ZaPF 2023 in Düsseldorf):
+In der Amtsperiode Winter 2023 bis Winter 2024 (Gewählt: 31.10.2023 auf dem Abschlussplenum der Winter-ZaPF 2023 in Düsseldorf):
 
 - Lukas Ulbricht
 - Benedikt Peter
 
-In der Amtsperiode Winter 2023 bis Sommer 2024 (Gewählt: 31.10.2023 auf dem Abschlussplenum der Winter-ZaPF 2023 in Düsseldorf; Nachwahl):
+In der Amtsperiode Sommer 2024 bis Sommer 2025 (Gewählt: 21.05.2024 auf dem Abschlussplenum der Sommer-ZaPF 2024 in Kiel):
 
-- Niklas Jamborek
+- Katrin Katzenmeier
+- Teresa Hasler
+- Moritz Fiech
+
 
 ## Mehr Informationen und Kontakt
 
