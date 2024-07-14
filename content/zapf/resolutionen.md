@@ -11,7 +11,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Resolution zu gendergerechter Sprache](/resolutionen/sose24/Gendern/Reso_Gendergerechte_Sprache.pdf) | 21.05.2024 |
 | [Resolution zum Aufruf anderer BuFaTas zur Unvereinbarkeit](/resolutionen/sose24/Unvereinbarkeit/Reso_Unvereinbarkeit_andere_Bufata.pdf) | 21.05.2024 |
 | [Resolution zum Bayerischen Gesetzentwurf zur Förderung der Bundeswehr](/resolutionen/sose24/Gesetzentwurf_Bundeswehr/Reso_Gesetzentwurf_Bundeswehr.pdf) | 21.05.2024 |
-| [Resolution zum vergünstigten Deutschlandticket](/resolutionen/sose24/Deutschlandticket) | 21.05.2024 |
+| [Resolution zum vergünstigten Deutschlandticket](/resolutionen/sose24/Deutschlandticket/Reso_Deutschlandticket.pdf) | 21.05.2024 |
 | [Resolution zur Umsetzung der schuldrechtlichen Vereinbarung](/resolutionen/sose24/TVStud/Reso_Schuldrechtliche_Vereinbarung.pdf) | 21.05.2024 |
 | [Anschluss an die Resolution "Teilzeitstudium" der KIF 51,5](/resolutionen/sose24/MeTaFa/KIF_Teilzeitstudium.pdf) | 21.05.2024 |
 | [Anschluss an die Resolutionen zum Gebäudeverfall der KIF 52,0](/resolutionen/sose24/MeTaFa/KIF_Gebaeudeverfall.pdf) | 21.05.2024 |
