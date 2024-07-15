@@ -7,7 +7,7 @@ theme = "zapf"
 [params]
 # You can use markdown here.
 brand = "ZaPF e.V."
-topline = "Zusammenkunft aller Physik-Fachschaften"
+topline = "Zusammenkunft aller Physik Fachschaften"
 
 # Sidebar position
 # false, true, "left", "right"
