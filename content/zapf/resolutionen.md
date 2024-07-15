@@ -5,6 +5,26 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution: No to dual-use orientation of research funding](/resolutionen/sose24/International/Reso_dual_use_funding.pdf) | 21.05.2024 |
+| [Resolution: Versöhnungsprozess angehen durch Forschungskooperation im Nahost-Konflikt](/resolutionen/sose24/International/Reso_Wisskoop_Nahost.pdf) | 21.05.2024 |
+| [Resolution gegen Ordnungsrecht](/resolutionen/sose24/Ordnungsrecht/Reso_Ordnungsrecht.pdf) | 21.05.2024 |
+| [Resolution zu gendergerechter Sprache](/resolutionen/sose24/Gendern/Reso_Gendergerechte_Sprache.pdf) | 21.05.2024 |
+| [Resolution zum Aufruf anderer BuFaTas zur Unvereinbarkeit](/resolutionen/sose24/Unvereinbarkeit/Reso_Unvereinbarkeit_andere_Bufata.pdf) | 21.05.2024 |
+| [Resolution zum Bayerischen Gesetzentwurf zur Förderung der Bundeswehr](/resolutionen/sose24/Gesetzentwurf_Bundeswehr/Reso_Gesetzentwurf_Bundeswehr.pdf) | 21.05.2024 |
+| [Resolution zum vergünstigten Deutschlandticket](/resolutionen/sose24/Deutschlandticket/Reso_Deutschlandticket.pdf) | 21.05.2024 |
+| [Resolution zur Umsetzung der schuldrechtlichen Vereinbarung](/resolutionen/sose24/TVStud/Reso_Schuldrechtliche_Vereinbarung.pdf) | 21.05.2024 |
+| [Anschluss an die Resolution "Teilzeitstudium" der KIF 51,5](/resolutionen/sose24/MeTaFa/KIF_Teilzeitstudium.pdf) | 21.05.2024 |
+| [Anschluss an die Resolutionen zum Gebäudeverfall der KIF 52,0](/resolutionen/sose24/MeTaFa/KIF_Gebaeudeverfall.pdf) | 21.05.2024 |
+| [Anschluss an die Resolution "Namensänderungen im Hochschulkontext" der KIF 52,0](/resolutionen/sose24/MeTaFa/KIF_Namesaenderung.pdf) | 21.05.2024 |
+| [Anschluss an die "Resolution zu fairen Prüfungsan- und Abmeldebedingungen" der KoMa 89](/resolutionen/sose24/MeTaFa/KoMa_Pruefungsanmeldung.pdf) | 21.05.2024 |
+| [Anschluss an die Resolution "Attestpflicht" der BuFaK WiWi](/resolutionen/sose24/MeTaFa/WiWi_Attestpflicht.pdf) | 21.05.2024 |
+| [Positionspapier: Mehr Leben an der Uni](/resolutionen/sose24/Hochschulintern/PosPa_Leben_an_der_Uni.pdf) | 21.05.2024 |
+| [Positionspapier zum Umgang der ZaPF mit Gendern](/resolutionen/sose24/Gendern/PosPa_Gendern.pdf) | 21.05.2024 |
+| [Selbstverpflichtung zur Unvereinbarkeit](/resolutionen/sose24/Unvereinbarkeit/Selbstverpflichtung_Unvereinbarkeit.pdf) | 21.05.2024 |
+| [Resolution: Mindestvertragslaufzeiten von studentisch Beschäftigten](/resolutionen/sose24/TVStud/Reso_Mindestvertragslaufzeit.pdf) | 20.05.2024 |
+| [Resolution: Tarifflucht verhindern, Arbeitsbedingungen studentischer Beschäftigter entprekarisieren](/resolutionen/sose24/TVStud/Reso_Tarifflucht_Stud.pdf) | 20.05.2024 |
+| [Positionspapier: "Nachhaltige Strukturen in Technik und Verwaltung schaffen"](/resolutionen/sose24/Hochschulintern/PosPa_Strukturen_Technik_Verwaltung.pdf) | 20.05.2024 |
+| [Positionspapier: Veröffentlichung von Vorlesungsevaluationen](/resolutionen/sose24/Evaluation/PosPa_Vorlesungsevaluation.pdf) | 20.05.2024 |
 | [Resolution: Jetzt gemeinsame Lösungen für das Semesterticket finden](/resolutionen/wise23/Deutschlandticket/Resolution_Jetzt_gemeinsame_Loesungen_fuer_das_Semesterticket_finden.pdf) | 31.10.2023 |
 | [Resolution: Wissenschaftliche Kooperationen stärken](/resolutionen/wise23/International/Resolution_Wissenschaftliche_Kooperationen_staerken.pdf) | 31.10.2023 |
 | [Resolution zu Deutschkursen für internationale Studierende](/resolutionen/wise23/International/Resolution_zu_Deutschkursen_fuer_internationale_Studierende.pdf) | 31.10.2023 |
