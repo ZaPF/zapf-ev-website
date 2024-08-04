@@ -23,6 +23,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 | [Selbstverpflichtung zur Unvereinbarkeit](/resolutionen/sose24/Unvereinbarkeit/Selbstverpflichtung_Unvereinbarkeit.pdf) | 21.05.2024 |
 | [Resolution: Mindestvertragslaufzeiten von studentisch Beschäftigten](/resolutionen/sose24/TVStud/Reso_Mindestvertragslaufzeit.pdf) | 20.05.2024 |
 | [Resolution: Tarifflucht verhindern, Arbeitsbedingungen studentischer Beschäftigter entprekarisieren](/resolutionen/sose24/TVStud/Reso_Tarifflucht_Stud.pdf) | 20.05.2024 |
+| [Resolution zur DPG-Stellungnahme zum Lehramtsstudium](/resolutionen/sose24/Lehramt/Reso_DPG_Lehramt.pdf) | 20.05.2024 |
 | [Positionspapier: "Nachhaltige Strukturen in Technik und Verwaltung schaffen"](/resolutionen/sose24/Hochschulintern/PosPa_Strukturen_Technik_Verwaltung.pdf) | 20.05.2024 |
 | [Positionspapier: Veröffentlichung von Vorlesungsevaluationen](/resolutionen/sose24/Evaluation/PosPa_Vorlesungsevaluation.pdf) | 20.05.2024 |
 | [Resolution: Jetzt gemeinsame Lösungen für das Semesterticket finden](/resolutionen/wise23/Deutschlandticket/Resolution_Jetzt_gemeinsame_Loesungen_fuer_das_Semesterticket_finden.pdf) | 31.10.2023 |
