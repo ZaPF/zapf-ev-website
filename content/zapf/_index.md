@@ -7,10 +7,6 @@ Die Zusammenkunft aller deutschsprachigen Physik-Fachschaften, kurz ZaPF, ist di
 
 ---
 
-### ZaPF im Sommersemester 2024 in Kiel
-
-Im Sommersemester 2024 wird die ZaPF vom 17. bis 21. Mai in Kiel stattfinden.
-
 ### ZaPF im Wintersemester 2024 in Mainz
 
 Im Wintersemester 2024 wird die ZaPF vom 31. Oktober bis zum 3. November in Mainz stattfinden.
@@ -21,10 +17,12 @@ Im Sommersemester 2025 wird die ZaPF vom 30. April bis 4. Mai in Erlangen stattf
 
 ### ZaPF im Wintersemester 2025 in Frankfurt am Main
 
-Im Wintersemester 2025 wird die ZaPF in Frankfurt am Main stattfinden.
+Im Wintersemester 2025 wird die ZaPF vom 31. Oktober bis 3. November in Frankfurt am Main stattfinden.
+
+### ZaPF im Sommersemester 2026 in Göttingen
+
+Im Sommersemester 2026 wird die ZaPF in Göttingen stattfinden.
 
 ---
 
 Die ZaPF unterhält als Arbeitsplattform ein Wiki, das vor allem als Arbeitsplattform während der ZaPFen dient und umfangreich über die Inhalte der ZaPF informiert. Auf der Unterseite Wiki finden sich mehr Informationen dazu.
-
-Im ZaPF-Wiki finden Sie auch die derzeit gültige Geschäftsordnung für Plenen der ZaPF.
