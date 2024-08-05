@@ -15,11 +15,11 @@ Im Sommersemester 2024 wird die ZaPF vom 17. bis 21. Mai in Kiel stattfinden.
 
 Im Wintersemester 2024 wird die ZaPF vom 31. Oktober bis zum 3. November in Mainz stattfinden.
 
-### ZaPF im Sommersemester 2024 in Erlangen
+### ZaPF im Sommersemester 2025 in Erlangen
 
 Im Sommersemester 2025 wird die ZaPF vom 30. April bis 4. Mai in Erlangen stattfinden.
 
-### ZaPF im Wintersemester 2024 in Frankfurt am Main
+### ZaPF im Wintersemester 2025 in Frankfurt am Main
 
 Im Wintersemester 2025 wird die ZaPF in Frankfurt am Main stattfinden.
 
