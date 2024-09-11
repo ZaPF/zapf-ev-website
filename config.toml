@@ -23,3 +23,14 @@ highlight = "default"
 
 # Sidebar social links.
 github = "ZaPF" # Your Github profile ID
+
+[module]
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+  [[module.mounts]]
+    source = 'content/zapf/satzung/satzung.md'
+    target = 'content/zapf/satzung.md'
+  [[module.mounts]]
+    source = 'content/zapf/go/go.md'
+    target = 'content/zapf/go.md'
