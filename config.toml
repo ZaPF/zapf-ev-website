@@ -34,3 +34,6 @@ github = "ZaPF" # Your Github profile ID
   [[module.mounts]]
     source = 'content/zapf/go/go.md'
     target = 'content/zapf/go.md'
+  [[module.mounts]]
+    source = 'content/zapf/kodex/verhaltenskodex.md'
+    target = 'content/zapf/kodex.md'
