@@ -5,6 +5,7 @@ title = "Kurzinformationen"
 
 Hier finden Sie das Archiv der Kurzinformationen zu den Ergebnissen der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
+- [WiSe 2024 Mainz](/dokumente/kurzinformation_mainz_wise24.pdf)
 - [SoSe 2024 Kiel](/dokumente/kurzinformation_kiel_sose24.pdf)
 - [WiSe 2023 Düsseldorf](/dokumente/kurzinformation_duesseldorf_wise23.pdf)
 - [SoSe 2023 Berlin](/dokumente/kurzinformation_berlin_sose23.pdf) 
