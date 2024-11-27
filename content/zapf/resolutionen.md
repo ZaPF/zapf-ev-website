@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution: Stellungnahme der ZaPF zur möglichen Änderung des DESY-Leitbildes](/resolutionen/wise24/DESY/Reso_Stellungnahme_DESY_Leitbild.pdf) | 02.11.2024 |
 | [Resolution: No to dual-use orientation of research funding](/resolutionen/sose24/International/Reso_dual_use_funding.pdf) | 21.05.2024 |
 | [Resolution: Versöhnungsprozess angehen durch Forschungskooperation im Nahost-Konflikt](/resolutionen/sose24/International/Reso_Wisskoop_Nahost.pdf) | 21.05.2024 |
 | [Resolution gegen Ordnungsrecht](/resolutionen/sose24/Ordnungsrecht/Reso_Ordnungsrecht.pdf) | 21.05.2024 |
