@@ -1,4 +1,4 @@
-﻿+++
++++
 title = "ZaPF e.V."
 type  = "home"
 +++
@@ -13,7 +13,7 @@ Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Ve
 ### ZaPF im Sommersemester 2025 in Erlangen
 
 
-Die Winter-ZaPF 2024 findet in Erlangen statt. Geplant ist der Zeitraum vom 30. April bis zum 04. Mai 2025.
-[Link zur Webseite der ZaPF in Erlangen](https://zapf.in/erlangen/)
+Die Sommer-ZaPF 2025 findet in Erlangen statt. Geplant ist der Zeitraum vom 30. April bis zum 04. Mai 2024.
+[Link zur Webseite der ZaPF in Erlangen](https://zapf.in/erlangen)
 
 
