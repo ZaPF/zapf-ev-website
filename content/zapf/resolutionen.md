@@ -5,7 +5,18 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution: Lokaler Aufruf BAföG](/resolutionen/wise24/Bafoeg/Reso_Lokaler_Aufruf_Bafoeg.pdf) | 02.11.2024 |
 | [Resolution: Stellungnahme der ZaPF zur möglichen Änderung des DESY-Leitbildes](/resolutionen/wise24/DESY/Reso_Stellungnahme_DESY_Leitbild.pdf) | 02.11.2024 |
+| [Resolution BAföG zu BVG Beschluss](/resolutionen/wise24/Bafoeg/Reso_Bafoeg_BVG.pdf) | 02.11.2024 |
+| [Resolution zum Bayrischen Ermäßigungsticket](/resolutionen/wise24/Deutschlandticket/Reso_Ermaessigungsticket_Bayern.pdf) | 02.11.2024 |
+| [Resolution zum D-Ticket JugendBW](/resolutionen/wise24/Deutschlandticket/Reso_DTicket_JugendBW.pdf) | 02.11.2024 |
+| [Resolution zur Preiserhöhung des deutschlandweiten Semestertickets](/resolutionen/wise24/Deutschlandticket/Reso_Deutschlandticket.pdf) | 02.11.2024 |
+| [Anschluss an die Pressemeldung des fzs zum aktuellen BAföG-Beschluss des BVerfG](/resolutionen/wise24/Bafoeg/Reso_fzs_PM_Bafoeg_BVerfG.pdf) | 02.11.2024 |
+| [Anschluss an die Resolution "Alle Bundesländer brauchen ein IFG" der KIF 52,5](/resolutionen/wise24/MeTaFa/KiF_IFG.pdf) | 02.11.2024 |
+| [Anschluss an die Resolution "Bereitstellung von Vorlesungsskripten" der KoMa 90](/resolutionen/wise24/MeTaFa/KoMa_Vorlesungsskripte.pdf) | 02.11.2024 |
+| [Anschluss an die "Resolution für die Finanzierung von Tutorien an Hochschulen" der KoMa 90](/resolutionen/wise24/MeTaFa/KoMa_Tutorien.pdf) | 02.11.2024 |
+| [Anschluss an die "Resolution für die Vergütung studentischer Beteiligung an Berufungskommissionen" der KoMa 90](/resolutionen/wise24/MeTaFa/KoMa_Berufungskommissionen.pdf) | 02.11.2024 |
+| [Positionspapier der ZaPF zum Entwurf zur Reform des Wissenschaftszeitvertragsgesetzes](/resolutionen/wise24/WissZeitVG/PosPa_WissZeitVG.pdf) | 02.11.2024 |
 | [Resolution: No to dual-use orientation of research funding](/resolutionen/sose24/International/Reso_dual_use_funding.pdf) | 21.05.2024 |
 | [Resolution: Versöhnungsprozess angehen durch Forschungskooperation im Nahost-Konflikt](/resolutionen/sose24/International/Reso_Wisskoop_Nahost.pdf) | 21.05.2024 |
 | [Resolution gegen Ordnungsrecht](/resolutionen/sose24/Ordnungsrecht/Reso_Ordnungsrecht.pdf) | 21.05.2024 |
