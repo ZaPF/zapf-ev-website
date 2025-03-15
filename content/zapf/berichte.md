@@ -5,6 +5,8 @@ title = "Berichte"
 
 Hier finden Sie das Archiv der Berichte der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
+- [WiSe 2024 (Mainz)](/berichte/WiSe24/Bericht_WiSe24_Mainz.pdf)
+- [SoSe 2024 (Kiel)](/berichte/SoSe24/Bericht_SoSe24_Kiel.pdf)
 - [WiSe 2023 (Düsseldorf)](/berichte/WiSe23/Bericht_WiSe23_Duesseldorf.pdf)
 - [SoSe 2023 (Berlin)](/berichte/SoSe23/Bericht_SoSe23_Berlin.pdf)
 - [WiSe 2022 (Hamburg)](/berichte/WiSe22/Bericht_WiSe22_Hamburg.pdf)
