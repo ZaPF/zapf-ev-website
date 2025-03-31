@@ -10,4 +10,4 @@ Hier finden Sie wichtige Dokumente des ZaPF e.V.:
 - [Förderrichtlinie Finanzschwache Fachschaften](/dokumente/Foerderrichtlinie-Finanzschwache-Fachschaften_05-24.pdf)
 - [Förderantrag Finanzschwache Fachschaften](/dokumente/FoerderantragFinanzschwacheFachschaften.pdf)
 - [Fahrtkostenrichtlinie des ZaPF e.V.](/dokumente/Fahrtkostenrichtlinie_05-24.pdf)
-- [Fahrtkostenantrag des ZaPF e.V.](https://pads.zapf.in/s/nk-rmOin8#)
+- [Fahrtkostenantrag des ZaPF e.V.](https://form.campai.com/CnRdizEc6bNl)
