@@ -5,6 +5,13 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution: Verwaltungsgebühren in Schleswig-Holstein verhindern](/resolutionen/sose25/Verwaltungsgebuehren/Resolution_Verwaltungsgebuehren_in_Schleswig-Holstein_verhindern.pdf) | 04.05.2025 |
+| [Resolution zu Verwaltungsgebühren an Hochschulen](/resolutionen/sose25/Verwaltungsgebuehren/Resolution_Verwaltungsgebuehren_an_Hochschulen.pdf) | 04.05.2025 |
+| [Resolution: Verbotsverfahren für die sogenannte „AfD“](/resolutionen/sose25/Verbotsverfahren/Resolution_Verbotsverfahren_AfD.pdf) | 04.05.2025 |
+| [Positionspapier zum „Umfang von Bachelorarbeiten im Physikstudium“](</resolutionen/sose25/Umfang Bachelorarbeiten/PosPa_Umfang_Bachelorarbeiten.pdf>) | 04.05.2025 |
+| [Resolution: Konsequenzen ziehen für den Erhalt und Wiederaufbau der palästinensischen Wissenschaft und Kultur](/resolutionen/sose25/Nahost/Konsequenzen_Erhalt_Wiederaufbau.pdf) | 04.05.2025 |
+| [Resolution: NRW-Hochschulgesetz](/resolutionen/sose25/Hochschulgesetze/Resolution_NRW_Hochschulgesetz.pdf) | 04.05.2025 |
+| [Resolution: Mitbestimmung ohne uns?](/resolutionen/sose25/Hochschulgesetze/Resolution_Mitbestimmung_ohne_uns.pdf) | 04.05.2025 |
 | [Resolution: Lokaler Aufruf BAföG](/resolutionen/wise24/Bafoeg/Reso_Lokaler_Aufruf_Bafoeg.pdf) | 02.11.2024 |
 | [Resolution: Stellungnahme der ZaPF zur möglichen Änderung des DESY-Leitbildes](/resolutionen/wise24/DESY/Reso_Stellungnahme_DESY_Leitbild.pdf) | 02.11.2024 |
 | [Resolution BAföG zu BVG Beschluss](/resolutionen/wise24/Bafoeg/Reso_Bafoeg_BVG.pdf) | 02.11.2024 |
