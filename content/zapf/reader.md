@@ -1,14 +1,16 @@
 +++
-date = "2016-01-28T22:50:11+01:00"
+date = "2025-08-20T19:00:00+01:00"
 title = "Tagungs-Reader der ZaPF"
 +++
 
 Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
+- SoSe 2025 (Erlangen - noch offen)
+- WiSe 2024 (Mainz - noch offen)
 - SoSe 2024 (Kiel - noch offen)
 - WiSe 2023 (Düsseldorf - noch offen)
 - SoSe 2023 (Berlin - noch offen)
-- WiSe 2022 (Hamburg) [Kurzfassung](/reader/2022_WiSe_Hamburg_Kurz.pdf) | Ausführliche Fassung (folgt)
+- WiSe 2022 (Hamburg) [Kurzfassung](/reader/2022_WiSe_Hamburg_Kurz.pdf) | Ausführliche Fassung noch offen
 - SoSe 2022 (Bochum - noch offen)
 - [WiSe 2021 (Göttingen et al.)](/reader/2021-WiSe_Goettingen_et_al.pdf)
 - SoSe 2021 (Ostsee (Rostock, Greifswald; Digital) - noch offen)
@@ -58,31 +60,24 @@ Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte al
 - WiSe 1999 (Jena – kein Reader!)
 - [SoSe 1999 (Karlsruhe)](/reader/1999-ss-reader_ka99.pdf)
 - WiSe 1998 (Osnabrück – kein Reader!)
-<!-- - [SoSe 1998 (Rostock)](/reader/1998-so-reader_ro98.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
-- SoSe 1998 (Rostock)
+- [SoSe 1998 (Rostock)](/reader/1998_SoSe_ss98_rostock.pdf)
 - WiSe 1997 (Bochum – kein Reader!)
 - [SoSe 1997 (Marburg)](/reader/1997-so-reader_ma97.pdf)
 - WiSe 1996 (Braunschweig)
-- SoSe 1996 (Chemnitz)
-<!-- - [WiSe 1995 (Bonn)](/reader/1995-wi-reader_bn95.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
-- WiSe 1995 (Bonn)
-<!-- - [SoSe 1995 (Hannover)](/reader/1995-so-reader_ha95.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
-- SoSe 1995 (Hannover)
-<!-- - [WiSe 1994 (Heidelberg)](/reader/1994-wi-reader_hb94.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
-- WiSe 1994 (Heidelberg)
+- [SoSe 1996 (Chemnitz, nur ein AK)](/reader/1996-so-chemnitz_protokoll_ak_studium.pdf)
+- [WiSe 1995 (Bonn)](/reader/1995_WS_ws95_bonn.pdf)
+- [SoSe 1995 (Hannover)](/reader/1995_SoSe_ss95_hannover.pdf)
+- [WiSe 1994 (Heidelberg)](/reader/1994_WS_ws94_heidelberg.pdf)
 - [SoSe 1994 (Regensburg)](/reader/1994-so-reader_re94.pdf)
-<!-- - [WiSe 1993 (Stuttgart)](/reader/1993-wi-reader_st93.pdf) , Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
-- WiSe 1993 (Stuttgart)
-<!-- - [SoSe 1993 (Dortmund)](/reader/1993-so-reader_do93.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
-- SoSe 1993 (Dortmund)
+- [WiSe 1993 (Stuttgart)](/reader/1993-wi-stuttgart_reader_V2.pdf)
+- [SoSe 1993 (Dortmund)](/reader/1993_SoSe_ss93_dortmund.pdf)
 - [WiSe 1992 (München)](/reader/1992-wi-reader_mu92.pdf)
 - [SoSe 1992 (Braunschweig)](/reader/1992-so-reader_bw92.pdf)
-- WiSe 1991 (Mainz)
+- [WiSe 1991 (Mainz)](/reader/1991-WiSe-Mainz.pdf)
 - [SoSe 1991 (Marburg)](/reader/1991-so-reader_ma91.pdf)
 - [WiSe 1990 (Kaiserslautern)](/reader/1990-ws-kaiserslautern-reader.pdf)
 - [SoSe 1990 (Würzburg)](/reader/1990-so-wuerzburg.pdf)
-<!-- [WiSe 1989 (Berlin)](/reader/1989-wi-berlin.pdf), Link  kaputt, deswegen entfernt. AK Wikipflege WiSe23 -->
-- WiSe 1989 (Berlin)
+- [WiSe 1989 (Berlin)](/reader/1989_WS_berlin.pdf)
 - SoSe 1989 (Bochum)
 - [WiSe 1988 (Tübingen)](/reader/1988-ws-tuebingen.pdf)
 - [SoSe 1988 (Göttingen)](/reader/1988-so-goettingen.pdf)
@@ -90,8 +85,8 @@ Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte al
 - [SoSe 1987 (Aachen)](/reader/1987-ss-reader_aa87.pdf)
 - [WiSe 1986 (Kaiserslautern)](/reader/1986-wi-Kaiserslautern_Wi86.pdf)
 - [SoSe 1986 (Braunschweig)](/reader/1986_so-Braunschweig_So86.pdf)
-- WiSe 1985
-- SoSe 1985
+- [WiSe 1985 (Duisburg)[/reader/1985-wi-duisburg.pdf]
+- [SoSe 1985 (München)](/reader/1985-so-tu_münchen_einladung .pdf)
 - [WiSe 1984 (Bonn)](/reader/1984_wsBonn_Wi84.pdf)
 - [SoSe 1984 (Konstanz)](/reader/1984-so-Konstanz_So84.pdf)
 - [WiSe 1983 (Darmstadt)](/reader/1983-ws-Darmstadt_Wi83.pdf)
