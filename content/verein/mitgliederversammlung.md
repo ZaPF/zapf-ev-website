@@ -5,7 +5,8 @@ title = "Mitgliederversammlung"
 
 Hier finden Sie die Protokolle der letzten Mitgliederversammlungen des ZaPF e.V.:
 
-- Mitgliederversammlung 01.11.2024 Mainz (Genehmigung steht aus)
+- Mitgliederversammlung 01.05.2024 Erlangen (Genehmigung steht aus)
+- [Mitgliederversammlung 01.11.2024 Mainz](/protokolle/Protokoll_MV_2024_11_01_Mainz.pdf)
 - [Mitgliederversammlung 19.05.2024 Kiel](/protokolle/Protokoll_MV_2024_05_19_Kiel.pdf)
 - [Mitgliederversammlung 28.10.2023 Düsseldorf](/protokolle/Protokoll_MV_2023_10_28_Duesseldorf.pdf)
 - [Mitgliederversammlung 30.04.2023 Berlin](/protokolle/Protokoll_MV_2023_04_30_Berlin.pdf)
