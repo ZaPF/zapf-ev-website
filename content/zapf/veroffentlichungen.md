@@ -1,10 +1,11 @@
 +++
-date = "2023-07-26T19:37:38+01:00"
+date = "2025-09-27T11:01:00+01:00"
 title = "Kurzinformationen"
 +++
 
 Hier finden Sie das Archiv der Kurzinformationen zu den Ergebnissen der vergangenen Zusammenkünfte aller Physik Fachschaften.
 
+- [SoSe 2025 Erlangen](/dokumente/kurzinformation_erlangen_sose25.pdf)
 - [WiSe 2024 Mainz](/dokumente/kurzinformation_mainz_wise24.pdf)
 - [SoSe 2024 Kiel](/dokumente/kurzinformation_kiel_sose24.pdf)
 - [WiSe 2023 Düsseldorf](/dokumente/kurzinformation_duesseldorf_wise23.pdf)

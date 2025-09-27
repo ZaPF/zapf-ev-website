@@ -10,10 +10,10 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Sommersemester 2025 in Erlangen
+### ZaPF im Wintersemester 2025 in Frankfurt am Main
 
 
-Die Sommer-ZaPF 2025 findet in Erlangen statt. Geplant ist der Zeitraum vom 30. April bis zum 04. Mai 2024.
-[Link zur Webseite der ZaPF in Erlangen](https://zapf.in/erlangen)
+Die Winter-ZaPF 2026 findet in Frankfurt am Main statt. Geplant ist der Zeitraum vom 31. Oktober bis zum 03. November 2025.
+[Link zur Webseite der ZaPF in Frankfurt am Main](https://zapf.in/frankfurt)
 
 
