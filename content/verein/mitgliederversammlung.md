@@ -1,17 +1,18 @@
 +++
-date = "2024-06-02T10:45:00+02:00"
+date = "2025-12-09T15:55:00+01:00"
 title = "Mitgliederversammlung"
 +++
 
 Hier finden Sie die Protokolle der letzten Mitgliederversammlungen des ZaPF e.V.:
 
-- Mitgliederversammlung 01.05.2024 Erlangen (Genehmigung steht aus)
-- [Mitgliederversammlung 01.11.2024 Mainz](/protokolle/Protokoll_MV_2024_11_01_Mainz.pdf)
-- [Mitgliederversammlung 19.05.2024 Kiel](/protokolle/Protokoll_MV_2024_05_19_Kiel.pdf)
-- [Mitgliederversammlung 28.10.2023 Düsseldorf](/protokolle/Protokoll_MV_2023_10_28_Duesseldorf.pdf)
-- [Mitgliederversammlung 30.04.2023 Berlin](/protokolle/Protokoll_MV_2023_04_30_Berlin.pdf)
-- [Mitgliederversammlung 28.01.2023 Marburg](/protokolle/Protokoll_MV_2023_01_28_Marburg.pdf)
-- [Mitgliederversammlung 06.06.2022 Bochum](/protokolle/Protokoll_MV_2022_06_06_Bochum.pdf)
+- Mitgliederversammlung 02.11.2025 in Frankfurt (Genehmigung steht aus)
+- [Mitgliederversammlung 01.05.2025 in Erlangen](/protokolle/Protokoll_MV_2025_05_01_Erlangen.pdf)
+- [Mitgliederversammlung 01.11.2024 in Mainz](/protokolle/Protokoll_MV_2024_11_01_Mainz.pdf)
+- [Mitgliederversammlung 19.05.2024 in Kiel](/protokolle/Protokoll_MV_2024_05_19_Kiel.pdf)
+- [Mitgliederversammlung 28.10.2023 in Düsseldorf](/protokolle/Protokoll_MV_2023_10_28_Duesseldorf.pdf)
+- [Mitgliederversammlung 30.04.2023 in Berlin](/protokolle/Protokoll_MV_2023_04_30_Berlin.pdf)
+- [Mitgliederversammlung 28.01.2023 in Marburg](/protokolle/Protokoll_MV_2023_01_28_Marburg.pdf)
+- [Mitgliederversammlung 06.06.2022 in Bochum](/protokolle/Protokoll_MV_2022_06_06_Bochum.pdf)
 - [Mitgliederversammlung 13.11.2021 online](/protokolle/Protokoll_MV_2021_11_13_online.pdf)
 - [Mitgliederversammlung 27.06.2021 online](/protokolle/Protokoll_MV_2021_06_27_online.pdf)
 - [Mitgliederversammlung 20.05.2021 Rostock](/protokolle/Protokoll_MV_2021_05_20_Rostock.pdf)

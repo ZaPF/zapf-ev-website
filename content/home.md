@@ -1,4 +1,5 @@
 +++
+date = "2025-12-09T15:55:00+01:00"
 title = "ZaPF e.V."
 type  = "home"
 +++
@@ -10,10 +11,10 @@ Wenn von der ZaPF die Rede ist, ist meist die Zusammenkunft aller (deutschsprach
 Der Verein - ZaPF e.V. - wird unter dem Menüpunkt [Der Verein](./verein "Der Verein") genauer vorgestellt.
 
 ---
-### ZaPF im Wintersemester 2025 in Frankfurt am Main
+### ZaPF im Sommersemester 2026 in Göttingen
 
 
-Die Winter-ZaPF 2026 findet in Frankfurt am Main statt. Geplant ist der Zeitraum vom 31. Oktober bis zum 03. November 2025.
-[Link zur Webseite der ZaPF in Frankfurt am Main](https://zapf.in/frankfurt)
+Die Sommer-ZaPF 2026 findet in Göttingen statt. Geplant ist der Zeitraum vom 13. bis zum 17. Mai 2026.
+[Link zur Webseite der ZaPF in Göttingen](https://zapf.in/goettingen)
 
 
