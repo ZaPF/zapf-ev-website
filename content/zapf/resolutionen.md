@@ -5,6 +5,10 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Positionspapier Gerätebörse](/resolutionen/wise25/Positionspapier-Weiternutzung/Positionspapier_Geraeteboerse.pdf) | 03.11.2025 |
+| [Resolution: Niederschwellige Weiternutzung technischer Infrastruktur](/resolutionen/wise25/Reso-Weiternutzung/Resolution_Niederschwellige_Weiternutzung.pdf) | 03.11.2025 |
+| [Resolution: Globale Entwicklung durch offene Wissenschaft statt Wissenschafts-Protektionismus und Feindbild-Bildung](/resolutionen/wise25/Globale-Entwicklungen/Resolution_Globale_Entwicklung.pdf) | 03.11.2025 |
+| [Resolution: Erhalt des 8-Stunden Tags](/resolutionen/wise25/8-Stunden-Tag/Reso_8h-Tag.pdf) | 02.11.2025 
 | [Resolution: Verwaltungsgebühren in Schleswig-Holstein verhindern](/resolutionen/sose25/Verwaltungsgebuehren/Resolution_Verwaltungsgebuehren_in_Schleswig-Holstein_verhindern.pdf) | 04.05.2025 |
 | [Resolution zu Verwaltungsgebühren an Hochschulen](/resolutionen/sose25/Verwaltungsgebuehren/Resolution_Verwaltungsgebuehren_an_Hochschulen.pdf) | 04.05.2025 |
 | [Resolution: Verbotsverfahren für die sogenannte „AfD“](/resolutionen/sose25/Verbotsverfahren/Resolution_Verbotsverfahren_AfD.pdf) | 04.05.2025 |
