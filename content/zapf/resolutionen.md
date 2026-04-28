@@ -5,6 +5,9 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Anschluss an Resolution „Anonymisierung von Klausuren“ der 93. KoMa](/resolutionen/wise25/Anschluesse/Anschluss_Anonymisierung.pdf) | 03.11.2025 |
+| [Anschluss an den offenen Brief der GEW, ver.di und der LAK-Hessen zu den Hochschulkürzungen in Hessen](/resolutionen/wise25/Anschluesse/Anschluss_Kuerzung.pdf) | 03.11.2025 |
+| [Anschluss an die Resolution „US Abhängigkeiten reduzieren“ der 53. KIF und der 92. KoMa](/resolutionen/wise25/Anschluesse/Anschluss_USAbh.pdf) | 03.11.2025 |
 | [Positionspapier Gerätebörse](/resolutionen/wise25/Positionspapier-Weiternutzung/Positionspapier_Geraeteboerse.pdf) | 03.11.2025 |
 | [Resolution: Niederschwellige Weiternutzung technischer Infrastruktur](/resolutionen/wise25/Reso-Weiternutzung/Resolution_Niederschwellige_Weiternutzung.pdf) | 03.11.2025 |
 | [Resolution: Globale Entwicklung durch offene Wissenschaft statt Wissenschafts-Protektionismus und Feindbild-Bildung](/resolutionen/wise25/Globale-Entwicklungen/Resolution_Globale_Entwicklung.pdf) | 03.11.2025 |
