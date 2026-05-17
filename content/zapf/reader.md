@@ -85,8 +85,8 @@ Hier finden Sie das Archiv der Tagungs-Reader der vergangenen Zusammenkünfte al
 - [SoSe 1987 (Aachen)](/reader/1987-ss-reader_aa87.pdf)
 - [WiSe 1986 (Kaiserslautern)](/reader/1986-wi-Kaiserslautern_Wi86.pdf)
 - [SoSe 1986 (Braunschweig)](/reader/1986_so-Braunschweig_So86.pdf)
-- [WiSe 1985 (Duisburg)[/reader/1985-wi-duisburg.pdf]
-- [SoSe 1985 (München)](/reader/1985-so-tu_münchen_einladung .pdf)
+- [WiSe 1985 (Duisburg)](/reader/1985-wi-duisburg.pdf)
+- [SoSe 1985 (München)](</reader/1985-so-tu_münchen_einladung .pdf>)
 - [WiSe 1984 (Bonn)](/reader/1984_wsBonn_Wi84.pdf)
 - [SoSe 1984 (Konstanz)](/reader/1984-so-Konstanz_So84.pdf)
 - [WiSe 1983 (Darmstadt)](/reader/1983-ws-Darmstadt_Wi83.pdf)
