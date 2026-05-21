@@ -9,13 +9,13 @@ Der *Ständige Ausschuss der Physik-Fachschaften*, kurz der StAPF, vertritt die 
 
 Der StAPF besteht aktuell aus den folgenden fünf Studierenden:
 
-In der Amtsperiode Sommer 2025 bis Sommer 2026 (Gewählt: 04.05.2025 auf dem Abschlussplenum der Sommer-ZaPF 2025 in Erlangen):
+In der Amtsperiode Sommer 2026 bis Sommer 2027 (Gewählt: 16.05.2026 auf dem Abschlussplenum der Sommer-ZaPF 2026 in Göttingen):
 
-- Katrin Katzenmeier
-- Mio Folger
-- Moritz Fiech
+- Fabian Kandler
+- Feyza Nur Köse
+- Günther Klaus Heemann
 
-In der Amtsperiode Winter 2024 bis Winter 2025 (Gewählt: 02.11.2025 auf dem Abschlussplenum der Winter-ZaPF 2025 in Frankfurt):
+In der Amtsperiode Winter 2025 bis Winter 2026 (Gewählt: 02.11.2025 auf dem Abschlussplenum der Winter-ZaPF 2025 in Frankfurt):
 
 - Amélie Mink
 - Elias Best
