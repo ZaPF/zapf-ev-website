@@ -1,11 +1,12 @@
 +++
-date = "2025-12-09T15:55:00+01:00"
 title = "Mitgliederversammlung"
+date = "2026-05-21T19:30:00+02:00"
 +++
 
 Hier finden Sie die Protokolle der letzten Mitgliederversammlungen des ZaPF e.V.:
 
-- Mitgliederversammlung 02.11.2025 in Frankfurt (Genehmigung steht aus)
+- Mitgliederversammlung 14.05.2026 in Göttingen (Genehmigung steht aus)
+- [Mitgliederversammlung 02.11.2025 in Frankfurt](/protokolle/Protokoll_MV_2025_11_02_Frankfurt.pdf)
 - [Mitgliederversammlung 01.05.2025 in Erlangen](/protokolle/Protokoll_MV_2025_05_01_Erlangen.pdf)
 - [Mitgliederversammlung 01.11.2024 in Mainz](/protokolle/Protokoll_MV_2024_11_01_Mainz.pdf)
 - [Mitgliederversammlung 19.05.2024 in Kiel](/protokolle/Protokoll_MV_2024_05_19_Kiel.pdf)
