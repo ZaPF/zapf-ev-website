@@ -4,11 +4,11 @@ title = "Impressum"
 +++
 Verantwortlich für diese Website (https://www.zapfev.de) im Sinne von § 5 des Telemediengesetzes (TMG) ist:
 
-Zusammenkunft aller Physik Fachschaften e.V.
-c/o Deutsche Physikalische Gesellschaft e.V.
-Hauptstraße 5 
-53604 Bad Honnef
-Internet: https://www.zapfev.de
+Zusammenkunft aller Physik Fachschaften e.V.  
+c/o Deutsche Physikalische Gesellschaft e.V.  
+Hauptstraße 5  
+53604 Bad Honnef  
+Internet: https://www.zapfev.de  
 E-Mail: [vorstand@zapfev.de](mailto:vorstand@zapfev.de)
 
 ## Vertretungsberechtigter Vorstand
