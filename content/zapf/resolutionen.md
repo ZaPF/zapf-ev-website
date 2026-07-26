@@ -5,6 +5,7 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [PosPa BAföG für ALLE!](/resolutionen/sose26/PosPaBafoeG/PosPa_Bafoeg_fuer_alle.pdf) | 17.05.2026 |
 | [Anschluss zu „Resolution gegen Studiendauerbegrenzung“ der 92. KoMa](/resolutionen/wise25/Anschluesse/Anschluss_Studiendauerbegrenzung.pdf) | 03.11.2025 |
 | [Anschluss an „Resolution für vegane Mensen“ der 92. KoMa und „Resolutionen/Vergünstigtes Mittagessen“ der 53,0. KIF](/resolutionen/wise25/Anschluesse/Anschluss_vegane_mensen.pdf) | 03.11.2025 |
 | [Anschluss an Resolution „Anonymisierung von Klausuren“ der 93. KoMa](/resolutionen/wise25/Anschluesse/Anschluss_Anonymisierung.pdf) | 03.11.2025 |
