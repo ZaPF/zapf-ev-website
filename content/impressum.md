@@ -17,8 +17,9 @@ E-Mail: [vorstand@zapfev.de](mailto:vorstand@zapfev.de)
 
 ## Vereinsregistereintrag
 
-Der Verein Zusammenkunft aller Physik Fachschaften (ZaPF) ist beim AG Frankfurt/Main auf dem Registerblatt VR 14547 eingetragen.
-Von 1999 bis 2010 war der Sitz des Vereines in Bochum. Die Eintragung beim Amtsgericht Bochum erfolgte seinerzeit auf dem Registerblatt VR 3175.
+Der Verein Zusammenkunft aller Physik Fachschaften (ZaPF) ist beim AG Siegburg auf dem Registerblatt VR 4151 eingetragen.
+Von 2010 bis 2026 war der Sitz des Vereines in Frankfurt/Main. Die Eintragung beim AG Frankfurt/Main erfolgte seinerzeit auf dem Registerblatt VR 14547.
+Von 1999 bis 2010 war der Sitz des Vereines in Bochum. Die Eintragung beim AG Bochum erfolgte seinerzeit auf dem Registerblatt VR 3175.
 
 ## Freistellungsbescheid
 
