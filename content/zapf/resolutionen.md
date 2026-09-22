@@ -5,7 +5,22 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
+| [Resolution: NEIN zur Wehrpflicht](resolutionen/sose26/Resolution_NEIN_zur_Wehrpflicht/Resolution_NEIN_zur_Wehrpflicht.pdf) | 17.05.2026 |
+| [Resolution: Kuba Solidarität](resolutionen/sose26/Resolution_Kuba_Solidaritaet/Resolution_Kuba_Solidaritaet.pdf) | 17.05.2026 |
+| [Resolution: Kein TV Stud ist auch keine Lösung](resolutionen/sose26/Resolution_Kein_TV_Stud_ist_auch_keine_Loesung/Resolution_Kein_TV_Stud_ist_auch_keine_Loesung.pdf) | 17.05.2026 |
+| [Resolution zur geplanten Änderung des Niedersächsischen Hochschulgesetzes](resolutionen/sose26/Resolution_Niedersaechsisches_HG/Resolution_Niedersaechsisches_HG.pdf)| 17.05.2026 |
+| [Resolution gegen die Wiederbesetzungssperre an der CAU zu Kiel](resolutionen/sose26/Resolution_WIederbesetzungssperre_CAU/Resolution_WIederbesetzungssperre_CAU.pdf)| 17.05.2026 |
+| [Resolution gegen die Exzellenzstrategie des Bundes](/resolutionen/sose26/Resolution_Exzellenzstrategie/Resolution_Exzellenzstrategie.pdf) | 17.05.2026 |
+| [Resolution gegen das geplante Berliner Hochschulbaugesellschaftsgesetz](/resolutionen/sose26/Berlin%20Hochschulbau%20Gesetz/Reso_Berliner_Hochschulbaugesellschaftsgesetz.pdf) | 17.05.2026 |
 | [PosPa BAföG für ALLE!](/resolutionen/sose26/PosPaBafoeG/PosPa_Bafoeg_fuer_alle.pdf) | 17.05.2026 |
+| [Anschluss an die „Stellungnahme der 71. BuFaTaChemie zu der Stadtbildaussage von Bundeskanzler Friedrich Merz“](/resolutionen/sose26/Anschluss_Chemie_Stadtbildaussage/Anschluss_Chemie_Stadtbildaussage.pdf) | 16.05.2026 |
+| [Anschluss an die „Stellungnahmezur Anwesenheitspflicht an Hochschulen“ der BuFaTa Biologie](/resolutionen/sose26/Anschluss_Bio_Anwesenheitspflicht/Anschluss_Bio_Anwesenheitspflicht.pdf) | 16.05.2026 |
+| [Anschluss an die Resolution "Hohe Mieten" der KIF](/resolutionen/sose26/Anschluss_KIF_Mieten/Anschluss_KIF_Mieten.pdf) | 16.05.2026 |
+| [Anschluss an die "Resolution zur Regelstudienzeit" der Komet](/resolutionen/sose26/Anschluss_KOMET_Regelstudienzeit/Anschluss_KOMET_Regelstudienzeit.pdf) | 16.05.2026 |
+| [Anschluss an die Resolution “Data Mining der Bevölkerung” der KIF](/resolutionen/sose26/Anschluss_KIF_Data_Mining/Anschluss_KIF_Data_Mining.pdf) | 16.05.2026 |
+| [Anschluss an die “Stellungnahme der Psychologie-Fachschaften-Konferenz e.V. (PsyFaKo),des Forums für Psychotherapeut\*innen in Weiterbildung (PtWForum) und des PiA-Politik-Treffens (PPT) zu den Honorarkürzungen in der ambulanten Psychotherapie”](/resolutionen/sose26/Anschluss_PsyFaKo_Stellungnahme_Psychotherapie/Anschluss_PsyFaKo_Stellungnahme_Psychotherapie.pdf) | 16.05.2026 |
+| [Anschluss zur Resolution "zum Vorschlag zur Änderung des Behindertengleichstellungsgesetzes (BGG) der Bundesregierung" der 72. BuFaTaChemie](/resolutionen/sose26/Anschluss_Chemie_BGG/Anschluss_Chemie_BGG.pdf) | 16.05.2026 |
+| [Resolution: Zum Schutz von Studierendenschaften](/resolutionen/sose26/Resoution_Schutz_von_StudSchaften/Resoution_Schutz_von_StudSchaften.pdf) | 16.05.2026 |
 | [Anschluss zu „Resolution gegen Studiendauerbegrenzung“ der 92. KoMa](/resolutionen/wise25/Anschluesse/Anschluss_Studiendauerbegrenzung.pdf) | 03.11.2025 |
 | [Anschluss an „Resolution für vegane Mensen“ der 92. KoMa und „Resolutionen/Vergünstigtes Mittagessen“ der 53,0. KIF](/resolutionen/wise25/Anschluesse/Anschluss_vegane_mensen.pdf) | 03.11.2025 |
 | [Anschluss an Resolution „Anonymisierung von Klausuren“ der 93. KoMa](/resolutionen/wise25/Anschluesse/Anschluss_Anonymisierung.pdf) | 03.11.2025 |
