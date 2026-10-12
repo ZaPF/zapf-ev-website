@@ -5,11 +5,12 @@ title = "Kürzlich veröffentlichte Resolutionen"
 
 |Titel | Veröffentlicht am |
 |---|---|
-| [Resolution: NEIN zur Wehrpflicht](resolutionen/sose26/Resolution_NEIN_zur_Wehrpflicht/Resolution_NEIN_zur_Wehrpflicht.pdf) | 17.05.2026 |
-| [Resolution: Kuba Solidarität](resolutionen/sose26/Resolution_Kuba_Solidaritaet/Resolution_Kuba_Solidaritaet.pdf) | 17.05.2026 |
-| [Resolution: Kein TV Stud ist auch keine Lösung](resolutionen/sose26/Resolution_Kein_TV_Stud_ist_auch_keine_Loesung/Resolution_Kein_TV_Stud_ist_auch_keine_Loesung.pdf) | 17.05.2026 |
-| [Resolution zur geplanten Änderung des Niedersächsischen Hochschulgesetzes](resolutionen/sose26/Resolution_Niedersaechsisches_HG/Resolution_Niedersaechsisches_HG.pdf)| 17.05.2026 |
-| [Resolution gegen die Wiederbesetzungssperre an der CAU zu Kiel](resolutionen/sose26/Resolution_WIederbesetzungssperre_CAU/Resolution_WIederbesetzungssperre_CAU.pdf)| 17.05.2026 |
+| [Stellungnahme zum Referentenentwurf eines Gesetzes zur Modernisierung des Befristungsrechts im Wissenschaftsbereich](/resolutionen/sose26/Stellungnahme_WissZeitVG/StellungnahmeWissZeitVG2026.pdf) | 15.06.2026 |
+| [Resolution: NEIN zur Wehrpflicht](/resolutionen/sose26/Resolution_NEIN_zur_Wehrpflicht/Resolution_NEIN_zur_Wehrpflicht.pdf) | 17.05.2026 |
+| [Resolution: Kuba Solidarität](/resolutionen/sose26/Resolution_Kuba_Solidaritaet/Resolution_Kuba_Solidaritaet.pdf) | 17.05.2026 |
+| [Resolution: Kein TV Stud ist auch keine Lösung](/resolutionen/sose26/Resolution_Kein_TV_Stud_ist_auch_keine_Loesung/Resolution_Kein_TV_Stud_ist_auch_keine_Loesung.pdf) | 17.05.2026 |
+| [Resolution zur geplanten Änderung des Niedersächsischen Hochschulgesetzes](/resolutionen/sose26/Resolution_Niedersaechsisches_HG/Resolution_Niedersaechsisches_HG.pdf)| 17.05.2026 |
+| [Resolution gegen die Wiederbesetzungssperre an der CAU zu Kiel](/resolutionen/sose26/Resolution_WIederbesetzungssperre_CAU/Resolution_WIederbesetzungssperre_CAU.pdf)| 17.05.2026 |
 | [Resolution gegen die Exzellenzstrategie des Bundes](/resolutionen/sose26/Resolution_Exzellenzstrategie/Resolution_Exzellenzstrategie.pdf) | 17.05.2026 |
 | [Resolution gegen das geplante Berliner Hochschulbaugesellschaftsgesetz](/resolutionen/sose26/Berlin%20Hochschulbau%20Gesetz/Reso_Berliner_Hochschulbaugesellschaftsgesetz.pdf) | 17.05.2026 |
 | [PosPa BAföG für ALLE!](/resolutionen/sose26/PosPaBafoeG/PosPa_Bafoeg_fuer_alle.pdf) | 17.05.2026 |
