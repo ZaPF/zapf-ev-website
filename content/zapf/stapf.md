@@ -15,9 +15,9 @@ In der Amtsperiode Sommer 2026 bis Sommer 2027 (Gewählt: 16.05.2026 auf dem Abs
 - Feyza Nur Köse
 - Günther Klaus Heemann
 
-In der Amtsperiode Winter 2025 bis Winter 2026 (Gewählt: 02.11.2025 auf dem Abschlussplenum der Winter-ZaPF 2025 in Frankfurt):
+In der Amtsperiode Winter 2026 bis Winter 2027 (Gewählt: 14.11.2026 auf dem Zwischenplenum der Winter-ZaPF 2026 in Hamburg):
 
-- Amélie Mink
+- Mio Folger
 - Elias Best
 
 
