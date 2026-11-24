@@ -12,8 +12,6 @@ jobs:
     steps:
       - run: apk add --no-cache docker-cli docker-cli-buildx
       - uses: actions/checkout@v7
-        with:
-          submodules: 'true'
       - run: docker build --pull -t $TAG .
       - uses: docker/login-action@v3
         with:
