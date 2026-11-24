@@ -1,4 +1,4 @@
-FROM alpine:3.19.1 as bobthebuilder
+FROM alpine:3.19.1 AS bobthebuilder
 RUN apk add hugo git imagemagick rsvg-convert make py3-docutils
 ADD . /build
 WORKDIR /build
