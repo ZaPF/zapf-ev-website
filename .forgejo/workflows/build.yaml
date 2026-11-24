@@ -11,6 +11,8 @@ jobs:
       TAG: forgejo.zapf.in/topf/zapf-ev-website:latest
     steps:
       - run: apk add --no-cache docker-cli docker-cli-buildx
+        with:
+          submodules: 'true'
       - uses: actions/checkout@v7
       - run: docker build --pull -t $TAG .
       - uses: docker/login-action@v3
