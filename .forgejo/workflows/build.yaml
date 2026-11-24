@@ -1,0 +1,20 @@
+on:
+  push:
+    branches:
+      - ['main']
+
+jobs:
+  build:
+    runs-on: node
+    env:
+      TAG: forgejo.zapf.in/topf/zapf-ev-website:latest
+    steps:
+      - run: apk add --no-cache docker-cli docker-cli-buildx
+      - uses: actions/checkout@v7
+      - run: docker build --pull -t $TAG .
+      - uses: docker/login-action@v3
+        with:
+          registry: forgejo.zapf.in
+          username: deckel
+          password: ${{ secrets.REGISTRY_TOKEN }}
+      - run: docker push $TAG
