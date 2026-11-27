@@ -7,15 +7,20 @@ on:
 jobs:
   build:
     runs-on: node
-    env:
-      TAG: forgejo.zapf.in/topf/zapf-ev-website:latest
     steps:
-      - run: apk add --no-cache docker-cli docker-cli-buildx
-      - uses: actions/checkout@v7
-      - run: docker build --pull -t $TAG .
+      - run: apk add docker-cli
+      - uses: docker/setup-buildx-action@v4
       - uses: docker/login-action@v3
         with:
           registry: forgejo.zapf.in
           username: deckel
           password: ${{ secrets.REGISTRY_TOKEN }}
-      - run: docker push $TAG
+      - id: meta
+        uses: docker/metadata-action@v6
+        with:
+          images: forgejo.zapf.in/${{ forgejo.repository }}
+          tags: type=raw,value=latest
+      - uses: docker/build-push-action@v7
+        with:
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
